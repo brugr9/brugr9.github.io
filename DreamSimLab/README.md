@@ -77,11 +77,11 @@ The map `DreamSimLab` is a copy from plugin VIRLA's map `RaumBern` supplemented 
 
 |![Screenshot of Map DreamSimLab](Docs/Screenshot-Map-DreamSimLab.jpg "Screenshot of Map DreamSimLab")|
 |:--:|
-|<b>Fig.: Screenshot of Map DreamSimLab</b>|
+|**Fig.: Screenshot of Map DreamSimLab**|
 
 |![Screenshot of WorldSettings Lightmass](Docs/UE4-WorldSettings-Lightmass.jpg "Screenshot of WorldSettings Lightmass")|
 |:--:|
-|<b>Fig.: Screenshot of WorldSettings Lightmass</b>|
+|**Fig.: Screenshot of WorldSettings Lightmass**|
 
 ## A. References
 

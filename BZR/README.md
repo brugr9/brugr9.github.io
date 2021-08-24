@@ -82,23 +82,23 @@ Lighting based on ZumTobel RTX II Lamp.
 
 |![Screenshot of Lighting Assets](Docs/Screenshot-Assets-Lighting.jpg "Screenshot of Lighting Assets")|
 |:--:|
-|<b>Fig.: Screenshot of Lighting Assets</b>|
+|**Fig.: Screenshot of Lighting Assets**|
 
 |![Screenshot of BP_Lamp-Room-1 Assembly 'ZumTobel RTX II'](Docs/UE4-Lighting-BP-LampRoom.jpg "Screenshot of BP_Lamp-Room-1 Assembly 'ZumTobel RTX II'")|
 |:--:|
-|<b>Fig.: Screenshot of BP_Lamp-Room-1 Assembly 'ZumTobel RTX II'</b>|
+|**Fig.: Screenshot of BP_Lamp-Room-1 Assembly 'ZumTobel RTX II'**|
 
 |![Screenshot of BP_Lamp-Room-1 PointLight Settings](Docs/UE4-Lighting-PointLight-Settings.jpg "Screenshot of BP_Lamp-Room-1 PointLight Settings")|
 |:--:|
-|<b>Fig.: Screenshot of BP_Lamp-Room-1 PointLight Settings</b>|
+|**Fig.: Screenshot of BP_Lamp-Room-1 PointLight Settings**|
 
 |![Photograph of Real Lighting in the Laboratory](Docs/LightingShadowsLaboratory-real.jpg "Photograph of Real Lighting in the Laboratory")|
 |:--:|
-|<b>Fig.: Photograph of Real Lighting in the Laboratory</b>|
+|**Fig.: Photograph of Real Lighting in the Laboratory**|
 
 |![Screenshot of Virtual Lighting in Unreal Editor](Docs/LightingShadowsLaboratory-virtual.png "Screenshot of Virtual Lighting in Unreal Editor")|
 |:--:|
-|<b>Fig.: Screenshot of Virtual Lighting in Unreal Editor</b>|
+|**Fig.: Screenshot of Virtual Lighting in Unreal Editor**|
 
 <div style='page-break-after: always'></div>
 
@@ -108,7 +108,7 @@ Data tracking ability is provided by an Abstract Actor `Abstract_Trackable`.
 
 |![Screenshot of Data Tracking Assets](Docs/Screenshot-Assets-DataTracking.jpg "Screenshot of Data Tracking Assets")|
 |:--:|
-|<b>Fig.: Screenshot of Data Tracking Assets</b>|
+|**Fig.: Screenshot of Data Tracking Assets**|
 
 Abstract Actor `Abstract_Trackable` (cp. Class Diagram 'Module and Data Tracking'):
 
@@ -118,29 +118,29 @@ Abstract Actor `Abstract_Trackable` (cp. Class Diagram 'Module and Data Tracking
 
 |![Class Diagram 'Module and Data Tracking'](Docs/ClassDiagram-Module.jpg "Class Diagram 'Module and Data Tracking'")|
 |:--:|
-|<b>Fig.: Class Diagram 'Module and Data Tracking'</b>|
+|**Fig.: Class Diagram 'Module and Data Tracking'**|
 
 |![Screenshot of Abstract_Trackable Function TrackEvent](Docs/DataTracking-AbstractTrackable-TrackEvent.jpg "Screenshot of Abstract_Trackable Function TrackEvent")|
 |:--:|
-|<b>Fig.: Screenshot of Abstract_Trackable Function TrackEvent</b>|
+|**Fig.: Screenshot of Abstract_Trackable Function TrackEvent**|
 
 |![Screenshot of Abstract_Trackable EventGraph](Docs/DataTracking-AbstractTrackable-EventGraph.jpg "Screenshot of Abstract_Trackable EventGraph")|
 |:--:|
-|<b>Fig.: Screenshot of Abstract_Trackable EventGraph</b>|
+|**Fig.: Screenshot of Abstract_Trackable EventGraph**|
 
 The five Bizarre Objects inherit Abstract Actor `Abstract_Trackable` and are trackable therefore (cp. Class Diagram Blueprints):
 
 |![Class Diagram 'Blueprints'](Docs/ClassDiagram-Blueprints.jpg "Class Diagram 'Blueprints'")|
 |:--:|
-|<b>Fig.: Class Diagram 'Blueprints'</b>|
+|**Fig.: Class Diagram 'Blueprints'**|
 
 |![Screenshot of Temporary Data Tracking Output](Docs/DataTracking-Output-Temporary.jpg "Screenshot of Temporary Data Tracking Output")|
 |:--:|
-|<b>Fig.: Screenshot of Temporary Data Tracking Output</b>|
+|**Fig.: Screenshot of Temporary Data Tracking Output**|
 
 |![Screenshot of Persistent Data Tracking Output](Docs/DataTracking-Output-Persistent.jpg "Screenshot of Persistent Data Tracking Output")|
 |:--:|
-|<b>Fig.: Screenshot of Persistent Data Tracking Output</b>|
+|**Fig.: Screenshot of Persistent Data Tracking Output**|
 
 <div style='page-break-after: always'></div>
 
@@ -154,21 +154,21 @@ An Art-Print in two Versions - without and with (bizarre) animation.
 
 |![Screenshot of ArtPrint Assets](Docs/Screenshot-Assets-ArtPrint.jpg "Screenshot of ArtPrint Assets")|
 |:--:|
-|<b>Fig.: Screenshot of ArtPrint Assets</b>|
+|**Fig.: Screenshot of ArtPrint Assets**|
 
 Blueprint `BP_ArtPrint-Bizarre` inherits from `BP_ArtPrint` which is an `Abstract_Trackable` and holds a Static Mesh ArtPrint (cp. Screenshot of ArtPrint in Reference Viewer).
 
 |![Screenshot of ArtPrint in Reference Viewer](Docs/Screenshot-ReferenceViewer-ArtPrint.jpg "Screenshot of ArtPrint in Reference Viewer")|
 |:--:|
-|<b>Fig.: Screenshot of ArtPrint in Reference Viewer</b>|
+|**Fig.: Screenshot of ArtPrint in Reference Viewer**|
 
 |![Screenshot of ArtPrint in Unreal Editor before starting Animation](Docs/UE4-ArtPrint-animation01.png "Screenshot of ArtPrint in Unreal Editor before starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of ArtPrint in Unreal Editor before starting Animation</b>|
+|**Fig.: Screenshot of ArtPrint in Unreal Editor before starting Animation**|
 
 |![Screenshot of ArtPrint in Unreal Editor after starting Animation](Docs/UE4-ArtPrint-animation02.png "Screenshot of ArtPrint in Unreal Editor after starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of ArtPrint in Unreal Editor after starting Animation</b>|
+|**Fig.: Screenshot of ArtPrint in Unreal Editor after starting Animation**|
 
 <div style='page-break-after: always'></div>
 
@@ -178,21 +178,21 @@ A Book in two Versions - without and with (bizarre) animation.
 
 |![Screenshot of Book Assets](Docs/Screenshot-Assets-Book.jpg "Screenshot of Book Assets")|
 |:--:|
-|<b>Fig.: Screenshot of Book Assets</b>|
+|**Fig.: Screenshot of Book Assets**|
 
 Blueprint `BP_Book-Bizarre` inherits from `BP_Book` which is an `Abstract_Trackable` and holds a Static Mesh Book (cp. Screenshot of Book in Reference Viewer).
 
 |![Screenshot of Book in Reference Viewer](Docs/Screenshot-ReferenceViewer-Book.jpg "Screenshot of Book in Reference Viewer")|
 |:--:|
-|<b>Fig.: Screenshot of Book in Reference Viewer</b>|
+|**Fig.: Screenshot of Book in Reference Viewer**|
 
 |![Screenshot of Book in Unreal Editor before starting Animation](Docs/UE4-Book-animation01.png "Screenshot of Book in Unreal Editor before starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of Book in Unreal Editor before starting Animation</b>|
+|**Fig.: Screenshot of Book in Unreal Editor before starting Animation**|
 
 |![Screenshot of Book in Unreal Editor after starting Animation](Docs/UE4-Book-animation02.png "Screenshot of Book in Unreal Editor after starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of Book in Unreal Editor after starting Animation</b>|
+|**Fig.: Screenshot of Book in Unreal Editor after starting Animation**|
 
 <div style='page-break-after: always'></div>
 
@@ -202,21 +202,21 @@ A Jacket on a Coat-Hook in two Versions - without and with (bizarre) animation.
 
 |![Screenshot of Jacket Assets](Docs/Screenshot-Assets-Jacket.jpg "Screenshot of Jacket Assets")|
 |:--:|
-|<b>Fig.: Screenshot of Jacket Assets</b>|
+|**Fig.: Screenshot of Jacket Assets**|
 
 Blueprint `BP_Jacket-Bizarre` inherits from `BP_Jacket` and from `BP_CoatHook` which is an `Abstract_Trackable` and holds a Static Mesh Coathook (cp. Screenshot of Jacket in Reference Viewer).
 
 |![Screenshot of Jacket in Reference Viewer](Docs/Screenshot-ReferenceViewer-Jacket.jpg "Screenshot of Jacket in Reference Viewer")|
 |:--:|
-|<b>Fig.: Screenshot of Jacket in Reference Viewer</b>|
+|**Fig.: Screenshot of Jacket in Reference Viewer**|
 
 |![Screenshot of Jacket in Unreal Editor before starting Animation](Docs/UE4-Jacket-animation01.png "Screenshot of Jacket in Unreal Editor before starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of Jacket in Unreal Editor before starting Animation</b>|
+|**Fig.: Screenshot of Jacket in Unreal Editor before starting Animation**|
 
 |![Screenshot of Jacket in Unreal Editor after starting Animation](Docs/UE4-Jacket-animation02.png "Screenshot of Jacket in Unreal Editor after starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of Jacket in Unreal Editor after starting Animation</b>|
+|**Fig.: Screenshot of Jacket in Unreal Editor after starting Animation**|
 
 <div style='page-break-after: always'></div>
 
@@ -226,21 +226,21 @@ A Marker-Pen in two Versions - without and with (bizarre) animation.
 
 |![Screenshot of MarkerPen Assets](Docs/Screenshot-Assets-MarkerPen.jpg "Screenshot of MarkerPen Assets")|
 |:--:|
-|<b>Fig.: Screenshot of MarkerPen Assets</b>|
+|**Fig.: Screenshot of MarkerPen Assets**|
 
 Blueprint `BP_MarkerPen-Bizarre` inherits from `BP_MarkerPen` which is an `Abstract_Trackable` and holds two Static Meshes: Cap and MarkerPen (cp. Screenshot of MarkerPen in Reference Viewer).
 
 |![Screenshot of MarkerPen in Reference Viewer](Docs/Screenshot-ReferenceViewer-MarkerPen.jpg "Screenshot of MarkerPen in Reference Viewer")|
 |:--:|
-|<b>Fig.: Screenshot of MarkerPen in Reference Viewer</b>|
+|**Fig.: Screenshot of MarkerPen in Reference Viewer**|
 
 |![Screenshot of MarkerPen in Unreal Editor before starting Animation](Docs/UE4-MarkerPen-animation01.png "Screenshot of MarkerPen in Unreal Editor before starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of MarkerPen in Unreal Editor before starting Animation</b>|
+|**Fig.: Screenshot of MarkerPen in Unreal Editor before starting Animation**|
 
 |![Screenshot of MarkerPen in Unreal Editor after starting Animation](Docs/UE4-MarkerPen-animation02.png "Screenshot of MarkerPen in Unreal Editor after starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of MarkerPen in Unreal Editor after starting Animation</b>|
+|**Fig.: Screenshot of MarkerPen in Unreal Editor after starting Animation**|
 
 <div style='page-break-after: always'></div>
 
@@ -250,21 +250,21 @@ A Telephone in two Versions - without and with (bizarre) animation.
 
 |![Screenshot of Telephone Assets](Docs/Screenshot-Assets-Telephone.jpg "Screenshot of Telephone Assets")|
 |:--:|
-|<b>Fig.: Screenshot of Telephone Assets</b>|
+|**Fig.: Screenshot of Telephone Assets**|
 
 Blueprint `BP_Telephone-Bizarre` inherits from `BP_Telephone` which is an `Abstract_Trackable` and holds three Static Meshes: Handset, Spiralcord and Telephone (cp. Screenshot of Telephone in Reference Viewer).
 
 |![Screenshot of Telephone in Reference Viewer](Docs/Screenshot-ReferenceViewer-Telephone.jpg "Screenshot of Telephone in Reference Viewer")|
 |:--:|
-|<b>Fig.: Screenshot of Telephone in Reference Viewer</b>|
+|**Fig.: Screenshot of Telephone in Reference Viewer**|
 
 |![Screenshot of Telephone in Unreal Editor before starting Animation](Docs/UE4-Telephone-animation01.png "Screenshot of Telephone in Unreal Editor before starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of Telephone in Unreal Editor before starting Animation</b>|
+|**Fig.: Screenshot of Telephone in Unreal Editor before starting Animation**|
 
 |![Screenshot of Telephone in Unreal Editor after starting Animation](Docs/UE4-Telephone-animation02.png "Screenshot of Telephone in Unreal Editor after starting Animation")|
 |:--:|
-|<b>Fig.: Screenshot of Telephone in Unreal Editor after starting Animation</b>|
+|**Fig.: Screenshot of Telephone in Unreal Editor after starting Animation**|
 
 ## A. References
 
