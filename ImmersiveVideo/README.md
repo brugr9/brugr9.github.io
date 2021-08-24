@@ -37,7 +37,6 @@ A plugin providing with media content for 2D Planar and 360° Spherical Video pl
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 With using this plugin also engine plugins *BlueprintMaterialTextureNodes*, *MediaIOFramework*, *MediaFrameworkUtilities* and *WmfMedia* will be enabled.
 

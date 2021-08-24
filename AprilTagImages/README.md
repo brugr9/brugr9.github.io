@@ -29,7 +29,6 @@ A plugin providing with images of tags from the pre-generated AprilTag 3 familie
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 ### Usage
 

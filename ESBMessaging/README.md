@@ -37,7 +37,6 @@ A plugin providing with remote control related assets for UE4 integration and ru
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 

@@ -29,7 +29,6 @@ A plugin providing with sports equipment content based on 3D models from Sketchf
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 ### Usage
 

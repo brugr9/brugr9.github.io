@@ -33,7 +33,6 @@ A plugin providing with Display Cluster rendering and Remote Control related ass
 
 * Platforms Tested: PC Windows
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 

@@ -35,7 +35,6 @@ A plugin providing with ZeroMQ (aka zmq) assets using C++-bindings from CppZmq. 
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 The plugin was developed using Visual Studio 2019 with an UE4 Project enhanced as C++ code project. Third party C++-bindings from CppZmq may be found in directory [/Source/ThirdParty/CppZmq](../Source/ThirdParty/CppZmq).
 

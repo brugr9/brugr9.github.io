@@ -39,7 +39,6 @@ A plugin providing with eye tracking gaze ray visualisation, hit generation and 
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 The plugin was developed using Visual Studio 2019 and an UE4 Project enhanced as C++ code project.
 

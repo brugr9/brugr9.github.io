@@ -26,7 +26,6 @@ A plugin providing with virtual or augmented reality VR/AR play area content: So
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 ### Usage
 

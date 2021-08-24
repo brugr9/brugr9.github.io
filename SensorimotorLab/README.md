@@ -24,7 +24,6 @@ A project based on UE nDisplay template providing with Institute of Sport Scienc
 
 * Platforms Tested: PC Windows
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 * To create a new SenorimotorLab CAVE level copy the ISPW template map ISPW_Cave_360DegVideo to the project content folder
 
 <div style='page-break-after: always'></div>
@@ -69,16 +68,16 @@ The project was developed using
 * Unreal Engine 4.26
 * UE4 Project from nDisplay Template, enhanced as C++ code project
 
-The project makes use of plugin [ISPW](ISPW) and its depepndencies (cp. package diagram):
+The project makes use of plugin [ISPW](../ISPW) and its depepndencies (cp. package diagram):
 
-* [SportsEquipment](SportsEquipment)
-* [Distributed Game Engine DGE](DGE) and its depepndencies:
-  * [ESB Messaging](ESBMessaging) and its depepndencies:
-    * [ZeroMQ](ZeroMQ)
-    * [Pupil](Pupil)
-    * [AprilTagImages](AprilTagImages)
-    * [PlayArea](PlayArea)
-    * [ImmersiveVideo](ImmersiveVideo)
+* [SportsEquipment](../SportsEquipment)
+* [Distributed Game Engine DGE](../DGE) and its depepndencies:
+  * [ESB Messaging](../ESBMessaging) and its depepndencies:
+    * [ZeroMQ](../ZeroMQ)
+    * [Pupil](../Pupil)
+    * [AprilTagImages](../AprilTagImages)
+    * [PlayArea](../PlayArea)
+    * [ImmersiveVideo](../ImmersiveVideo)
 
 Package Diagram:
 
@@ -102,7 +101,7 @@ Screenshot of Project Settings, Plugin ESBMessaging:
 
 ![Screenshot of Project Settings for Plugin ESB Messaging](Docs/ScreenshotPluginSettings.jpg "Screenshot of Project Settings for Plugin ESB Messaging")
 
-Hint: See also documentation of Plugin ISPW, [Handedness and Units](ISPW/README.html#11-handedness-and-units).
+Hint: See also documentation of Plugin ISPW, [Handedness and Units](../ISPW/README.md#11-handedness-and-units).
 
 ### 2.1. Handedness
 
@@ -212,10 +211,10 @@ To load a test pattern make use of Cluster Events (cp. Unreal Engine Documentati
 
 For testing purpose plugin ISPW provides with Jupyter Notebooks:
 
-* [ispw-zmq-pub.ipynb](ISPW/Testing/ispw-zmq-pub.ipynb): Sending messages using ZeroMQ PUB-Ssocket(s)
-* [ispw-zmq-sub.ipynb](ISPW/Testing/ispw-zmq-sub.ipynb): Receiving messages using ZeroMQ SUB-Socket(s)
+* ispw-zmq-pub.ipynb: Sending messages using ZeroMQ PUB-Ssocket(s)
+* ispw-zmq-sub.ipynb: Receiving messages using ZeroMQ SUB-Socket(s)
 
-Please find instructions on how to install Anaconda and setup Jupyter Notebook in folder [Plugins/ISPW/Testing](ISPW/Testing).
+Please find instructions on how to install Anaconda and setup Jupyter Notebook in folder [../ISPW/Testing](../ISPW/Testing).
 
 Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 
