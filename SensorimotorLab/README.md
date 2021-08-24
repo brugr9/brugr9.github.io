@@ -71,7 +71,7 @@ The project was developed using
 
 The project makes use of plugin [ISPW](Plugins/ISPW) and its depepndencies (cp. package diagram):
 
-* SportsEquipment
+* [SportsEquipment](Plugins/SportsEquipment)
 * [Distributed Game Engine DGE](Plugins/DGE) and its depepndencies:
   * [ESB Messaging](Plugins/ESBMessaging) and its depepndencies:
     * [ZeroMQ](Plugins/ZeroMQ)
