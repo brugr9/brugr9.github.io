@@ -71,11 +71,11 @@ The project was developed using
 The project makes use of plugin [ISPW](../ISPW) and its depepndencies (cp. package diagram):
 
 * [SportsEquipment](../SportsEquipment)
+* [AprilTagImages](../AprilTagImages)
 * [Distributed Game Engine DGE](../DGE) and its depepndencies:
   * [ESB Messaging](../ESBMessaging) and its depepndencies:
     * [ZeroMQ](../ZeroMQ)
     * [Pupil](../Pupil)
-    * [AprilTagImages](../AprilTagImages)
     * [PlayArea](../PlayArea)
     * [ImmersiveVideo](../ImmersiveVideo)
 

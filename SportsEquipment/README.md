@@ -56,9 +56,7 @@ git clone https://github.com/brugr9/SportsEquipment
 
 ## 1. Soccerball
 
-Blueprint `BP_Soccerball` holds a Static Mesh component `SM_Soccerball`. The mesh uses Material Instances parenting Material `M_Soccer` which is enhanced by Physical Material `PM_Soccerball`.
-
-Physical Material `PM_Soccerball`:
+Blueprint `BP_Soccerball` holds a Static Mesh component `SM_Soccerball`. The mesh uses Material Instances parenting Material `M_Soccer` which is enhanced by a Physical Material `PM_Soccerball` with values as follows:
 
 * Physical Material:
   * **Friction: 0.3**
@@ -77,9 +75,7 @@ Physical Material `PM_Soccerball`:
 
 ## 2. Tennisball
 
-Blueprint `PM_Tennisball` holds a Static Mesh component `SM_Tennisball`. The mesh uses a Material `M_Tennisball` which is enhanced by Physical Material `PM_Tennisball`.
-
-Physical Material `PM_Tennisball`:
+Blueprint `PM_Tennisball` holds a Static Mesh component `SM_Tennisball`. The mesh uses a Material `M_Tennisball` which is enhanced by Physical Material `PM_Tennisball` with values as follows:
 
 * Physical Material:
   * **Friction: 0.4**
