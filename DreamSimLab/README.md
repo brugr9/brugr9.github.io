@@ -1,4 +1,4 @@
-# Unreal Engine Project: DreamSimLab
+# Unreal Engine Project: Dream Simulation Lab
 
 Version: v2.1.0
 <br>Author: Roland Bruggmann
@@ -50,7 +50,7 @@ The project was developed using
 * Unreal Engine 4.26
 * UE Project Template 'Virtual Reality'
 
-The project makes use of plugin BZR and VIRLA.
+The project makes use of plugin [BZR](../BZR) and [VIRLA](../VIRLA).
 
 ### 1.2. Installation
 

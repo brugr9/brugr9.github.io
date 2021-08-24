@@ -35,8 +35,8 @@ A plugin providing with Institute of Sport Science ISPW related assets. These ar
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 
-* [Distributed Game Engine DGE](../DGE) and its depepndencies
 * Plugin [AprilTag Images](../AprilTagImages) as well as plugin [Sports Equipment](../SportsEquipment)
+* [Distributed Game Engine DGE](../DGE) and its depepndencies
 
 Package Diagram:
 
@@ -1170,18 +1170,18 @@ Naming corresponding to Barco Projector settings, 3DMode:
 
 #### Config Files
 
-Folder Dev:
+Folder 'Dev':
 
-* [`CAVE-1_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg`](../Content/DisplayClusterConfigs/Dev/CAVE-1_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg)
-* [`CAVE-4_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg`](../Content/DisplayClusterConfigs/Dev/CAVE-4_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg)
-* [`CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg`](../Content/DisplayClusterConfigs/Dev/CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg)
-* [`CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-Simple.cfg`](../Content/DisplayClusterConfigs/Dev/CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-Simple.cfg) (used in DisplayClusterRootActor)
+* `CAVE-1_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg`
+* `CAVE-4_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg`
+* `CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-Simple_-_unwrap.cfg`
+* `CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-Simple.cfg`
 
-Folder Prod:
+Folder 'Prod':
 
-* [`CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-EasyBlend.cfg`](../Content/DisplayClusterConfigs/Prod/CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-EasyBlend.cfg)
-* [`CAVE-5_-_3DMode-Off_-_Camera-HeadTracked_-_Projection-EasyBlend.cfg`](../Content/DisplayClusterConfigs/Prod/CAVE-5_-_3DMode-Off_-_Camera-HeadTracked_-_Projection-EasyBlend.cfg)
-* [`CAVE-5_-_3DMode-DualHead_-_Camera-HeadTracked_-_Projection-EasyBlend.cfg`](../Content/DisplayClusterConfigs/Prod/CAVE-5_-_3DMode-DualHead_-_Camera-HeadTracked_-_Projection-EasyBlend.cfg)
+* `CAVE-5_-_3DMode-Off_-_Camera-Static_-_Projection-EasyBlend.cfg`
+* `CAVE-5_-_3DMode-Off_-_Camera-HeadTracked_-_Projection-EasyBlend.cfg`
+* `CAVE-5_-_3DMode-DualHead_-_Camera-HeadTracked_-_Projection-EasyBlend.cfg`
 
 ### 4.2. Packaging
 
@@ -1233,8 +1233,8 @@ To load a test pattern make use of Cluster Events (cp. Unreal Engine Documentati
 
 For testing purpose this plugin provides with Jupyter Notebooks:
 
-* [ispw-zmq-pub.ipynb](Testing/ispw-zmq-pub.ipynb): Sending messages using ZeroMQ PUB-Ssocket(s)
-* [ispw-zmq-sub.ipynb](Testing/ispw-zmq-sub.ipynb): Receiving messages using ZeroMQ SUB-Socket(s)
+* ispw-zmq-pub.ipynb: Sending messages using ZeroMQ PUB-Ssocket(s)
+* ispw-zmq-sub.ipynb: Receiving messages using ZeroMQ SUB-Socket(s)
 
 Please find instructions on how to install Anaconda and setup Jupyter Notebook in folder [Testing](Testing).
 

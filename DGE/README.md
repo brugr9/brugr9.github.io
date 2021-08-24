@@ -36,7 +36,7 @@ A plugin providing with Display Cluster rendering and Remote Control related ass
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 
-* ESBMessaging and its dependencies
+* [ESBMessaging](../ESBMessaging) (and its dependencies)
 
 With using this plugin also engine plugin *nDisplay* is enabled.
 
@@ -325,9 +325,9 @@ VLC as Streaming Server and [UE4-Plugin VlcMedia](https://github.com/ue4plugins/
 
 * VLC Streaming Server: VLC-Multicast (cp. [Live Streaming over RTP using VLC](https://www.bogotobogo.com/VideoStreaming/VLC/How_to_Streaming_Live_Network_rtp.php)): 
   * `vlc -vvv file:///c:/videos/clips/test.mp4 --ttl="5" --sout "#transcode{vcodec=h264,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:gather:rtp{dst=10.27.0.2,port=1234,mux=ts,ttl=5} :no-sout-all :sout-keep"`
-* UE4 Display Cluster, Main Node:
+* UE4 Display Cluster Main Node:
   * `vlc rtp://@<VlcStreamingServerIP>:1234 --fullscreen --control netsync --netsync-master`
-* UE4 Display Cluster, Client Nodes:
+* UE4 Display Cluster Client Nodes:
   * `vlc rtp://@<VlcStreamingServerIP>:1234 --fullscreen --control netsync --netsync-master-ip <UE4DisplayClusterMainNodeIP>`
 
 <div style='page-break-after: always'></div>
@@ -386,13 +386,12 @@ Class Diagram `DGEPupilGazeActor`:
 
 ##### 1.6.1.1. Trace for Hit Generation
 
-On `DGEPupilGazeActor` calling function *SetLocationAndRotation*, *SetTransformQuat*, *SetTransform*, *SetLocation*, *SetRotation* or *SetRotationQuat*, the `APupilGazeActor` private function `Trace` is triggered. The function does a Single Line Trace (Raycast) by Channel 'Visibility' trying to generate a hit. In case of a successful hit following values are updated using the hit result:
+On `DGEPupilGazeActor` calling function *SetLocationAndRotation*, *SetTransformQuat*, *SetTransform*, *SetLocation*, *SetRotation* or *SetRotationQuat*, the `APupilGazeActor` private function `Trace` is triggered which performs a ray-tracing trying to generate a hit (channel visibility) and updates following ChildActorComponent values:
 
-* Location and rotation (and scale X) of `DGEPupilGazeRayActor`
-* Location and rotation of `DGEPupilGazeHitActor`
-* A hit `success` message is sent
+* `PupilGazeRayActor`: Location , Rotation, Scale (X only, distance from GazeActor to GazeHitActor)
+* `PupilGazeHitActor`: Location, Rotation
 
-If no hit was obtained, the objects will not be updated. In this case, a hit `warning` message is sent.
+In case of a hit the objects are updated using values from the hit-result. If no hit was obtained, the objects are updated with values from the trace end.
 
 <div style='page-break-after: always'></div>
 

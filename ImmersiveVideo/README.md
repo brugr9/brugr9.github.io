@@ -86,6 +86,8 @@ List of Assets:
 * Meshes: SM_Plane100x100_YZ_FaceBack_OriginCentre, SM_Plane100x100_YZ_FaceBack_OriginLeftBottom
 * Demo: BP_MediaPlayer2DVideo_DemoActor and Map_2DVideo_Demo
 
+Screenshot of Blueprint BP_MediaPlayer2DVideoActor in Reference Viewer:
+
 ![Screenshot of Blueprint BP_MediaPlayer2DVideoActor in Reference Viewer](Docs/ScreenshotBPMediaPlayer2DVideoActorReferenceViewer.jpg "Screenshot of Blueprint BP_MediaPlayer2DVideoActor in Reference Viewer")
 
 ## 3. 360° Spherical Video Playback
@@ -100,6 +102,8 @@ List of Assets:
 * Media: MediaTexture_360DegVideo, MediaPlayer_360DegVideo
 * Demo: BP_MediaPlayer360Video_DemoActor and Map_360DegVideo_Demo
 
+Screenshot of Blueprint BP_MediaPlayer360DegVideoActor in Reference Viewer:
+
 ![Screenshot of Blueprint BP_MediaPlayer360DegVideoActor in Reference Viewer](Docs/ScreenshotBPMediaPlayer360DegVideoActorReferenceViewer.jpg "Screenshot of Blueprint BP_MediaPlayer360DegVideoActor in Reference Viewer")
 
 Blueprint 'BP_MediaPlayer360DegVideoActor':
@@ -110,13 +114,21 @@ Blueprint 'BP_MediaPlayer360DegVideoActor':
 * Scene, Scale is (X=1.000000,Y=1.000000,Z=1.000000)
 * Result: Sphere size is 100x100x100 UU
 
+Screenshot of Blueprint BP_MediaPlayer360DegVideoActor:
+
 ![Screenshot of Blueprint BP_MediaPlayer360DegVideoActor](Docs/ScreenshotBPMediaPlayer360DegVideoActor.jpg "Screenshot of Blueprint BP_MediaPlayer360DegVideoActor")
 
 The Material 'M_MediaTexture_360DegVideo' with Material-Function 'MF_InverseTexCoord' (Inverse Texture Coordinates) is used in Static Mesh Sphere 360 Degree Video 'SM_Sphere_360DegVideo'.
 
+Screenshot of Material M_MediaTexture_360DegVideo:
+
 ![Screenshot of Material MediaTexture 360DegVideo](Docs/ScreenshotMMediaTexture360DegVideo.jpg "Screenshot of Material MediaTexture 360DegVideo")
 
+Screenshot of Material-Function MF_InverseTexCoord:
+
 ![Screenshot of Material-Function Inverse Texture Coordinates](Docs/ScreenshotMFInverseTexCoord.jpg "Screenshot of Material-Function Inverse Texture Coordinates")
+
+Screenshot of Static Mesh SM_Sphere_360DegVideo:
 
 ![Screenshot of Static Mesh Sphere 360 Degree Video](Docs/ScreenshotSMSphere360DegVideo.jpg "Screenshot of Static Mesh Sphere 360 Degree Video")
 

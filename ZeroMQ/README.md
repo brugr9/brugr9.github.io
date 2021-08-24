@@ -229,7 +229,7 @@ Screenshot of Demo Map Playing:
 
 Output Log excerpt of Demo Map playing and stopping:
 
-```shell
+```log
 LogZeroMQ: ZmqContextActor_2 Initialise context and socket(s) ...
 LogZeroMQ: ZmqContextActor_2 Initialise context ...
 LogZeroMQ: Number of I/O threads for this context: 1 threads.

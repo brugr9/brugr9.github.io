@@ -69,7 +69,9 @@ Physical Material `PM_Soccerball`:
 * Advanced:
   * Raise Mass to Power: 0.1
 
-![Screenshot of Soccerball Reference Viewer](Docs/ScreenshotReferenceViewerSoccerball.jpg "Screenshot of Soccerball Reference Viewer")<figcaption>Fig.: Soccerball with Physical Material</figcaption>
+|![Screenshot of Soccerball Reference Viewer](Docs/ScreenshotReferenceViewerSoccerball.jpg "Screenshot of Soccerball Reference Viewer")|
+|:--:|
+|<b>Fig.: Soccerball with Physical Material</b>|
 
 <div style='page-break-after: always'></div>
 
@@ -88,7 +90,9 @@ Physical Material `PM_Tennisball`:
 * Advanced:
   * Raise Mass to Power: 0.1
 
-![Screenshot of Tennisball Reference Viewer](Docs/ScreenshotReferenceViewerTennisball.jpg "Screenshot of Tennisball Reference Viewer")<figcaption>Fig.: Tennisball with Physical Material</figcaption>
+|![Screenshot of Tennisball Reference Viewer](Docs/ScreenshotReferenceViewerTennisball.jpg "Screenshot of Tennisball Reference Viewer")|
+|:--:|
+|<b>Fig.: Tennisball with Physical Material</b>|
 
 ## A. References
 

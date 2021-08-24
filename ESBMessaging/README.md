@@ -40,10 +40,10 @@ A plugin providing with remote control related assets for UE4 integration and ru
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 
-* ZeroMQ
-* Pupil
-* PlayArea
-* ImmersiveVideo
+* [ZeroMQ](../ZeroMQ)
+* [Pupil](../Pupil)
+* [PlayArea](../PlayArea)
+* [ImmersiveVideo](../ImmersiveVideo)
 
 With using this plugin also engine plugins *MediaIOFramework*, *MediaFrameworkUtilities* and *WmfMedia* are enabled.
 
@@ -877,13 +877,12 @@ Class Diagram `EsbPupilGazeActor`:
 
 ##### 1.6.1.1. Trace for Hit Generation
 
-On `EsbPupilGazeActor` calling function *SetLocationAndRotation*, *SetTransformQuat*, *SetTransform*, *SetLocation*, *SetRotation* or *SetRotationQuat*, the `APupilGazeActor` private function `Trace` is triggered. The function does a Single Line Trace (Raycast) by Channel 'Visibility' trying to generate a hit. In case of a successful hit following values are updated using the hit result:
+On `EsbPupilGazeActor` calling function *SetLocationAndRotation*, *SetTransformQuat*, *SetTransform*, *SetLocation*, *SetRotation* or *SetRotationQuat*, the `APupilGazeActor` private function `Trace` is triggered which performs a ray-tracing trying to generate a hit (channel visibility) and updates following ChildActorComponent values:
 
-* Location and rotation (and scale X) of `EsbPupilGazeRayActor`
-* Location and rotation of `EsbPupilGazeHitActor`
-* A hit `success` message is sent
+* `PupilGazeRayActor`: Location , Rotation, Scale (X only, distance from GazeActor to GazeHitActor)
+* `PupilGazeHitActor`: Location, Rotation
 
-If no hit was obtained, the objects will not be updated. In this case, a hit `warning` message is sent.
+In case of a hit the objects are updated using values from the hit-result. If no hit was obtained, the objects are updated with values from the trace end.
 
 <div style='page-break-after: always'></div>
 
@@ -1332,8 +1331,8 @@ In the folder of your choice a folder 'WindowsNoEditor' is created containing th
 
 For testing purpose this plugin provides with Jupyter Notebooks:
 
-* [esb-zmq-pub.ipynb](Testing/esb-zmq-pub.ipynb): Sending messages using ZeroMQ PUB-Socket(s)
-* [esb-zmq-sub.ipynb](Testing/esb-zmq-sub.ipynb): Receiving messages using ZeroMQ SUB-Socket(s)
+* esb-zmq-pub.ipynb: Sending messages using ZeroMQ PUB-Socket(s)
+* esb-zmq-sub.ipynb: Receiving messages using ZeroMQ SUB-Socket(s)
 
 Please find instructions on how to install Anaconda and setup Jupyter Notebook in folder [Testing](Testing).
 

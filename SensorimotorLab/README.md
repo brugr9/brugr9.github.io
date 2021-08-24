@@ -1,4 +1,4 @@
-# Unreal Engine Project: SensorimotorLab
+# Unreal Engine Project: Sensorimotor Lab
 
 Version: v2.0.1
 <br>Author: Roland Bruggmann
@@ -163,7 +163,7 @@ Edit nDisplay config file *.cfg (host IPs, master etc.) using a text editor of c
 
 ### 4.2. Packaging
 
-Brief instruction for packaging a shipping build (cp. [Packaging Projects](https://docs.unrealengine.com/4.26/en-US/Basics/Projects/Packaging/)):
+Brief instruction for packaging a shipping build (cp. Unreal Engine Documentation, [Packaging Projects](https://docs.unrealengine.com/4.26/en-US/Basics/Projects/Packaging/)):
 
 1. In Project Settings set ISPW_Cave_360DegVideo as Game Default Map
 2. File > Package Project > Build Configuration > Shipping
@@ -174,7 +174,7 @@ In the folder of your choice a folder 'WindowsNoEditor' is created containing th
 
 ### 4.3. nDisplay Launcher
 
-Brief instruction to run an ISPW-CAVE game unwrapped locally on your machine (cp. [nDisplay Quick Start](https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
+Brief instruction to run an ISPW-CAVE game unwrapped locally on your machine (cp. Unreal Engine Documentation, [nDisplay Quick Start](https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
 
 1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C:\Program Files\Epic Games\UE\_4.26\Engine\Binaries\DotNET' or similar)
 2. In nDisplay Launcher, Tab 'Launcher', List of Applications > Click Button 'Add': Point to the shipping build executable '*.exe' in folder 'WindowsNoEditor'
@@ -214,7 +214,7 @@ For testing purpose plugin ISPW provides with Jupyter Notebooks:
 * ispw-zmq-pub.ipynb: Sending messages using ZeroMQ PUB-Ssocket(s)
 * ispw-zmq-sub.ipynb: Receiving messages using ZeroMQ SUB-Socket(s)
 
-Please find instructions on how to install Anaconda and setup Jupyter Notebook in folder [../ISPW/Testing](../ISPW/Testing).
+Please find instructions on how to install Anaconda and setup Jupyter Notebook in folder [ISPW/Testing](../ISPW/Testing).
 
 Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 
