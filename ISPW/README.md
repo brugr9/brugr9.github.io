@@ -21,8 +21,8 @@ A plugin providing with Institute of Sport Science ISPW related assets. These ar
 
 ### Contents
 
-* Blueprints: 23
-* Display Cluster Configurations: 7 (no asset but *.cfg)
+* Blueprints: 28
+* Display Cluster Configurations: 7 (no assets but *.cfg)
 * Maps: 2
 * Materials: 2
 * Meshes: 2
@@ -32,12 +32,11 @@ A plugin providing with Institute of Sport Science ISPW related assets. These ar
 
 * Platforms Tested: PC Windows 10
 * Supported Engine Versions: 4.26
-* See also [Changelog](CHANGELOG.md)
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 
-* Distributed Game Engine DGE and its depepndencies
-* Sports Equipment
+* [Distributed Game Engine DGE](../DGE) and its depepndencies
+* Plugin [AprilTag Images](../AprilTagImages) as well as plugin [Sports Equipment](../SportsEquipment)
 
 Package Diagram:
 
@@ -62,46 +61,46 @@ To create a new level running in the SenorimotorLab CAVE copy the template map t
 
 * [Table of contents](#table-of-contents)
 * [1. ISPW CAVE](#1-ispw-cave)
-	* [1.1. Handedness and Units](#11-handedness-and-units)
-	* [1.2. Real CAVE and Virtual Twin](#12-real-cave-and-virtual-twin)
+  * [1.1. Handedness and Units](#11-handedness-and-units)
+  * [1.2. Real CAVE and Virtual Twin](#12-real-cave-and-virtual-twin)
 * [2. Maps](#2-maps)
-	* [2.1. Map ISPW Cave 3D Demo](#21-map-ispw-cave-3d-demo)
-	* [2.2. Map ISPW Cave 360DegVideo](#22-map-ispw-cave-360degvideo)
-		* [2.2.1 Message Transport](#221-message-transport)
-		* [2.2.2 Level Blueprint](#222-level-blueprint)
+  * [2.1. Map ISPW Cave 3D Demo](#21-map-ispw-cave-3d-demo)
+  * [2.2. Map ISPW Cave 360DegVideo](#22-map-ispw-cave-360degvideo)
+    * [2.2.1 Message Transport](#221-message-transport)
+    * [2.2.2 Level Blueprint](#222-level-blueprint)
 * [3. Blueprints](#3-blueprints)
-	* [3.1. BP ISPW DGEMediaPlayer2D](#31-bp-ispw-dgemediaplayer2d)
-	* [3.2. BP ISPW DGEMediaPlayer360](#32-bp-ispw-dgemediaplayer360)
-	* [3.3. BP ISPW Cave DGEMediaPlayer360](#33-bp-ispw-cave-dgemediaplayer360)
-		* [Example Result Messages](#example-result-messages)
-	* [3.4. BP ISPW DGETextRender](#34-bp-ispw-dgetextrender)
-	* [3.5. BP ISPW DGEWatchdog](#35-bp-ispw-dgewatchdog)
-	* [3.6. BP ISPW Cave DGEAprilTags](#36-bp-ispw-cave-dgeapriltags)
-	* [3.7. BP ISPW Cave DGEColorChecker](#37-bp-ispw-cave-dgecolorchecker)
-	* [3.8. BP ISPW Cave DGEClearColor](#38-bp-ispw-cave-dgeclearcolor)
-	* [3.9. BP ISPW Cave DGEBlackShieldBack](#39-bp-ispw-cave-dgeblackshieldback)
-	* [3.10. BP ISPW Cave DGEBlackShieldFloor](#310-bp-ispw-cave-dgeblackshieldfloor)
-	* [3.11. BP ISPW Cave DGEBlackShieldFront](#311-bp-ispw-cave-dgeblackshieldfront)
-	* [3.12. BP ISPW Cave DGEBlackShieldLeft](#312-bp-ispw-cave-dgeblackshieldleft)
-	* [3.13. BP ISPW Cave DGEBlackShieldRight](#313-bp-ispw-cave-dgeblackshieldright)
-	* [3.14. BP ISPW DGEHead](#314-bp-ispw-dgehead)
-	* [3.15. BP ISPW Cave DGECollisionWarning](#315-bp-ispw-cave-dgecollisionwarning)
-	* [3.16. BP ISPW DGEPupilGaze0](#316-bp-ispw-dgepupilgaze0)
-	* [3.17. BP ISPW DGEPupilGaze0Ray](#317-bp-ispw-dgepupilgaze0ray)
-	* [3.18. BP ISPW DGEPupilGaze0Hit](#318-bp-ispw-dgepupilgaze0hit)
-	* [3.19. BP ISPW DGEPupilGaze1](#319-bp-ispw-dgepupilgaze1)
-	* [3.20. BP ISPW DGEPupilGaze1Ray](#320-bp-ispw-dgepupilgaze1ray)
-	* [3.21. BP ISPW DGEPupilGaze1Hit](#321-bp-ispw-dgepupilgaze1hit)
-	* [3.22. BP ISPW DGEPupilShapeTarget](#322-bp-ispw-dgepupilshapetarget)
-	* [3.23. BP ISPW DGEPupilShapeTarget HeadProjection](#323-bp-ispw-dgepupilshapetarget-headprojection)
+  * [3.1. BP ISPW DGEMediaPlayer2D](#31-bp-ispw-dgemediaplayer2d)
+  * [3.2. BP ISPW DGEMediaPlayer360](#32-bp-ispw-dgemediaplayer360)
+  * [3.3. BP ISPW Cave DGEMediaPlayer360](#33-bp-ispw-cave-dgemediaplayer360)
+    * [Example Result Messages](#example-result-messages)
+  * [3.4. BP ISPW DGETextRender](#34-bp-ispw-dgetextrender)
+  * [3.5. BP ISPW DGEWatchdog](#35-bp-ispw-dgewatchdog)
+  * [3.6. BP ISPW Cave DGEAprilTags](#36-bp-ispw-cave-dgeapriltags)
+  * [3.7. BP ISPW Cave DGEColorChecker](#37-bp-ispw-cave-dgecolorchecker)
+  * [3.8. BP ISPW Cave DGEClearColor](#38-bp-ispw-cave-dgeclearcolor)
+  * [3.9. BP ISPW Cave DGEBlackShieldBack](#39-bp-ispw-cave-dgeblackshieldback)
+  * [3.10. BP ISPW Cave DGEBlackShieldFloor](#310-bp-ispw-cave-dgeblackshieldfloor)
+  * [3.11. BP ISPW Cave DGEBlackShieldFront](#311-bp-ispw-cave-dgeblackshieldfront)
+  * [3.12. BP ISPW Cave DGEBlackShieldLeft](#312-bp-ispw-cave-dgeblackshieldleft)
+  * [3.13. BP ISPW Cave DGEBlackShieldRight](#313-bp-ispw-cave-dgeblackshieldright)
+  * [3.14. BP ISPW DGEHead](#314-bp-ispw-dgehead)
+  * [3.15. BP ISPW Cave DGECollisionWarning](#315-bp-ispw-cave-dgecollisionwarning)
+  * [3.16. BP ISPW DGEPupilGaze0](#316-bp-ispw-dgepupilgaze0)
+  * [3.17. BP ISPW DGEPupilGaze0Ray](#317-bp-ispw-dgepupilgaze0ray)
+  * [3.18. BP ISPW DGEPupilGaze0Hit](#318-bp-ispw-dgepupilgaze0hit)
+  * [3.19. BP ISPW DGEPupilGaze1](#319-bp-ispw-dgepupilgaze1)
+  * [3.20. BP ISPW DGEPupilGaze1Ray](#320-bp-ispw-dgepupilgaze1ray)
+  * [3.21. BP ISPW DGEPupilGaze1Hit](#321-bp-ispw-dgepupilgaze1hit)
+  * [3.22. BP ISPW DGEPupilShapeTarget](#322-bp-ispw-dgepupilshapetarget)
+  * [3.23. BP ISPW DGEPupilShapeTarget HeadProjection](#323-bp-ispw-dgepupilshapetarget-headprojection)
 * [4. Testing](#4-testing)
-	* [4.1 Display Cluster Configuration](#41-display-cluster-configuration)
-		* [Config Files](#config-files)
-	* [4.2. Packaging](#42-packaging)
-	* [4.3 nDisplay Launcher](#43-ndisplay-launcher)
-		* [4.3.1 Load Non Default Map](#431-load-non-default-map)
-		* [4.3.2 Test Pattern](#432-test-pattern)
-	* [4.4 Jupyter Notebook](#44-jupyter-notebook)
+  * [4.1 Display Cluster Configuration](#41-display-cluster-configuration)
+    * [Config Files](#config-files)
+  * [4.2. Packaging](#42-packaging)
+  * [4.3 nDisplay Launcher](#43-ndisplay-launcher)
+    * [4.3.1 Load Non Default Map](#431-load-non-default-map)
+    * [4.3.2 Test Pattern](#432-test-pattern)
+  * [4.4 Jupyter Notebook](#44-jupyter-notebook)
 * [A. References](#a-references)
 
 <!-- End Document Outline -->
@@ -551,7 +550,7 @@ The Blueprint makes use of CAVE model StaticMesh which provides with locator soc
 
 <div style='page-break-after: always'></div>
 
-Screenshot of BP_ISPW_Cave_DGEAprilTags in ReferenceViewer:
+Screenshot of BP_ISPW_Cave_DGEAprilTags with bundled AprilTag 36_11 Images in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_Cave_DGEAprilTags in ReferenceViewer](Docs/BP_ISPW_Cave_DGEAprilTags_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_Cave_DGEAprilTags in ReferenceViewer")
 

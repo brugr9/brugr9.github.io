@@ -17,9 +17,11 @@ A plugin providing with eye tracking gaze ray visualisation, hit generation and 
 * Shape Targets: PupilLabs Calibration Marker, Circle, Point, Cross
 * Bundled AprilTag Images
 
+<div style='page-break-after: always'></div>
+
 ### Contents
 
-* Blueprints: 12
+* Blueprints: 7
 * Materials: 5
 * Material Instances: 12
 * Maps: 1
@@ -39,9 +41,7 @@ A plugin providing with eye tracking gaze ray visualisation, hit generation and 
 * Supported Engine Versions: 4.26
 * See also [Changelog](CHANGELOG.md)
 
-The plugin was developed using Visual Studio 2019 and an UE4 Project enhanced as C++ code project. It use of code and/or assets from other plugins which must also be installed:
-
-* AprilTagImages
+The plugin was developed using Visual Studio 2019 and an UE4 Project enhanced as C++ code project.
 
 ### Usage
 
@@ -78,7 +78,6 @@ Find the file `MyProject/Plugins/Pupil/Config/DefaultPupil.ini` and copy-paste i
 	* [3.2. BP Pupil Gaze Hit Actor](#32-bp-pupil-gaze-hit-actor)
 	* [3.3. BP Pupil Gaze Actor](#33-bp-pupil-gaze-actor)
 	* [3.4. BP Pupil Shape Target Actor](#34-bp-pupil-shape-target-actor)
-	* [3.5. AprilTag Images Blueprints](#35-apriltag-images-blueprints)
 * [4. Demo](#4-demo)
 * [A. References](#a-references)
 
@@ -305,18 +304,6 @@ BP_PupilGaze0Actor and BP_PupilGaze1Actor:
 ![Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material](Docs/ScreenshotBP_PupilShapeTargetActor.jpg "Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material")<figcaption>Fig.: Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material</figcaption>
 
 <div style='page-break-after: always'></div>
-
-### 3.5. AprilTag Images Blueprints
-
-Bundled Images from AprilTag 36_11 (cp. screenshot of BP_tag36_11_00000-00007):
-
-* BP_tag36_11_00000-00007: Bundled AprilTag 36_11 Images #0 - #7
-* BP_tag36_11_00008-00015: Bundled AprilTag 36_11 Images #8 - #15
-* BP_tag36_11_00016-00023: Bundled AprilTag 36_11 Images #16 - #23
-* BP_tag36_11_00024-00031: Bundled AprilTag 36_11 Images #31 - #31
-* BP_tag36_11_00032-00039: Bundled AprilTag 36_11 Images #32 - #39
-
-![Screenshot of BP_tag36_11_00000-00007](Docs/ScreenshotBP_tag36_11_00000-00007.jpg "Screenshot of BP_tag36_11_00000-00007")<figcaption>Fig.: Screenshot of BP_tag36_11_00000-00007</figcaption>
 
 ## 4. Demo
 

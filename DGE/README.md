@@ -326,10 +326,10 @@ VLC as Streaming Server and [UE4-Plugin VlcMedia](https://github.com/ue4plugins/
 
 * VLC Streaming Server: VLC-Multicast (cp. [Live Streaming over RTP using VLC](https://www.bogotobogo.com/VideoStreaming/VLC/How_to_Streaming_Live_Network_rtp.php)): 
   * `vlc -vvv file:///c:/videos/clips/test.mp4 --ttl="5" --sout "#transcode{vcodec=h264,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:gather:rtp{dst=10.27.0.2,port=1234,mux=ts,ttl=5} :no-sout-all :sout-keep"`
-* UE4 Display Cluster Main Node:
+* UE4 Display Cluster, Main Node:
   * `vlc rtp://@<VlcStreamingServerIP>:1234 --fullscreen --control netsync --netsync-master`
-* UE4 Display Cluster Client Nodes:
-  * `vlc rtp://@<StreamingServerIP>:1234 --fullscreen --control netsync --netsync-master-ip <UE4DisplayClusterMainNodeIP>`
+* UE4 Display Cluster, Client Nodes:
+  * `vlc rtp://@<VlcStreamingServerIP>:1234 --fullscreen --control netsync --netsync-master-ip <UE4DisplayClusterMainNodeIP>`
 
 <div style='page-break-after: always'></div>
 
