@@ -71,7 +71,7 @@ Physical Material `PM_Soccerball`:
 
 |![Screenshot of Soccerball Reference Viewer](Docs/ScreenshotReferenceViewerSoccerball.jpg "Screenshot of Soccerball Reference Viewer")|
 |:--:|
-|<b>Fig.: Soccerball with Physical Material</b>|
+|<b>Fig. 1: Soccerball with Physical Material</b>|
 
 <div style='page-break-after: always'></div>
 
@@ -92,7 +92,7 @@ Physical Material `PM_Tennisball`:
 
 |![Screenshot of Tennisball Reference Viewer](Docs/ScreenshotReferenceViewerTennisball.jpg "Screenshot of Tennisball Reference Viewer")|
 |:--:|
-|<b>Fig.: Tennisball with Physical Material</b>|
+|<b>Fig. 2: Tennisball with Physical Material</b>|
 
 ## A. References
 

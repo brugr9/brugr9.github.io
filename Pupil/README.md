@@ -97,7 +97,9 @@ The Plugin Settings provides with values as follows (cp. screenshot of Plugin Se
   * Trace Offset from Gaze (default 0.0 UU)
   * Trace Distance (30000.0 UU)
 
-![Screenshot of Plugin Settings](Docs/ScreenshotPluginSettings.jpg "Screenshot of Plugin Settings")<figcaption>Fig.: Screenshot of Plugin Settings</figcaption>
+|![Screenshot of Plugin Settings](Docs/ScreenshotPluginSettings.jpg "Screenshot of Plugin Settings")|
+|:--:|
+|<b>Fig. 1: Screenshot of Plugin Settings</b>|
 
 ### 1.2. BP Function Library
 
@@ -110,13 +112,17 @@ The Blueprint Function-Library provides with function nodes to access the plugin
   * Get Trace Offset from Gaze (float)
   * Get Trace Distance (float)
 
-![Screenshot BP Function-Library](Docs/ScreenshotBPFunctionLibrary.jpg "Screenshot BP Function-Library")<figcaption>Fig.: Screenshot Blueprint Function-Library</figcaption>
+|![Screenshot BP Function-Library](Docs/ScreenshotBPFunctionLibrary.jpg "Screenshot BP Function-Library")|
+|:--:|
+|<b>Fig. 2: Screenshot Blueprint Function-Library</b>|
 
 <div style='page-break-after: always'></div>
 
 ## 2. C++ Classes
 
-![Class Diagram Pupil](Docs/ClassDiagramPupil.jpg "Class Diagram Pupil")<figcaption>Fig.: Pupil Class Diagram</figcaption>
+|![Class Diagram Pupil](Docs/ClassDiagramPupil.jpg "Class Diagram Pupil")|
+|:--:|
+|<b>Fig. 3: Pupil Class Diagram</b>|
 
 ### 2.1. Pupil Gaze Item Actor
 
@@ -235,7 +241,9 @@ BP_PupilGaze0RayActor and BP_PupilGaze1RayActor:
 
 * Please consider: SetColor, Alpha value is not respected by the gaze ray material
 
-![Screenshot BP_PupilGaze0RayActor](Docs/ScreenshotBP_PupilGaze0RayActor.jpg "Screenshot BP_PupilGaze0RayActor")<figcaption>Fig.: Screenshot BP_PupilGaze0RayActor</figcaption>
+|![Screenshot BP_PupilGaze0RayActor](Docs/ScreenshotBP_PupilGaze0RayActor.jpg "Screenshot BP_PupilGaze0RayActor")|
+|:--:|
+|<b>Fig. 4: Screenshot BP_PupilGaze0RayActor</b>|
 
 <div style='page-break-after: always'></div>
 
@@ -260,7 +268,9 @@ BP_PupilGaze0HitActor and BP_PupilGaze1HitActor:
 
 * Please consider: SetColor, Alpha value is not respected by the gaze hit material
 
-![Screenshot BP_PupilGaze0HitActor](Docs/ScreenshotBP_PupilGaze0HitActor.jpg "Screenshot BP_PupilGaze0HitActor")<figcaption>Fig.: Screenshot BP_PupilGaze0HitActor</figcaption>
+|![Screenshot BP_PupilGaze0HitActor](Docs/ScreenshotBP_PupilGaze0HitActor.jpg "Screenshot BP_PupilGaze0HitActor")|
+|:--:|
+|<b>Fig. 5: Screenshot BP_PupilGaze0HitActor</b>|
 
 <div style='page-break-after: always'></div>
 
@@ -273,7 +283,9 @@ BP_PupilGaze0Actor and BP_PupilGaze1Actor:
   * Scene, Scale (X=100.000000,Y=100.000000,Z=100.000000)
   * Component Tick:  Start with Tick Enabled: false
 
-![Screenshot BP_PupilGaze0Actor](Docs/ScreenshotBP_PupilGaze0Actor.jpg "Screenshot BP_PupilGaze0Actor")<figcaption>Fig.: Screenshot BP_PupilGaze0Actor</figcaption>
+|![Screenshot BP_PupilGaze0Actor](Docs/ScreenshotBP_PupilGaze0Actor.jpg "Screenshot BP_PupilGaze0Actor")|
+|:--:|
+|<b>Fig. 6: Screenshot BP_PupilGaze0Actor</b>|
 
 <div style='page-break-after: always'></div>
 
@@ -300,15 +312,21 @@ BP_PupilGaze0Actor and BP_PupilGaze1Actor:
     * Name: 'PointBlack'; Material Instance reference: `MI_ShapeTarget_PointBlack`
     * Name: 'PointRed'; Material Instance reference: `MI_ShapeTarget_PointRed`
 
-![Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material](Docs/ScreenshotBP_PupilShapeTargetActor.jpg "Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material")<figcaption>Fig.: Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material</figcaption>
+|![Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material](Docs/ScreenshotBP_PupilShapeTargetActor.jpg "Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material")|
+|:--:|
+|<b>Fig. 7: Screenshot of BP_PupilShapeTargetActor with PupilLabs Calibration-Marker Material</b>|
 
 <div style='page-break-after: always'></div>
 
 ## 4. Demo
 
-![Screenshot of Demo Map](Docs/ScreenshotDemoMap.jpg "Screenshot of Demo Map")<figcaption>Fig.: Screenshot of Demo Map</figcaption>
+|![Screenshot of Demo Map](Docs/ScreenshotDemoMap.jpg "Screenshot of Demo Map")|
+|:--:|
+|<b>Fig. 8: Screenshot of Demo Map</b>|
 
-![Screenshot of Demo Map LevelBlueprint](Docs/ScreenshotDemoMapLevelBlueprint.jpg "Screenshot of Demo Map LevelBlueprint")<figcaption>Fig.: Screenshot of Demo Map LevelBlueprint</figcaption>
+|![Screenshot of Demo Map LevelBlueprint](Docs/ScreenshotDemoMapLevelBlueprint.jpg "Screenshot of Demo Map LevelBlueprint")|
+|:--:|
+|<b>Fig. 9: Screenshot of Demo Map LevelBlueprint</b>|
 
 ## A. References
 

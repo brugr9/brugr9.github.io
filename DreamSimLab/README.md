@@ -75,9 +75,13 @@ The map `DreamSimLab` is a copy from plugin VIRLA's map `RaumBern` supplemented 
 * Telephone (Bizarre)
 * Corridor and Room Lamps
 
-![Screenshot of Map DreamSimLab](Docs/Screenshot-Map-DreamSimLab.jpg "Screenshot of Map DreamSimLab")<figcaption>Fig.: Screenshot of Map DreamSimLab</figcaption>
+|![Screenshot of Map DreamSimLab](Docs/Screenshot-Map-DreamSimLab.jpg "Screenshot of Map DreamSimLab")|
+|:--:|
+|<b>Fig.: Screenshot of Map DreamSimLab</b>|
 
-![Screenshot of WorldSettings Lightmass](Docs/UE4-WorldSettings-Lightmass.jpg "Screenshot of WorldSettings Lightmass")<figcaption>Fig.: Screenshot of WorldSettings Lightmass</figcaption>
+|![Screenshot of WorldSettings Lightmass](Docs/UE4-WorldSettings-Lightmass.jpg "Screenshot of WorldSettings Lightmass")|
+|:--:|
+|<b>Fig.: Screenshot of WorldSettings Lightmass</b>|
 
 ## A. References
 
