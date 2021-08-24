@@ -14,9 +14,9 @@ A plugin providing with ZeroMQ (aka zmq) assets using C++-bindings from CppZmq. 
 ### Features
 
 * ZmqContextActor
-* PUB/SUB:
-  * Actors: ZmqSubSocketActor, ZmqPubSocketActor
-  * ActorComponents: ZmqSubscribeComponent, ZmqPublishComponent
+* PUB/SUB Actors and ActorComponents:
+  * ZmqPubSocketActor, ZmqPublishComponent
+  * ZmqSubSocketActor, ZmqSubscribeComponent
 * Demo Actors and Demo Map
 
 ### Contents
