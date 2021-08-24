@@ -67,11 +67,11 @@ git clone https://github.com/brugr9/BZR.git
 * [1. Lighting](#1-lighting)
 * [2. Data Tracking](#2-data-tracking)
 * [3. Bizarre Objects](#3-bizarre-objects)
-	* [3.1. Art-Print](#31-art-print)
-	* [3.2. Book](#32-book)
-	* [3.3. Jacket](#33-jacket)
-	* [3.4. Marker-Pen](#34-marker-pen)
-	* [3.5. Telephone](#35-telephone)
+  * [3.1. Art-Print](#31-art-print)
+  * [3.2. Book](#32-book)
+  * [3.3. Jacket](#33-jacket)
+  * [3.4. Marker-Pen](#34-marker-pen)
+  * [3.5. Telephone](#35-telephone)
 * [A. References](#a-references)
 
 <!-- End Document Outline -->

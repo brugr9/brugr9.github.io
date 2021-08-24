@@ -1,7 +1,7 @@
 # Unreal Engine Plugin: Play Area
 
 Version: v2.0.1
-<br>Author: Roland Bruggmann roland.bruggmann@unibe.ch
+<br>Author: Roland Bruggmann
 
 ## Description
 
@@ -33,7 +33,7 @@ A plugin providing with virtual or augmented reality VR/AR play area content: So
 Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/VirtualReality*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone http://tpf.fluido.as:10012/UEP/PlayArea.git
+git clone https://github.com/brugr9/PlayArea.git
 ```
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")

@@ -1,7 +1,7 @@
 # Unreal Engine Plugin: ESB Messaging
 
 Version: v2.0.1
-<br>Author: Roland Bruggmann roland.bruggmann@unibe.ch
+<br>Author: Roland Bruggmann
 
 ## Description
 
@@ -41,10 +41,10 @@ A plugin providing with remote control related assets for UE4 integration and ru
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 
-* [ZeroMQ](http://phhum-a209-cp.unibe.ch:10012/UEP/ZeroMQ)
-* [Pupil](http://phhum-a209-cp.unibe.ch:10012/UEP/Pupil) (and its dependencies)
-* [PlayArea](http://phhum-a209-cp.unibe.ch:10012/UEP/PlayArea)
-* [ImmersiveVideo](http://phhum-a209-cp.unibe.ch:10012/UEP/ImmersiveVideo)
+* ZeroMQ
+* Pupil
+* PlayArea
+* ImmersiveVideo
 
 With using this plugin also engine plugins *MediaIOFramework*, *MediaFrameworkUtilities* and *WmfMedia* are enabled.
 
@@ -55,7 +55,7 @@ With using this plugin also engine plugins *MediaIOFramework*, *MediaFrameworkUt
 Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Messaging*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone http://tpf.fluido.as:10012/UEP/ESBMessaging.git
+git clone https://github.com/brugr9/ESBMessaging.git
 ```
 
 Find the file `MyProject/Plugins/ESBMessaging/Config/DefaultESBMessaging.ini` and copy-paste its lines to file `MyProject/Config/DefaultEngine.ini`.
@@ -818,27 +818,9 @@ Transition table:
 * Playing -- Close --> Closed
 * Playing -- EndReached (auto) --> Paused (with the file still openned)
 
-UML State Diagram:
+State Diagram 'MediaPlayer':
 
-@startuml
-[*] --> Closed
-Closed --> Paused : OpenFile
-Closed --> Closed : Seek
-Closed --> Closed : Play
-Closed --> Closed : Pause
-Closed --> Closed : Close
-Paused --> Paused : OpenFile
-Paused --> Paused : Seek
-Paused --> Playing : Play
-Paused --> Paused : Pause
-Paused --> Closed : Close
-Playing --> Paused : OpenFile
-Playing --> Playing : Seek
-Playing --> Playing : Play
-Playing --> Paused : Pause
-Playing --> Closed : Close
-Playing --> Paused : EndReached
-@enduml
+![State Diagram 'MediaPlayer'](Docs/StateDiagram-MediaPlayer.jpg "State Diagram 'MediaPlayer'")
 
 <div style='page-break-after: always'></div>
 
@@ -1293,7 +1275,7 @@ Blueprint ESBMessaging Demo Actor `BP_ESB_DemoActor`:
 * Folder: ESBMessaging Content/Demo/Blueprints/
 * Parent Class: Actor
 * Scene Components:
-  * DefaultCeneRoot with
+  * DefaultSceneRoot with
     * MeshComponent: Cube
       * TextRenderComponent: TextRender
       * ChildActorComponent: BP_MediaPlayer2DVideoActor

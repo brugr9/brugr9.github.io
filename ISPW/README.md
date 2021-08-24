@@ -1,7 +1,7 @@
 # Unreal Engine Plugin: Institute of Sport Science ISPW
 
 Version: v2.0.1
-<br>Author: Roland Bruggmann roland.bruggmann@unibe.ch
+<br>Author: Roland Bruggmann
 
 ## Description
 
@@ -36,8 +36,8 @@ A plugin providing with Institute of Sport Science ISPW related assets. These ar
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 
-* [Distributed Game Engine DGE](http://phhum-a209-cp.unibe.ch:10012/UEP/DGE) (and its depepndencies)
-* [Sports Equipment](http://phhum-a209-cp.unibe.ch:10012/UEP/SportsEquipment)
+* Distributed Game Engine DGE and its depepndencies
+* Sports Equipment
 
 Package Diagram:
 
@@ -48,7 +48,7 @@ Package Diagram:
 Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/VirtualReality*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone http://tpf.fluido.as:10012/UEP/ISPW.git
+git clone https://github.com/brugr9/ISPW.git
 ```
 
 To create a new level running in the SenorimotorLab CAVE copy the template map to the project content folder.

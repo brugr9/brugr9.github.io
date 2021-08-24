@@ -1,7 +1,7 @@
 # Unreal Engine Plugin: Immersive Video
 
 Version: v2.0.1
-<br>Author: Roland Bruggmann roland.bruggmann@unibe.ch
+<br>Author: Roland Bruggmann
 
 ## Description
 
@@ -46,7 +46,7 @@ With using this plugin also engine plugins *BlueprintMaterialTextureNodes*, *Med
 Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Media*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone http://tpf.fluido.as:10012/UEP/ImmersiveVideo.git
+git clone https://github.com/brugr9/ImmersiveVideo.git
 ```
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")

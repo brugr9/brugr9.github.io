@@ -1,7 +1,7 @@
 # Unreal Engine Plugin: Pupil Core
 
 Version: v2.0.1
-<br>Author: Roland Bruggmann roland.bruggmann@unibe.ch
+<br>Author: Roland Bruggmann
 
 ## Description
 
@@ -41,14 +41,14 @@ A plugin providing with eye tracking gaze ray visualisation, hit generation and 
 
 The plugin was developed using Visual Studio 2019 and an UE4 Project enhanced as C++ code project. It use of code and/or assets from other plugins which must also be installed:
 
-* [AprilTagImages](http://phhum-a209-cp.unibe.ch:10012/UEP/AprilTagImages)
+* AprilTagImages
 
 ### Usage
 
 Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Tracking*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone http://tpf.fluido.as:10012/UEP/Pupil.git
+git clone https://github.com/brugr9/Pupil.git
 ```
 
 Find the file `MyProject/Plugins/Pupil/Config/DefaultPupil.ini` and copy-paste its lines to file `MyProject/Config/DefaultEngine.ini`.

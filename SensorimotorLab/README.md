@@ -1,5 +1,8 @@
 # Unreal Engine Project: SensorimotorLab
 
+Version: v2.0.1
+<br>Author: Roland Bruggmann
+
 ## Description
 
 ![Screenshot of Project Content](Docs/ScreenshotProjectContent.jpg "Screenshot of Project Content")
@@ -33,21 +36,21 @@ A project based on UE nDisplay template providing with Institute of Sport Scienc
 <!-- Start Document Outline -->
 
 * [1. Usage](#1-usage)
-	* [1.1. Dependencies](#11-dependencies)
-	* [1.2. Installation](#12-installation)
+  * [1.1. Dependencies](#11-dependencies)
+  * [1.2. Installation](#12-installation)
 * [2. Project Settings](#2-project-settings)
-	* [2.1. Handedness](#21-handedness)
-	* [2.2. Units](#22-units)
-	* [2.3. IPs](#23-ips)
+  * [2.1. Handedness](#21-handedness)
+  * [2.2. Units](#22-units)
+  * [2.3. IPs](#23-ips)
 * [3. Maps](#3-maps)
-	* [3.1. Map ISPW Cave 3D Demo](#31-map-ispw-cave-3d-demo)
-	* [3.2. Map ISPW Cave 360DegVideo](#32-map-ispw-cave-360degvideo)
+  * [3.1. Map ISPW Cave 3D Demo](#31-map-ispw-cave-3d-demo)
+  * [3.2. Map ISPW Cave 360DegVideo](#32-map-ispw-cave-360degvideo)
 * [4. Display Cluster](#4-display-cluster)
-	* [4.1. nDisplay Configurations](#41-ndisplay-configurations)
-	* [4.2. Packaging](#42-packaging)
-	* [4.3. nDisplay Launcher](#43-ndisplay-launcher)
-		* [4.3.1. Load Non Default Map](#431-load-non-default-map)
-		* [4.3.2. Test Pattern](#432-test-pattern)
+  * [4.1. nDisplay Configurations](#41-ndisplay-configurations)
+  * [4.2. Packaging](#42-packaging)
+  * [4.3. nDisplay Launcher](#43-ndisplay-launcher)
+    * [4.3.1. Load Non Default Map](#431-load-non-default-map)
+    * [4.3.2. Test Pattern](#432-test-pattern)
 * [5. Integration](#5-integration)
 * [A. References](#a-references)
 
@@ -68,14 +71,14 @@ The project was developed using
 
 The project makes use of plugin [ISPW](Plugins/ISPW) and its depepndencies (cp. package diagram):
 
-* [SportsEquipment](Plugins/SportsEquipment)
-* [DGE](Plugins/DGE) (and its depepndencies)
-  * [ESB Messaging](Plugins/ESBMessaging) (and its depepndencies)
-    * [ZeroMQ](Plugins/ZeroMQ) (and its depepndencies)
-    * [Pupil](Plugins/Pupil) (and its depepndencies)
-      * [AprilTagImages](Plugins/AprilTagImages)
+* SportsEquipment
+* [Distributed Game Engine DGE](Plugins/DGE) and its depepndencies:
+  * [ESB Messaging](Plugins/ESBMessaging) and its depepndencies:
+    * [ZeroMQ](Plugins/ZeroMQ)
+    * [Pupil](Plugins/Pupil)
+    * [AprilTagImages](Plugins/AprilTagImages)
     * [PlayArea](Plugins/PlayArea)
-    * [ImmersiveVideo](Plugins/ImmersiveVideo) (and its depepndencies)
+    * [ImmersiveVideo](Plugins/ImmersiveVideo)
 
 Package Diagram:
 
@@ -86,7 +89,7 @@ Package Diagram:
 Download the project using git -- the plugins are included as git submodules:
 
 ```shell
-git clone --recursive http://tpf.fluido.as:10012/DGE/SensorimotorLab.git
+git clone --recursive https://github.com/brugr9/SensorimotorLab.git
 cd SensorimotorLab
 git submodule update --recursive
 ```

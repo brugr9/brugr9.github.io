@@ -1,7 +1,7 @@
 # Unreal Engine Plugin: Distributed Game Engine DGE
 
 Version: v2.0.1
-<br>Author: Roland Bruggmann roland.bruggmann@unibe.ch
+<br>Author: Roland Bruggmann
 
 ## Description
 
@@ -37,7 +37,7 @@ A plugin providing with Display Cluster rendering and Remote Control related ass
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
 
-* [ESBMessaging](http://phhum-a209-cp.unibe.ch:10012/UEP/ESBMessaging) (and its dependencies)
+* ESBMessaging and its dependencies
 
 With using this plugin also engine plugin *nDisplay* is enabled.
 
@@ -48,7 +48,7 @@ With using this plugin also engine plugin *nDisplay* is enabled.
 Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Messaging*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone http://tpf.fluido.as:10012/UEP/DGE.git
+git clone https://github.com/brugr9/DGE.git
 ```
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")
@@ -294,27 +294,9 @@ Transition table:
 * Playing -- Close --> Closed
 * Playing -- EndReached (auto) --> Paused (with the file still openned)
 
-UML State Diagram:
+State Diagram 'MediaPlayer':
 
-@startuml
-[*] --> Closed
-Closed --> Paused : OpenFile
-Closed --> Closed : Seek
-Closed --> Closed : Play
-Closed --> Closed : Pause
-Closed --> Closed : Close
-Paused --> Paused : OpenFile
-Paused --> Paused : Seek
-Paused --> Playing : Play
-Paused --> Paused : Pause
-Paused --> Closed : Close
-Playing --> Paused : OpenFile
-Playing --> Playing : Seek
-Playing --> Playing : Play
-Playing --> Paused : Pause
-Playing --> Closed : Close
-Playing --> Paused : EndReached
-@enduml
+![State Diagram 'MediaPlayer'](Docs/StateDiagram-MediaPlayer.jpg "State Diagram 'MediaPlayer'")
 
 <div style='page-break-after: always'></div>
 
@@ -723,7 +705,7 @@ Blueprint ESBMessaging Demo Actor `BP_DGE_DemoActor`:
 * Folder: DGE Content/Demo/Blueprints/
 * Parent Class: Actor
 * Scene Components:
-  * DefaultCeneRoot with
+  * DefaultSceneRoot with
     * MeshComponent: Cube
       * TextRenderComponent: TextRender
       * ChildActorComponent: BP_MediaPlayer2DVideoActor

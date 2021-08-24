@@ -1,5 +1,8 @@
 # Unreal Engine Project: DreamSimLab
 
+Version: v2.1.0
+<br>Author: Roland Bruggmann
+
 ## Description
 
 ![Screenshot of Project Content](Docs/ScreenshotProjectContent.jpg "Screenshot of Project Content")
@@ -27,8 +30,8 @@ A project based on UE template 'Virtual Reality' providing with Institute of Psy
 <!-- Start Document Outline -->
 
 * [1. Usage](#1-usage)
-	* [1.1. Dependencies](#11-dependencies)
-	* [1.2. Installation](#12-installation)
+  * [1.1. Dependencies](#11-dependencies)
+  * [1.2. Installation](#12-installation)
 * [2. Map DreamSimLab](#2-dreamsimlab)
 * [A. References](#a-references)
 
