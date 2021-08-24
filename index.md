@@ -1,12 +1,10 @@
-## Roland Bruggmann - Portfolio
+## Roland Bruggmann
 
-You can use the [editor on GitHub](https://github.com/brugr9/brugr9.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Portfolio
 
 ## UE4 Projects and Plugins
+
+Unreal Engine Projects and Blueprint-/C++-Plugins
 
 * [UE4 nDisplay Project 'Sensorimotor Lab'](SensorimotorLab)
   * [UE4 Blueprint Plugin 'Play Area'](PlayArea)
@@ -18,6 +16,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   * [UE4 C++ Plugin 'ESB Messaging](ESBMessaging)
   * [UE4 C++ Plugin 'Distributed Game Engine DGE'](DGE)
   * [UE4 Blueprint Plugin 'Institute of Sport Science ISPW'](ISPW)
-* [UE4 Viurtual Reality Project 'Dream Simulation Lab'](DreamSimLab)
+
+* [UE4 Virtual Reality Project 'Dream Simulation Lab'](DreamSimLab)
   * [UE4 Blueprint Plugin 'Virtual Learning Attendance VIRLA'](VIRLA)
   * [UE4 C++ Plugin 'Bizarre BZR'](BZR)
