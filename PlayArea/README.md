@@ -1,4 +1,4 @@
-# Unreal Engine Plugin: Play Area
+# Unreal Engine BP-Plugin: Play Area
 
 Version: v2.0.1
 <br>Author: Roland Bruggmann
@@ -7,7 +7,7 @@ Version: v2.0.1
 
 ![Screenshot of Plugin Content](Docs/ScreenshotPluginContent.jpg "Screenshot of Plugin Content")
 
-A plugin providing with virtual or augmented reality VR/AR play area content: Some black shields, a clear color cube, a head and a collision warning cube. These are mainly Blueprints, each with a StaticMesh component holding a plane or cube mesh.
+A game plugin providing with virtual or augmented reality VR/AR play area content: Some black shields, a clear color cube, a head and a collision warning cube. These are mainly Blueprints, each with a StaticMesh component holding a plane or cube mesh.
 
 ### Features
 
@@ -29,7 +29,7 @@ A plugin providing with virtual or augmented reality VR/AR play area content: So
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/VirtualReality*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/PlayArea.git

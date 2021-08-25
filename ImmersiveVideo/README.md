@@ -7,7 +7,7 @@ Version: v2.0.1
 
 ![Screenshot of Plugin Content](Docs/ScreenshotPluginContent.jpg "Screenshot of Plugin Content")
 
-A plugin providing with media content for 2D Planar and 360° Spherical Video playback as well as for Scene Capture (VGA, HD, FullHD).
+A game plugin providing with media content for 2D Planar and 360° Spherical Video playback as well as for Scene Capture (VGA, HD, FullHD).
 
 ### Features
 
@@ -42,7 +42,7 @@ With using this plugin also engine plugins *BlueprintMaterialTextureNodes*, *Med
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Media*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/ImmersiveVideo.git
