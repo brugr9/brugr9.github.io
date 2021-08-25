@@ -32,7 +32,7 @@ From project description (UniDistance Suisse):
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 ### Usage
