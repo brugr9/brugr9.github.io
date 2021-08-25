@@ -9,7 +9,7 @@ Version: v2.0.1
 
 ![Screenshot of Plugin C++ Classes](Docs/ScreenshotPluginCppClasses.jpg "Screenshot of Plugin C++ Classes")
 
-A plugin providing with eye tracking gaze ray visualisation, hit generation and gaze hit visualisation assets.
+A game plugin providing with eye tracking gaze ray visualisation, hit generation and gaze hit visualisation assets.
 
 ### Features
 
@@ -37,14 +37,14 @@ A plugin providing with eye tracking gaze ray visualisation, hit generation and 
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 The plugin was developed using Visual Studio 2019 and an UE4 Project enhanced as C++ code project.
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Tracking*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/Pupil.git

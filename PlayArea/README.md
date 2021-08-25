@@ -24,7 +24,7 @@ A game plugin providing with virtual or augmented reality VR/AR play area conten
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 ### Usage

@@ -43,7 +43,7 @@ A Game Plugin providing with 3D Content for Dream-Like VR.
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 ### Usage

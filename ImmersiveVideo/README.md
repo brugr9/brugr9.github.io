@@ -35,7 +35,7 @@ A game plugin providing with media content for 2D Planar and 360° Spherical Vid
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 With using this plugin also engine plugins *BlueprintMaterialTextureNodes*, *MediaIOFramework*, *MediaFrameworkUtilities* and *WmfMedia* will be enabled.

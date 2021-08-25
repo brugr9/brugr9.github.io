@@ -7,7 +7,7 @@ Version: v2.0.1
 
 ![Screenshot of Plugin Content](Docs/ScreenshotPluginContent.jpg "Screenshot of Plugin Content")
 
-A plugin providing with Institute of Sport Science ISPW related assets. These are mainly Blueprints inheriting from plugin 'Distributed Game Engine DGE' but customized to environments of the ISPW, especially the Sensorimotor Laboratory with its five sided CAVE.
+A game plugin providing with Institute of Sport Science ISPW related assets. These are mainly Blueprints inheriting from plugin 'Distributed Game Engine DGE' but customized to environments of the ISPW, especially the Sensorimotor Laboratory with its five sided CAVE.
 
 ### Features
 
@@ -30,7 +30,7 @@ A plugin providing with Institute of Sport Science ISPW related assets. These ar
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
@@ -44,7 +44,7 @@ Package Diagram:
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/VirtualReality*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/ISPW.git

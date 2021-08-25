@@ -9,7 +9,7 @@ Version: v2.0.1
 
 ![Screenshot of Plugin C++ Classes](Docs/ScreenshotPluginCppClasses.jpg "Screenshot of Plugin C++ Classes")
 
-A plugin providing with Display Cluster rendering and Remote Control related assets. These are mainly Blueprints inheriting from plugin 'ESB Messaging' but customized to a distributed setup based on Unreal Display Cluster aka. nDisplay.
+A game plugin providing with Display Cluster rendering and Remote Control related assets. These are mainly Blueprints inheriting from plugin 'ESB Messaging' but customized to a distributed setup based on Unreal Display Cluster aka. nDisplay.
 
 ### Features
 
@@ -31,7 +31,7 @@ A plugin providing with Display Cluster rendering and Remote Control related ass
 
 ### Dependencies
 
-* Platforms Tested: PC Windows
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 The plugin was developed using Visual Studio 2019. It makes use of code and/or assets from other plugins which must also be installed (cp. package diagram):
@@ -44,7 +44,7 @@ With using this plugin also engine plugin *nDisplay* is enabled.
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Messaging*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/DGE.git

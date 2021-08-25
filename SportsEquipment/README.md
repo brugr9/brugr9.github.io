@@ -32,7 +32,7 @@ A plugin providing with sports equipment content based on 3D models from Sketchf
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Other*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/SportsEquipment

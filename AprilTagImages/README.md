@@ -7,7 +7,7 @@ Version: v2.0.1
 
 ![Screenshot of Plugin Content](Docs/ScreenshotPluginContent.jpg "Screenshot of Plugin Content")
 
-A plugin providing with images of tags from the pre-generated AprilTag 3 families from AprilRobotics. These are mainly Blueprints, each with a StaticMesh Component holding a plane with an AprilTag textured material instance.
+A game plugin providing with images of tags from the pre-generated AprilTag 3 families from AprilRobotics. These are mainly Blueprints, each with a StaticMesh Component holding a plane with an AprilTag textured material instance.
 
 ### Features
 
@@ -27,12 +27,12 @@ A plugin providing with images of tags from the pre-generated AprilTag 3 familie
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win64)
 * Supported Engine Versions: 4.26
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Tracking*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/AprilTagImages
