@@ -7,7 +7,7 @@ Version: v1.0.0
 
 ![Screenshot of Plugin Content](Docs/ScreenshotPluginContent.jpg "Screenshot of Plugin Content")
 
-A Plugin providing with 3D Content for VR Video Conferencing.
+A Game Plugin providing with 3D Content for VR Video Conferencing.
 
 From project description (UniDistance Suisse):
 
@@ -37,7 +37,7 @@ From project description (UniDistance Suisse):
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*) or engine plugin (folder */Engine/Plugins/Other*). Add the plugin by downloading and unpackaging an archive or using git clone:
+Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
 git clone https://github.com/brugr9/VIRLA.git
