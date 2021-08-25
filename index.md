@@ -12,8 +12,10 @@
   * [UE Code Plugin 'Pupil Core'](Pupil)
   * [UE Code Plugin 'ZeroMQ'](ZeroMQ)
   * [UE Code Plugin 'ESB Messaging](ESBMessaging)
+    * [Testing with Jupyter Notebook](ESBMessaging/Testing/)
   * [UE Code Plugin 'Distributed Game Engine DGE'](DGE)
   * [UE Blueprint Plugin 'Institute of Sport Science ISPW'](ISPW)
+    * [Testing with Jupyter Notebook](ISPW/Testing/)
 
 * [UE Virtual Reality Project 'Dream Simulation Lab'](DreamSimLab)
   * [UE Blueprint Plugin 'Virtual Learning Attendance VIRLA'](VIRLA)
@@ -23,4 +25,4 @@
 
 (Only the documentation is publicly available.)
 
-* [Unity Plugin 'Volume Rendering'](https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann/) (on LinkedIn)
+* [Unity Plugin 'Volume Rendering'](https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann/), In: LinkedIn
