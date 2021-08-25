@@ -11,7 +11,7 @@
   * [UE Blueprint Plugin 'AprilTag Images'](AprilTagImages)
   * [UE Code Plugin 'Pupil Core'](Pupil)
   * [UE Code Plugin 'ZeroMQ'](ZeroMQ)
-  * [UE Code Plugin 'ESB Messaging](ESBMessaging)
+  * [UE Code Plugin 'ESB Messaging'](ESBMessaging)
     * [Testing with Jupyter Notebook](ESBMessaging/Testing/)
   * [UE Code Plugin 'Distributed Game Engine DGE'](DGE)
   * [UE Blueprint Plugin 'Institute of Sport Science ISPW'](ISPW)
