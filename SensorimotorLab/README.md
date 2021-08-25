@@ -7,7 +7,7 @@ Version: v2.0.1
 
 ![Screenshot of Project Content](Docs/ScreenshotProjectContent.jpg "Screenshot of Project Content")
 
-A project based on UE nDisplay template providing with Institute of Sport Science ISPW related maps, more precise for the sensorimotor laboratory with its five sided CAVE. The laboratory integration is enabled by a messaging layer which is used to interact with an enterprise service bus ESB or the laboratory's experiment management system repectively. This project was elaborated in TPF approved project 'Distributed Game Engine DGE' and subsequent projects.
+A project based on UE Display Cluster template aka 'nDisplay' providing with Institute of Sport Science ISPW related maps, more precise for the sensorimotor laboratory with its five sided CAVE. The laboratory integration is enabled by a messaging layer which is used to interact with an enterprise service bus ESB or the laboratory's experiment management system repectively. This project was elaborated in TPF approved project 'Distributed Game Engine DGE' and subsequent projects.
 
 ### Features
 

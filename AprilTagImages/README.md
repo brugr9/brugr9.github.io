@@ -64,11 +64,15 @@ git clone https://github.com/brugr9/AprilTagImages
 
 A Static Mesh plane named `SM_Plane100x100_OriginLeftBottom` of size 0x100x100 with origin in left bottom corner (X=0.0,Y=0.0,Z=0.0) as tag model.
 
+Screenshot of Static Mesh Plane:
+
 ![Screenshot of Static Mesh Plane](Docs/ScreenshotStaticMeshPlane.jpg "Screenshot of Static Mesh Plane")
 
 ## 2. Textures
 
 Textures of images of tags from the pre-generated AprilTag 3 families.
+
+Screenshot of AprilTag Texture:
 
 ![Screenshot of AprilTag Texture](Docs/ScreenshotTexture.jpg "Screenshot of AprilTag Texture")
 
@@ -80,6 +84,8 @@ Textures of images of tags from the pre-generated AprilTag 3 families.
 
 An Opaque Material `M_AprilTag` with a TextureSampleParameter2D-node named 'AprilTag' which is UV-mapped by TextureCoordinate.
 
+Screenshot of AprilTag Material:
+
 ![Screenshot of AprilTag Material](Docs/ScreenshotMaterial.jpg "Screenshot of AprilTag Material")
 
 <div style='page-break-after: always'></div>
@@ -87,6 +93,8 @@ An Opaque Material `M_AprilTag` with a TextureSampleParameter2D-node named 'Apri
 ### 3.2. Material Instances
 
 One Material Instance per AprilTag: The parent `M_AprilTag` inherited Texture Parameter Value named 'AprilTag' is set to an AprilTag Texture.
+
+Screenshot of AprilTag Material Instance:
 
 ![Screenshot of AprilTag Material Instance](Docs/ScreenshotMaterialInstance.jpg "Screenshot of AprilTag Material Instance")
 
@@ -98,11 +106,15 @@ One Material Instance per AprilTag: The parent `M_AprilTag` inherited Texture Pa
 
 The abstract Blueprint `BP_Abstract_AprilTag` holds a Static Mesh Component named 'AprilTag' which points to the Static Mesh `SM_Plane100x100_OriginLeftBottom`. Its material serves as placeholder.
 
+Screenshot of Abstract Blueprint:
+
 ![Screenshot of Abstract Blueprint](Docs/ScreenshotAbstractBlueprint.jpg "Screenshot of Abstract Blueprint")
 
 ### 4.2. Inherited Blueprints
 
 One Blueprint per AprilTag: The Blueprints parent class is `BP_Abstract_AprilTag`. The Static Mesh Component Material is set to a specific AprilTag Material Instance.
+
+Screenshot of AprilTag Blueprint:
 
 ![Screenshot of AprilTag Blueprint](Docs/ScreenshotBlueprint.jpg "Screenshot of AprilTag Blueprint")
 

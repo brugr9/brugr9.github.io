@@ -67,9 +67,9 @@ Blueprint `BP_Soccerball` holds a Static Mesh component `SM_Soccerball`. The mes
 * Advanced:
   * Raise Mass to Power: 0.1
 
-|![Screenshot of Soccerball Reference Viewer](Docs/ScreenshotReferenceViewerSoccerball.jpg "Screenshot of Soccerball Reference Viewer")|
-|:--:|
-|**Fig. 1: Soccerball with Physical Material**|
+Screenshot of Soccerball Reference Viewer:
+
+![Screenshot of Soccerball Reference Viewer](Docs/ScreenshotReferenceViewerSoccerball.jpg "Screenshot of Soccerball Reference Viewer")
 
 <div style='page-break-after: always'></div>
 
@@ -86,9 +86,9 @@ Blueprint `PM_Tennisball` holds a Static Mesh component `SM_Tennisball`. The mes
 * Advanced:
   * Raise Mass to Power: 0.1
 
-|![Screenshot of Tennisball Reference Viewer](Docs/ScreenshotReferenceViewerTennisball.jpg "Screenshot of Tennisball Reference Viewer")|
-|:--:|
-|**Fig. 2: Tennisball with Physical Material**|
+Screenshot of Tennisball Reference Viewer:
+
+![Screenshot of Tennisball Reference Viewer](Docs/ScreenshotReferenceViewerTennisball.jpg "Screenshot of Tennisball Reference Viewer")
 
 ## A. References
 
