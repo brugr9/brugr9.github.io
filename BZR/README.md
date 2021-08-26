@@ -94,7 +94,7 @@ Screenshot of BP_Lamp-Room-1 PointLight Settings:
 
 Photograph of Real Lighting in the Laboratory and Screenshot of Virtual Lighting in Unreal Engine:
 
-![Photograph of Real Lighting in the Laboratory](Docs/LightingShadowsLaboratory-real.jpg "Photograph of Real Lighting in the Laboratory") ![Screenshot of Virtual Lighting in Unreal Editor](Docs/LightingShadowsLaboratory-virtual.png "Screenshot of Virtual Lighting in Unreal Editor")
+![Photograph of Real Lighting in the Laboratory and Screenshot of Virtual Lighting in Unreal Engine](Docs/LightingShadowsLaboratory.jpg "Photograph of Real Lighting in the Laboratory and Screenshot of Virtual Lighting in Unreal Engine")
 
 <div style='page-break-after: always'></div>
 
