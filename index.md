@@ -20,7 +20,8 @@ Technology Platform for Research approved project "Distributed Game Engine DGE" 
 
 ![Teaser SensorimotorLab](TeaserSensorimotorLab.jpg "Teaser SensorimotorLab")
 
-Institute of Sport Science ISPW – Department of Movement and Exercise Science
+August 2019 - June 2021
+<br>Institute of Sport Science ISPW – Department of Movement and Exercise Science
 <br>University of Bern
 
 ### Dream Simulation Lab
@@ -33,7 +34,8 @@ Technology Platform for Research approved project [*3D Content for Dream-Like VR
 
 ![Teaser DreamSimLab](TeaserDreamSimLab.jpg "Teaser DreamSimLab")
 
-Institute of Psychology – Department of Cognitive Psychology, Perception and Research Methods
+January - July 2019
+<br>Institute of Psychology – Department of Cognitive Psychology, Perception and Research Methods
 <br>University of Bern
 
 ## Unity® Projects and Plugins
@@ -46,5 +48,6 @@ In the context of my Bachelor's Thesis I implemented a Unity® plug-in for 3D vi
 
 ![Teaser VolumeRendering](TeaserVolumeRendering.jpg "Teaser VolumeRendering")
 
-Institute for Human Centered Engineering HuCE – Laboratory for Computer Perception and Virtual Reality
+January - June 2016
+<br>Institute for Human Centered Engineering HuCE – Laboratory for Computer Perception and Virtual Reality
 <br>Bern University of Applied Sciences BUAS
