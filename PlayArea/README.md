@@ -39,7 +39,7 @@ git clone https://github.com/brugr9/PlayArea.git
 
 ---
 
-## Table of contents
+## Table of Contents
 
 <!-- Start Document Outline -->
 

@@ -25,7 +25,7 @@ A project based on UE template 'Virtual Reality' providing with Institute of Psy
 
 ---
 
-## Table of contents
+## Table of Contents
 
 <!-- Start Document Outline -->
 

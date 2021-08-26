@@ -56,10 +56,10 @@ To create a new level running in the SenorimotorLab CAVE copy the template map t
 
 ---
 
-## Table of contents
+## Table of Contents
 <!-- Start Document Outline -->
 
-* [Table of contents](#table-of-contents)
+* [Table of Contents](#table-of-contents)
 * [1. ISPW CAVE](#1-ispw-cave)
   * [1.1. Handedness and Units](#11-handedness-and-units)
   * [1.2. Real CAVE and Virtual Twin](#12-real-cave-and-virtual-twin)

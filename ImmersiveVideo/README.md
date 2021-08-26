@@ -52,7 +52,7 @@ git clone https://github.com/brugr9/ImmersiveVideo.git
 
 ---
 
-## Table of contents
+## Table of Contents
 
 <!-- Start Document Outline -->
 

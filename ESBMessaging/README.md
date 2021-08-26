@@ -65,7 +65,7 @@ Find the file `MyProject/Plugins/ESBMessaging/Config/DefaultESBMessaging.ini` an
 
 ---
 
-## Table of contents
+## Table of Contents
 
 <!-- Start Document Outline -->
 

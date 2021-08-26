@@ -30,7 +30,7 @@ A project based on UE Display Cluster template aka 'nDisplay' providing with Ins
 
 ---
 
-## Table of contents
+## Table of Contents
 
 <!-- Start Document Outline -->
 

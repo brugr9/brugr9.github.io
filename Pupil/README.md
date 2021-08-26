@@ -58,7 +58,7 @@ Find the file `MyProject/Plugins/Pupil/Config/DefaultPupil.ini` and copy-paste i
 
 ---
 
-## Table of contents
+## Table of Contents
 
 <!-- Start Document Outline -->
 
