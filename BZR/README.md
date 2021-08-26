@@ -156,7 +156,7 @@ Blueprint `BP_ArtPrint-Bizarre` inherits from `BP_ArtPrint` which is an `Abstrac
 
 Screenshot of ArtPrint in Unreal Editor before and after starting Animation:
 
-![Screenshot of ArtPrint in Unreal Editor before starting Animation](Docs/UE4-ArtPrint-animation01.png "Screenshot of ArtPrint in Unreal Editor before starting Animation") ![Screenshot of ArtPrint in Unreal Editor after starting Animation](Docs/UE4-ArtPrint-animation02.png "Screenshot of ArtPrint in Unreal Editor after starting Animation")
+![Screenshot of ArtPrint in Unreal Editor before and after starting Animation](Docs/UE4-ArtPrint-animation.jpg "Screenshot of ArtPrint in Unreal Editor before and after starting Animation")
 
 <div style='page-break-after: always'></div>
 
@@ -172,7 +172,7 @@ Blueprint `BP_Book-Bizarre` inherits from `BP_Book` which is an `Abstract_Tracka
 
 Screenshot of Book in Unreal Editor before and after starting Animation:
 
-![Screenshot of Book in Unreal Editor before starting Animation](Docs/UE4-Book-animation01.png "Screenshot of Book in Unreal Editor before starting Animation") ![Screenshot of Book in Unreal Editor after starting Animation](Docs/UE4-Book-animation02.png "Screenshot of Book in Unreal Editor after starting Animation")
+![Screenshot of Book in Unreal Editor before and after starting Animation](Docs/UE4-Book-animation.jpg "Screenshot of Book in Unreal Editor before and after starting Animation")
 
 <div style='page-break-after: always'></div>
 
@@ -188,7 +188,7 @@ Blueprint `BP_Jacket-Bizarre` inherits from `BP_Jacket` and from `BP_CoatHook` w
 
 Screenshot of Jacket in Unreal Editor before and after starting Animation:
 
-![Screenshot of Jacket in Unreal Editor before starting Animation](Docs/UE4-Jacket-animation01.png "Screenshot of Jacket in Unreal Editor before starting Animation") ![Screenshot of Jacket in Unreal Editor after starting Animation](Docs/UE4-Jacket-animation02.png "Screenshot of Jacket in Unreal Editor after starting Animation")
+![Screenshot of Jacket in Unreal Editor before and after starting Animation](Docs/UE4-Jacket-animation.jpg "Screenshot of Jacket in Unreal Editor before and after starting Animation")
 
 <div style='page-break-after: always'></div>
 
@@ -204,7 +204,7 @@ Blueprint `BP_MarkerPen-Bizarre` inherits from `BP_MarkerPen` which is an `Abstr
 
 Screenshot of MarkerPen in Unreal Editor before and after starting Animation:
 
-![Screenshot of MarkerPen in Unreal Editor before starting Animation](Docs/UE4-MarkerPen-animation01.png "Screenshot of MarkerPen in Unreal Editor before starting Animation") ![Screenshot of MarkerPen in Unreal Editor after starting Animation](Docs/UE4-MarkerPen-animation02.png "Screenshot of MarkerPen in Unreal Editor after starting Animation")
+![Screenshot of MarkerPen in Unreal Editor before and after starting Animation](Docs/UE4-MarkerPen-animation.jpg "Screenshot of MarkerPen in Unreal Editor before and after starting Animation")
 
 <div style='page-break-after: always'></div>
 
@@ -220,7 +220,7 @@ Blueprint `BP_Telephone-Bizarre` inherits from `BP_Telephone` which is an `Abstr
 
 Screenshot of Telephone in Unreal Editor before and after starting Animation:
 
-![Screenshot of Telephone in Unreal Editor before starting Animation](Docs/UE4-Telephone-animation01.png "Screenshot of Telephone in Unreal Editor before starting Animation") ![Screenshot of Telephone in Unreal Editor after starting Animation](Docs/UE4-Telephone-animation02.png "Screenshot of Telephone in Unreal Editor after starting Animation")
+![Screenshot of Telephone in Unreal Editor before and after starting Animation](Docs/UE4-Telephone-animation.jpg "Screenshot of Telephone in Unreal Editor before and after starting Animation")
 
 ## A. References
 
