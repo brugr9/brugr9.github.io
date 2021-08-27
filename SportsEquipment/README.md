@@ -27,7 +27,7 @@ A plugin providing with sports equipment content based on 3D models from Sketchf
 
 ### Dependencies
 
-* Platforms Tested: PC Windows 10
+* Platforms Tested: PC Windows 10 (Win65)
 * Supported Engine Versions: 4.26
 
 ### Usage
@@ -35,7 +35,7 @@ A plugin providing with sports equipment content based on 3D models from Sketchf
 Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone https://github.com/brugr9/SportsEquipment
+git clone https://github.com/brugr9/SportsEquipment.git
 ```
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")

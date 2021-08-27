@@ -35,7 +35,7 @@ A game plugin providing with images of tags from the pre-generated AprilTag 3 fa
 Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
 
 ```shell
-git clone https://github.com/brugr9/AprilTagImages
+git clone https://github.com/brugr9/AprilTagImages.git
 ```
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")
