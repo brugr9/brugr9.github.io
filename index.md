@@ -12,7 +12,7 @@
   * [Code Plugin "ESB Messaging"](ESBMessaging)
   * [Code Plugin "Distributed Game Engine DGE"](DGE)
   * [Blueprint Plugin "Institute of Sport Science ISPW"](ISPW)
-* [Testing of Messaging using Jupyter Notebook as Endpoint)](ISPW/Testing/)
+* [Testing of Messaging using Jupyter Notebook as Endpoint](ISPW/Testing/)
 
 ![360° Spherical Video Playback in Sensorimotor Laboratory CAVE: Ice Hockey Scene](TeaserSensorimotorLab.jpg "360° Spherical Video Playback in Sensorimotor Laboratory CAVE: Ice Hockey Scene")
 <p><em>Fig.1: 360° Spherical Video Playback of Ice Hockey Scene in Sensorimotor Laboratory CAVE</em></p>
