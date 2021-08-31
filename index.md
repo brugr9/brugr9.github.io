@@ -34,11 +34,11 @@ January-July 2019, Technology Platform for Research approved project [*3D Conten
 
 ## Volume Rendering
 
-In the context of my Bachelor's Thesis I implemented a Unity® plug-in for 3D visualisation of MRI/CT data which can be used in VR/AR applications. Therefore a raycaster pixel-shader running on GPUs was developed:
+In the context of my Bachelor's Thesis I implemented a Unity® plug-in for 3D visualisation of MRI/CT data which can be used in VR/AR applications. Therefore a raycaster pixel-shader running on GPUs was developed.
 
 * ["Unity® Volume Rendering—Plug-in for Rendering of Medical Data"](https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann/), In: LinkedIn.
 
 ![Teaser VolumeRendering](TeaserVolumeRendering.jpg "Teaser VolumeRendering")
 <p><em>Fig.3: Real-Time Rendering of a Neurovascular Angiography in Unity® Editor</em></p>
 
-January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS
+January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS. Only the documentation is publicly available.
