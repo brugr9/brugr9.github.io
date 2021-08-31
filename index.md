@@ -1,8 +1,6 @@
-# Roland Bruggmann &mdash; Portfolio
+# Unreal Engine Projects and Plugins
 
-## Unreal Engine Projects and Plugins
-
-### Sensorimotor Lab
+## Sensorimotor Lab
 
 * [UE Display Cluster Project "Sensorimotor Lab"](SensorimotorLab)
   * [Blueprint Plugin "Play Area"](PlayArea)
@@ -21,7 +19,7 @@
 
 August 2019 - June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" aka [*UE4 Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster) at Faculty of Human Sciences on behalf of the Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern. Only the documentation is publicly available.
 
-### Dream Simulation Lab
+## Dream Simulation Lab
 
 * [UE Virtual Reality Project "Dream Simulation Lab"](DreamSimLab)
   <!-- * [Content Plugin "Virtual Learning Attendance VIRLA"](VIRLA) -->
@@ -32,9 +30,9 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 
 January-July 2019, Technology Platform for Research approved project [*3D Content for Dream-Like VR*](https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR) at Faculty of Human Sciences on behalf of the Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern. Only the documentation is publicly available.
 
-## Unity® Projects and Plugins
+# Unity® Projects and Plugins
 
-### Volume Rendering
+## Volume Rendering
 
 In the context of my Bachelor's Thesis I implemented a Unity® plug-in for 3D visualisation of MRI/CT data which can be used in VR/AR applications. Therefore a raycaster pixel-shader running on GPUs was developed:
 
@@ -43,5 +41,4 @@ In the context of my Bachelor's Thesis I implemented a Unity® plug-in for 3D vi
 ![Teaser VolumeRendering](TeaserVolumeRendering.jpg "Teaser VolumeRendering")
 <p><em>Fig.3: Real-Time Rendering of a Neurovascular Angiography in Unity® Editor</em></p>
 
-January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality
-<br>Bern University of Applied Sciences BUAS
+January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS
