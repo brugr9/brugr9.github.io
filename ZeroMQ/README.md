@@ -84,8 +84,8 @@ Class Diagram ZeroMQ:
 ZmqContextActor has:
 
 * Variables:
-  * 'Number of Threads': Number of I/O threads for this context: 0 to 255 (uint8), default is 1 (ZMQ_IO_THREADS_DFLT). From [ZeroMQ Wiki FAQ](http://wiki.zeromq.org/area:faq#toc6) : "What is the optimal number of I/O threads for best performance? The basic heuristic is to allocate 1 I/O thread in the context for every gigabit per second of data that will be sent and received (aggregated). Further, the number of I/O threads should not exceed (number_of_cpu_cores - 1).
-  * 'Maximum Number of Sockets': Maximum number of sockets allowed for this context: 1 to 2,147,483,647 (int32, but minimum is 1), default is 1023 (ZMQ_MAX_SOCKETS_DFLT)
+  * Number of Threads: Number of I/O threads for this context: 0 to 255 (`uint8`), default is 1 (`ZMQ_IO_THREADS_DFLT`). From [ZeroMQ Wiki FAQ](http://wiki.zeromq.org/area:faq#toc6) : "What is the optimal number of I/O threads for best performance? The basic heuristic is to allocate 1 I/O thread in the context for every gigabit per second of data that will be sent and received (aggregated). Further, the number of I/O threads should not exceed (number_of_cpu_cores - 1)."
+  * Maximum Number of Sockets: Maximum number of sockets allowed for this context: 1 to 2,147,483,647 (`int32`, but minimum is 1), default is 1023 (`ZMQ_MAX_SOCKETS_DFLT`)
   * Array of ZmqSocketActors: Sockets handled by this context.
 
 * Functions:
