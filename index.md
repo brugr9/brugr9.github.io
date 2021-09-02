@@ -2,6 +2,8 @@
 
 ## Sensorimotor Lab
 
+A project based on UE display cluster template "nDisplay" providing with Institute of Sport Science ISPW related maps, more precise for their sensorimotor laboratory with its five sided CAVE. The laboratory integration is enabled by a newly developed messaging layer which is used to interact with an enterprise service bus ESB or the laboratory’s experiment management system repectively. Custom-built Unreal Engine plugins allow VR-objects to be controlled by the lab’s experiment management system and CAVE-specific content to be rendered. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
+
 * [UE Display Cluster Project "Sensorimotor Lab"](SensorimotorLab)
   * [Blueprint Plugin "Play Area"](PlayArea)
   * [Blueprint Plugin "Immersive Video"](ImmersiveVideo)
@@ -17,7 +19,7 @@
 ![360° Spherical Video Playback in Sensorimotor Laboratory CAVE: Ice Hockey Scene](TeaserSensorimotorLab.jpg "360° Spherical Video Playback in Sensorimotor Laboratory CAVE: Ice Hockey Scene")
 <p><em>Fig.1: 360° Spherical Video Playback of Ice Hockey Scene in Sensorimotor Laboratory CAVE</em></p>
 
-August 2019 - June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" aka [*UE4 Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster) at Faculty of Human Sciences on behalf of the Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern. Only the documentation is publicly available.
+August 2019 - June 2021, Technology Platform for Research TPF approved project "Distributed Game Engine DGE" aka [*UE4 Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster) and subsequent projects at Faculty of Human Sciences on behalf of the Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern. Only the documentation is publicly available.
 
 ## Dream Simulation Lab
 
