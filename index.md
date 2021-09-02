@@ -2,7 +2,7 @@
 
 ## Sensorimotor Lab
 
-A project based on UE display cluster template "nDisplay" providing with Institute of Sport Science ISPW related maps, more precise for their sensorimotor laboratory with its five sided CAVE. The laboratory integration is enabled by a newly developed messaging layer which is used to interact with an enterprise service bus ESB or the laboratory’s experiment management system repectively. Custom-built Unreal Engine plugins allow VR-objects to be controlled by the lab’s experiment management system and CAVE-specific content to be rendered. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
+A project based on UE display cluster template "nDisplay" providing with Institute of Sport Science ISPW related game-levels, more precise for their sensorimotor laboratory with its five sided CAVE. The laboratory integration is enabled by a newly developed messaging layer which is in use to interact with an enterprise service bus ESB or the laboratory’s experiment management system repectively. Custom-built Unreal Engine plugins allow VR-objects to be controlled by the lab’s experiment management system and CAVE-specific 3D-content as well as 360°-videos to be rendered. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
 
 * [UE Display Cluster Project "Sensorimotor Lab"](SensorimotorLab)
   * [Blueprint Plugin "Play Area"](PlayArea)
