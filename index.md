@@ -23,6 +23,10 @@ August 2019 - June 2021, Technology Platform for Research TPF approved project "
 
 ## Dream Simulation Lab
 
+**Modelling and Animation of 3D Objects for Use in a Dream-Like Virtual Environment**
+
+Experience of reality is highly flexible and unstable. This becomes apparent during the wake-sleep cycle when dreams appear real to us. To investigate alterations in the experience of reality and its underlying mechanism, a bizarre virtual environment is used to elicit altered experiences. Therefore, 3D objects and environments had to be created.
+
 * [UE Virtual Reality Project "Dream Simulation Lab"](DreamSimLab)
   <!-- * [Content Plugin "Virtual Learning Attendance VIRLA"](VIRLA) -->
   * [Code Plugin "Bizarre BZR"](BZR)
