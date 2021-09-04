@@ -18,8 +18,8 @@ An Unreal Engine project based on the display cluster template "nDisplay" provid
   * [Blueprint Plugin "Institute of Sport Science ISPW"](ISPW)
 * [Testing of ESB Messaging using Jupyter Notebook as Endpoint](ISPW/Testing/)
 
-![360° Spherical Video Playback in Sensorimotor Laboratory CAVE: Ice Hockey Scene](TeaserSensorimotorLab.jpg "360° Spherical Video Playback in Sensorimotor Laboratory CAVE: Ice Hockey Scene")
-<p><em>Fig.1: 360° Spherical Video Playback of Ice Hockey Scene in Sensorimotor Laboratory CAVE</em></p>
+![UE 360° Spherical Video Playback of Ice Hockey Scene in Sensorimotor Laboratory CAVE](TeaserSensorimotorLab.jpg "UE 360° Spherical Video Playback of Ice Hockey Scene in Sensorimotor Laboratory CAVE")
+<p><em>Fig.1: UE 360° Spherical Video Playback of Ice Hockey Scene in Sensorimotor Laboratory CAVE</em></p>
 
 August 2019 - June 2021, Technology Platform for Research TPF approved project "Distributed Game Engine DGE" aka [*UE4 Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster) and subsequent projects at Faculty of Human Sciences on behalf of the Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern. Only the documentation is publicly available.
 
