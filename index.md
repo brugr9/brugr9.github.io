@@ -1,15 +1,5 @@
 # Roland Bruggmann — Portfolio
 
-<!-- Start Document Outline -->
-
-* [Unreal Engine Projects and Plugins](#unreal-engine-projects-and-plugins)
-	* [Sensorimotor Lab](#sensorimotor-lab)
-	* [Dream Simulation Lab](#dream-simulation-lab)
-* [Unity Projects and Plugins](#unity-projects-and-plugins)
-	* [Volume Rendering](#volume-rendering)
-
-<!-- End Document Outline -->
-
 ## Unreal Engine Projects and Plugins
 
 ### Sensorimotor Lab
