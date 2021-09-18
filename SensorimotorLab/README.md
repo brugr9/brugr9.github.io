@@ -222,7 +222,6 @@ Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 
 ## A. References
 
-* [*7.11 Git Tools - Submodules*](https://git-scm.com/book/en/v2/Git-Tools-Submodules), Git Version Control, Documentation
 * [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/index.html), Unreal Engine Documentation
 * [*UE4 Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
-* [*Institute of Sport Science: Research*](https://www.ispw.unibe.ch/research/index_eng.html), University of Bern
+* [*Der Blick von Topathletinnen wird optimiert*](https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/), In: Horizonte - Das Schweizer Forschungsmagazin (Online), Santina Russe, 02. September 2021
