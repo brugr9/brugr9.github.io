@@ -4,7 +4,7 @@
 
 ### Distributed Real-Time Rendering in Sensorimotor Laboratory
 
-August 2019 - June 2021, Technology Platform for Research TPF approved project "Distributed Game Engine DGE" aka "UE4 Display Cluster in CAVE" and subsequent projects at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern. Only the documentation is publicly available.
+August 2019 - June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" aka "UE4 Display Cluster in CAVE" and subsequent projects at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern.
 
 ![Projection of an Unreal Engine 3D-Scene in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-CAVE.jpg "Projection of an Unreal Engine 3D-Scene in Sensorimotor Laboratory CAVE.")
 <p><em>Fig.1: Projection of an Unreal Engine 3D-Scene in Sensorimotor Laboratory CAVE.</em></p>
@@ -33,6 +33,8 @@ An Unreal Engine project based on the display cluster template "nDisplay" provid
   * [Blueprint Plugin "Institute of Sport Science ISPW"](ISPW)
 * [Integration Testing by Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
 
+For these plugins, only the documentation is publicly available.
+
 #### References
 
 * [*UE Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
@@ -40,7 +42,7 @@ An Unreal Engine project based on the display cluster template "nDisplay" provid
 
 ### Modelling and Animation of 3D Objects for Use in a Dream-Like Virtual Environment
 
-January-July 2019, Technology Platform for Research approved project "3D Content for Dream-Like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern. Only the documentation is publicly available.
+January-July 2019, Technology Platform for Research approved project "3D Content for Dream-Like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern.
 
 ![Virtual Twin of the Dream Simulation Lab in Unreal Editor.](TeaserDreamSimLab.jpg "Virtual Twin of the Dream Simulation Lab in Unreal Editor.")
 <p><em>Fig.4: Virtual Twin of the Dream Simulation Lab in Unreal Editor.</em></p>
@@ -55,6 +57,8 @@ Experience of reality is highly flexible and unstable. This becomes apparent dur
 * [Code Plugin "Bizarre BZR"](BZR)
 <!-- * [Content Plugin "Virtual Learning Attendance VIRLA"](VIRLA) -->
 
+For these plugins, only the documentation is publicly available.
+
 #### References
 
 * [*3D Content for Dream-Like VR*](https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR), In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
@@ -64,7 +68,7 @@ Experience of reality is highly flexible and unstable. This becomes apparent dur
 
 ### Unity® Volume Rendering — Plug-in for 3D-Rendering of Medical Data
 
-January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS. Only the documentation is publicly available.
+January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS.
 
 ![Real-Time Rendering of a Neurovascular Angiography in Unity Editor.](TeaserVolumeRendering.jpg "Real-Time Rendering of a Neurovascular Angiography in Unity Editor.")
 <p><em>Fig.5: Real-Time Rendering of a Neurovascular Angiography in the Unity® Editor.</em></p>
