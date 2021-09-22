@@ -1,6 +1,6 @@
 # Roland Bruggmann — Portfolio
 
-*Roland Bruggmann — Portfolio: Unreal Engine UE and Unity® Game Engine Projects and Plugins*
+*Unreal Engine UE and Unity® Game Engine Projects and Plugins*
 
 ## Document Outline
 <!-- Start Document Outline -->
