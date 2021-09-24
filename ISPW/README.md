@@ -375,8 +375,8 @@ An overview of Blueprints and handled object names (Actor-Component ESBMessageHa
 
 ### 3.1. BP ISPW DGEMediaPlayer2D
 
-* Folder Content/Blueprints
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/BP_DGE_MediaPlayer2D
+* Folder: Content / Blueprints
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / BP_DGE_MediaPlayer2D
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActor MediaPlayer2D, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -416,8 +416,8 @@ Communication Diagram Datastream RenderTick:
 
 ### 3.2. BP ISPW DGEMediaPlayer360
 
-* Folder Content/Blueprints
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/BP_DGE_MediaPlayer360
+* Folder: Content / Blueprints
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / BP_DGE_MediaPlayer360
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActor MediaPlayer360, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -436,7 +436,7 @@ Screenshot of BP_ISPW_DGEMediaPlayer360 in ReferenceViewer:
 
 ### 3.3. BP ISPW Cave DGEMediaPlayer360
 
-* Folder Content/Blueprints
+* Folder: Content / Blueprints
 * Parent Class: BP_ISPW_DGEMediaPlayer360
 * Customized Values:
   * Scene, Scale: (X=2800.000000,Y=2800.000000,Z=2800.000000) ^1
@@ -475,8 +475,8 @@ Communication Diagram Datastream RenderTick:
 
 ### 3.4. BP ISPW DGETextRender
 
-* Folder Content/Blueprints
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/BP_DGE_TextRender
+* Folder: Content / Blueprints
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / BP_DGE_TextRender
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -508,8 +508,8 @@ Communication Diagram Event:
 
 ### 3.5. BP ISPW DGEWatchdog
 
-* Folder Content/Blueprints
-* Parent Class: ESBMessaging/Content/Blueprints/BP_ESB_Watchdog
+* Folder: Content / Blueprints
+* Parent Class: ESBMessaging / Content / Blueprints / BP_ESB_Watchdog
 * Customized Values:
   * ZmqPublish: Topic 'DGEWatchdog'
   * EsbMessageHandler: Handled Object Name 'DGEWatchdog'
@@ -530,7 +530,7 @@ Communication Diagram Datastream Watchdog:
 
 ### 3.6. BP ISPW Cave DGEAprilTags
 
-* Folder Content/Blueprints/PlayArea
+* Folder: Content / Blueprints / PlayArea
 * Parent Class: DGEMessageHandlerActor
 * Customized Values:
   * Scene, Scale: (X=1095.600000,Y=597.600000,Z=418.320000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
@@ -572,7 +572,7 @@ Communication Diagram Event:
 
 ### 3.7. BP ISPW Cave DGEColorChecker
 
-* Folder Content/Blueprints/PlayArea
+* Folder: Content / Blueprints / PlayArea
 * Parent Class: DGEMessageHandlerActor
 * Customized Values:
   * Scene, Scale: (X=1097.800000,Y=598.800000,Z=419.160000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
@@ -614,8 +614,8 @@ Communication Diagram Event:
 
 ### 3.8. BP ISPW Cave DGEClearColor
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_ClearColor
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_ClearColor
 * Customized Values:
   * Scene, Scale: (X=1104.400000,Y=602.400000,Z=421.680000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -645,8 +645,8 @@ Communication Diagram Event:
 
 ### 3.9. BP ISPW Cave DGEBlackShieldBack
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_BlackShieldBack
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldBack
 * Customized Values:
   * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -682,8 +682,8 @@ Communication Diagram Event:
 
 ### 3.10. BP ISPW Cave DGEBlackShieldFloor
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_BlackShieldFloor
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldFloor
 * Customized Values:
   * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -711,8 +711,8 @@ Communication Diagram Event:
 
 ### 3.11. BP ISPW Cave DGEBlackShieldFront
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_BlackShieldFront
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldFront
 * Customized Values:
   * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -740,8 +740,8 @@ Communication Diagram Event:
 
 ### 3.12. BP ISPW Cave DGEBlackShieldLeft
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_BlackShieldLeft
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldLeft
 * Customized Values:
   * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -769,8 +769,8 @@ Communication Diagram Event:
 
 ### 3.13. BP ISPW Cave DGEBlackShieldRight
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_BlackShieldRight
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldRight
 * Customized Values:
   * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -800,8 +800,8 @@ Communication Diagram Event:
 
 ### 3.14. BP ISPW DGEHead
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_Head
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_Head
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -836,8 +836,8 @@ Communication Diagram Datastream Head (Interface EsbTransform):
 
 ### 3.15. BP ISPW Cave DGECollisionWarning
 
-* Folder Content/Blueprints/PlayArea
-* Parent Class: DGE/Content/Blueprints/MessageHandlerActor/PlayArea/BP_DGE_CollisionWarning
+* Folder: Content / Blueprints / PlayArea
+* Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_CollisionWarning
 * Customized Values:
   * Scene, Scale: (X=1102.200000,Y=601.200000,Z=420.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -871,8 +871,8 @@ Communication Diagram Event:
 
 ### 3.16. BP ISPW DGEPupilGaze0
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilGaze0
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze0
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -914,8 +914,8 @@ Communication Diagram Datastream EyeLeft (Interface EsbTransform):
 
 ### 3.17. BP ISPW DGEPupilGaze0Ray
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilGaze0Ray
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze0Ray
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -946,8 +946,8 @@ Communication Diagram Event:
 
 ### 3.18. BP ISPW DGEPupilGaze0Hit
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilGaze0Hit
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze0Hit
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -978,8 +978,8 @@ Communication Diagram Event:
 
 ### 3.19. BP ISPW DGEPupilGaze1
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilGaze1
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze1
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -1017,8 +1017,8 @@ Communication Diagram Datastream EyeRight (Interface EsbTransform):
 
 ### 3.20. BP ISPW DGEPupilGaze1Ray
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilGaze1Ray
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze1Ray
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -1045,8 +1045,8 @@ Communication Diagram Event:
 
 ### 3.21. BP ISPW DGEPupilGaze1Hit
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilGaze1Hit
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze1Hit
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -1073,8 +1073,8 @@ Communication Diagram Event:
 
 ### 3.22. BP ISPW DGEPupilShapeTarget
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilShapeTarget
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilShapeTarget
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
@@ -1099,8 +1099,8 @@ Communication Diagram Event:
 
 ### 3.23. BP ISPW DGEPupilShapeTarget HeadProjection
 
-* Folder Content/Blueprints/Pupil
-* Parent Class: DGE/Blueprints/MessageHandlerActor/Pupil/BP_DGE_PupilShapeTarget
+* Folder: Content / Blueprints / Pupil
+* Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilShapeTarget
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)

@@ -422,7 +422,7 @@ Screenshot Blueprint BP_DGE_Watchdog:
 
 ### 3.2. BP DGE MediaPlayer2D
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor
+* Folder: DGE Content / Blueprints / MessageHandlerActor
 * Parent Class: DGEMediaPlayerActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -442,7 +442,7 @@ Please consider:
 
 ### 3.3. BP DGE MediaPlayer360
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor
+* Folder: DGE Content / Blueprints / MessageHandlerActor
 * Parent Class: DGEMediaPlayerActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -460,7 +460,7 @@ Please consider:
 
 ### 3.4. BP DGE TextRender
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor
+* Folder: DGE Content / Blueprints / MessageHandlerActor
 * Parent Class: DGETextRenderActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -478,7 +478,7 @@ Please consider:
 
 ### 3.5. BP DGE BlackShieldBack
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -491,7 +491,7 @@ Please consider:
 
 ### 3.6. BP DGE BlackShieldFloor
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -504,7 +504,7 @@ Please consider:
 
 ### 3.7. BP DGE BlackShieldFront
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -517,7 +517,7 @@ Please consider:
 
 ### 3.8. BP DGE BlackShieldLeft
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -530,7 +530,7 @@ Please consider:
 
 ### 3.9. BP DGE BlackShieldRight
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -543,7 +543,7 @@ Please consider:
 
 ### 3.10. BP DGE ClearColor
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -561,7 +561,7 @@ Please consider:
 
 ### 3.11. BP DGE CollisionWarning
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -574,7 +574,7 @@ Please consider:
 
 ### 3.12. BP DGE Head
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/PlayArea
+* Folder: DGE Content / Blueprints / MessageHandlerActor / PlayArea
 * Parent Class: DGEMessageHandlerChildActor
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
@@ -589,7 +589,7 @@ Please consider:
 
 ### 3.13. BP DGE PupilGaze0
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/Pupil
+* Folder: DGE Content / Blueprints / MessageHandlerActor / Pupil
 * Parent Class: DGEPupilGazeActor
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze0Actor
@@ -604,7 +604,7 @@ Please consider:
 
 ### 3.14. BP DGE PupilGaze0Ray
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/Pupil
+* Folder: DGE Content / Blueprints / MessageHandlerActor / Pupil
 * Parent Class: DGEPupilGazeRayActor
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze0Ray
@@ -619,7 +619,7 @@ Please consider:
 
 ### 3.15. BP DGE PupilGaze0Hit
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/Pupil
+* Folder: DGE Content / Blueprints / MessageHandlerActor / Pupil
 * Parent Class: DGEPupilGazeHitActor
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze0Hit
@@ -634,7 +634,7 @@ Please consider:
 
 ### 3.16. BP DGE PupilGaze1
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/Pupil
+* Folder: DGE Content / Blueprints / MessageHandlerActor / Pupil
 * Parent Class: DGEPupilGazeActor
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze1Actor
@@ -649,7 +649,7 @@ Please consider:
 
 ### 3.17. BP DGE PupilGaze1Ray
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/Pupil
+* Folder: DGE Content / Blueprints / MessageHandlerActor / Pupil
 * Parent Class: DGEPupilGazeRayActor
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze1Ray
@@ -664,7 +664,7 @@ Please consider:
 
 ### 3.18. BP DGE PupilGaze1Hit
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/Pupil
+* Folder: DGE Content / Blueprints / MessageHandlerActor / Pupil
 * Parent Class: DGEPupilGazeHitActor
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze1Hit
@@ -679,7 +679,7 @@ Please consider:
 
 ### 3.19. BP DGE PupilShapeTarget
 
-* Folder: DGE Content/Blueprints/MessageHandlerActor/Pupil
+* Folder: DGE Content / Blueprints / MessageHandlerActor / Pupil
 * Parent Class: DGEPupilGazeActor
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilShapeTarget
@@ -806,7 +806,7 @@ Screenshot of Jupyter Notebook ESBMessaging ZeroMQ Publish:
 * Unreal Engine Documentation:
   * [Rendering to Multiple Displays with nDisplay](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/index.html), In: *Working with Media*
   * [Using Cluster Events](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/ClusterEvents/index.html), In: *Working with Media > Rendering to Multiple Displays with nDisplay*
-* JSON Schema -- The organisation responsible for the Json Schema specification:
+* JSON Schema Specification:
   * [Homepage of JSON Schema](https://json-schema.org/)
   * [Understanding JSON Schema 7.0](https://json-schema.org/understanding-json-schema/index.html)
 * Technology Platform for Research TPF: [UE4 Display Cluster in CAVE](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), Faculty of Human Sciences, University of Bern

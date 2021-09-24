@@ -32,20 +32,11 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 
 ### 1.2. Documentation
 
-* [UE Display Cluster Project "Sensorimotor Lab"](SensorimotorLab)
-* [Integration Testing by Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
-
-Plugins:
-
-* [Blueprint Plugin "Play Area"](PlayArea)
-* [Blueprint Plugin "Immersive Video"](ImmersiveVideo)
-* [Blueprint Plugin "Sports Equipment"](SportsEquipment)
-* [Blueprint Plugin "AprilTag Images"](AprilTagImages)
-* [Code Plugin "Pupil Core"](Pupil)
-* [Code Plugin "ZeroMQ"](ZeroMQ)
-* [Code Plugin "ESB Messaging"](ESBMessaging)
-* [Code Plugin "Distributed Game Engine DGE"](DGE)
-* [Blueprint Plugin "Institute of Sport Science ISPW"](ISPW)
+* UE Display Cluster Project: [Sensorimotor Lab](SensorimotorLab)
+  * UE Blueprint Plugins: [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages)
+  * UE Code Plugins: [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
+  * UE Blueprint Plugin [Institute of Sport Science ISPW](ISPW)
+* Integration Testing:  [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
 
 ### 1.3. External References
 
@@ -80,8 +71,7 @@ January-July 2019, Technology Platform for Research approved project "3D Content
 
 * <a href="https://www.slideshare.net/secret/lUQIwIEFTZYEq" target="_blank">Project Report (pdf)</a> on Slide Share
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-Like VR*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
-* <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>, In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse (Online)
-* <a href="https://www.sleep.unibe.ch/research/projects/reality_monitoring_in_sleep_psychosis_and_virtual_reality/index_eng.html" target="_blank">*Reality-monitoring in sleep, psychosis, and virtual reality*</a>, In: Website of *"Decoding Sleep"* - Interfaculty Research Cooperation of Department of Psychology and Hospital of Psychiatry, University of Bern
+* <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>, In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse
 
 ## 3. Unity® Rigged Body Animation
 
@@ -99,6 +89,7 @@ November – December 2018, Technology Platform for Research approved project "3
 
 ### 3.2. External References
 
+* <a href="https://youtu.be/FbmcLNf7JQM" target="_blank">Screencast</a> on YouTube
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/RiggedBodyAnimation" target="_blank">*Rigged Body Animation in Unity®*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 
 ## 4. Unity® Volume Rendering
@@ -138,4 +129,4 @@ July 2018, private project of Roland Bruggmann
 
 ### 5.2. External References
 
-* <a href="https://youtu.be/KysSDO5oVDU" target="_blank">Screencast</a>, on YouTube
+* <a href="https://youtu.be/KysSDO5oVDU" target="_blank">Screencast</a> on YouTube
