@@ -395,7 +395,7 @@ Screenshot of BP_ISPW_DGEMediaPlayer2D in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGEMediaPlayer2D in ReferenceViewer](Docs/BP_ISPW_DGEMediaPlayer2D_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGEMediaPlayer2D in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/BP_ISPW_DGEMediaPlayer2D):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / BP_ISPW_DGEMediaPlayer2D):
 
 * Scene:
   * Location: (X=2.400000,Y=0.000000,Z=0.000000)
@@ -457,7 +457,7 @@ Screenshot of BP_ISPW_Cave_DGEMediaPlayer360 in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_Cave_DGEMediaPlayer360 in ReferenceViewer](Docs/BP_ISPW_Cave_DGEMediaPlayer360_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_Cave_DGEMediaPlayer360 in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/BP_ISPW_Cave_DGEMediaPlayer360):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / BP_ISPW_Cave_DGEMediaPlayer360):
 
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
@@ -493,7 +493,7 @@ Screenshot of BP_ISPW_DGETextRender in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGETextRender in ReferenceViewer](Docs/BP_ISPW_DGETextRender_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGETextRender in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/BP_ISPW_DGETextRender):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / BP_ISPW_DGETextRender):
 
 * Scene, Rendering, Visible: false
 * TextRender Component, Rendering, Visible: false
@@ -518,7 +518,7 @@ Screenshot of BP_ISPW_DGEWatchdog in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGEWatchdog in ReferenceViewer](Docs/BP_ISPW_DGEWatchdog_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGEWatchdog in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/BP_ISPW_DGEWatchdog):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / BP_ISPW_DGEWatchdog):
 
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60003
 
@@ -554,7 +554,7 @@ Screenshot of BP_ISPW_Cave_DGEAprilTags with bundled AprilTag 36_11 Images in Re
 
 ![Screenshot of BP_ISPW_Cave_DGEAprilTags in ReferenceViewer](Docs/BP_ISPW_Cave_DGEAprilTags_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_Cave_DGEAprilTags in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BP_ISPW_Cave_DGEAprilTags):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGEAprilTags):
 
 * Scene:
   * Location: (X=-2.200000,Y=1.200000,Z=0.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
@@ -596,7 +596,7 @@ Screenshot of BP_ISPW_Cave_DGEColorChecker in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_Cave_DGEColorChecker in ReferenceViewer](Docs/BP_ISPW_Cave_DGEColorChecker_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_Cave_DGEColorChecker in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BP_ISPW_Cave_DGEColorChecker):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGEColorChecker):
 
 * Scene:
   * Location: (X=-1.100000,Y=0.600000,Z=0.420000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
@@ -632,7 +632,7 @@ Screenshot of BP_ISPW_Cave_DGEClearColor in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_Cave_DGEClearColor in ReferenceViewer](Docs/BP_ISPW_Cave_DGEClearColor_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_Cave_DGEClearColor in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BP_ISPW_Cave_DGEClearColor):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGEClearColor):
 
 * Scene:
   * Location: (X=2.200000,Y=-1.200000,Z=-0.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
@@ -665,7 +665,7 @@ Screenshot of BP_ISPW_Cave_DGEBlackShieldBack in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_Cave_DGEBlackShieldBack in ReferenceViewer](Docs/BP_ISPW_Cave_DGEBlackShieldBack_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_Cave_DGEBlackShieldBack in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BlackShield/BP_ISPW_Cave_DGEBlackShieldBack):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BlackShield / BP_ISPW_Cave_DGEBlackShieldBack):
 
 * Scene:
   * Location: (X=-1100.000000,Y=0.000000,Z=0.000000)
@@ -696,7 +696,7 @@ Table 'ISPW PlayArea-Objects Location and Scale':
 
 ![Table ISPW PlayArea-Objects Location And Scale](Docs/ISPW-PlayArea-Objects-LocationAndScale.jpg "Table ISPW PlayArea-Objects Location And Scale")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BlackShield/BP_ISPW_Cave_DGEBlackShieldFloor):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BlackShield / BP_ISPW_Cave_DGEBlackShieldFloor):
 
 * Scene, Rendering, Visible: false
 * Child Actor Component, Rendering, Visible: false
@@ -725,7 +725,7 @@ Table 'ISPW PlayArea-Objects Location and Scale':
 
 ![Table ISPW PlayArea-Objects Location And Scale](Docs/ISPW-PlayArea-Objects-LocationAndScale.jpg "Table ISPW PlayArea-Objects Location And Scale")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BlackShield/BP_ISPW_Cave_DGEBlackShieldFront):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BlackShield / BP_ISPW_Cave_DGEBlackShieldFront):
 
 * Scene, Rendering, Visible: false
 * Child Actor Component, Rendering, Visible: false
@@ -754,7 +754,7 @@ Table 'ISPW PlayArea-Objects Location and Scale':
 
 ![Table ISPW PlayArea-Objects Location And Scale](Docs/ISPW-PlayArea-Objects-LocationAndScale.jpg "Table ISPW PlayArea-Objects Location And Scale")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BlackShield/BP_ISPW_Cave_DGEBlackShieldLeft):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BlackShield / BP_ISPW_Cave_DGEBlackShieldLeft):
 
 * Scene, Rendering, Visible: false
 * Child Actor Component, Rendering, Visible: false
@@ -783,7 +783,7 @@ Table 'ISPW PlayArea-Objects Location and Scale':
 
 ![Table ISPW PlayArea-Objects Location And Scale](Docs/ISPW-PlayArea-Objects-LocationAndScale.jpg "Table ISPW PlayArea-Objects Location And Scale")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BlackShield/BP_ISPW_Cave_DGEBlackShieldRight):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BlackShield / BP_ISPW_Cave_DGEBlackShieldRight):
 
 * Scene:
   * Location: (X=0.000000,Y=600.000000,Z=0.000000)
@@ -814,7 +814,7 @@ Screenshot of BP_ISPW_DGEHead in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGEHead in ReferenceViewer](Docs/BP_ISPW_DGEHead_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGEHead in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BP_ISPW_DGEHead):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_DGEHead):
 
 * Scene:
   * Location: (X=-550.000000,Y=300.000000,Z=160.000000)
@@ -856,7 +856,7 @@ Screenshot of BP_ISPW_Cave_DGECollisionWarning in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_Cave_DGECollisionWarning in ReferenceViewer](Docs/BP_ISPW_Cave_DGECollisionWarning_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_Cave_DGECollisionWarning in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/BP_ISPW_Cave_DGECollisionWarning):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGECollisionWarning):
 
 * Scene:
   * Location: (X=1.100000,Y=-0.600000,Z=-0.420000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
@@ -892,7 +892,7 @@ Screenshot of BP_ISPW_DGEPupilGaze0 in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGEPupilGaze0 in ReferenceViewer](Docs/BP_ISPW_DGEPupilGaze0_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGEPupilGaze0 in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilGaze0):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilGaze0):
 
 * Actor, ESB Messaging:
   * Dge Pupil Gaze Ray Actor: BP_ISPW_DGEPupilGaze0Ray
@@ -933,7 +933,7 @@ Screenshot of BP_ISPW_DGEPupilGaze0Ray in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGEPupilGaze0Ray in ReferenceViewer](Docs/BP_ISPW_DGEPupilGaze0Ray_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGEPupilGaze0Ray in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilGaze0Ray):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilGaze0Ray):
 
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
@@ -965,7 +965,7 @@ Screenshot of BP_ISPW_DGEPupilGaze0Hit in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGEPupilGaze0Hit in ReferenceViewer](Docs/BP_ISPW_DGEPupilGaze0Hit_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGEPupilGaze0Hit in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilGaze0Hit):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilGaze0Hit):
 
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
@@ -995,7 +995,7 @@ Please consider:
 * Pupil SetColor: Alpha value is not respected by the ray or hit material
 * See also Plugin 'ESBMessaging' documentation, section "Trace for Hit generation"
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilGaze1):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilGaze1):
 
 * Actor, ESB Messaging:
   * Dge Pupil Gaze Ray Actor: BP_ISPW_DGEPupilGaze1Ray
@@ -1032,7 +1032,7 @@ Please consider:
 * Pupil SetColor: Alpha value is not respected by the ray material
 * See also Plugin 'ESBMessaging' documentation, section "Trace for Hit generation"
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilGaze1Ray):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilGaze1Ray):
 
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
@@ -1060,7 +1060,7 @@ Please consider:
 * Pupil SetColor: Alpha value is not respected by the hit material
 * See also Plugin 'ESBMessaging' documentation, section "Trace for Hit generation"
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilGaze1Hit):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilGaze1Hit):
 
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
@@ -1088,7 +1088,7 @@ Screenshot of BP_ISPW_DGEPupilShapeTarget in ReferenceViewer:
 
 ![Screenshot of BP_ISPW_DGEPupilShapeTarget in ReferenceViewer](Docs/BP_ISPW_DGEPupilShapeTarget_-_ReferenceViewer.jpg "Screenshot of BP_ISPW_DGEPupilShapeTarget in ReferenceViewer")
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilShapeTarget):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilShapeTarget):
 
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
@@ -1112,7 +1112,7 @@ Communication Diagram Event:
   * ESB Messaging, implemented Interfaces FunctionNames: SetLocationAndRotation, SetTransformQuat, SetTransform, SetLocation, SetRotation, SetRotationQuat, SetScale, SetVisibility, SetMaterial^1
   * 1) Material: CircleBlack, CircleRed, CrossBlack, CrossRed, PointBlack, PointRed, PupilLabsCalibrationMarker, PupilLabsCalibrationStopMarker
 
-Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE/PlayArea/Pupil/BP_ISPW_DGEPupilShapeTarget_HeadProjection):
+Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / Pupil / BP_ISPW_DGEPupilShapeTarget_HeadProjection):
 
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
