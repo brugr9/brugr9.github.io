@@ -1344,21 +1344,25 @@ Screenshot of Jupyter Notebook ESBMessaging ZeroMQ Publish:
 
 ## A. References
 
-* Enterprise Service Bus ESB:
-  * Article [Enterprise Service Bus](https://en.wikipedia.org/wiki/Enterprise_service_bus), In: *Wikipedia*
-  * MuleSoft: [What is an ESB?](https://www.mulesoft.com/resources/esb/what-esb)
-  * Article [Messaging Patterns: Message Endpoint](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageEndpoint.html), In: *enterpriseintegrationpatterns.com*
-* Unreal Engine Documentation:
-  * Interfaces:
-    * [Interfaces](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/GameplayArchitecture/Interfaces/) (C++), In: *Programming and Scripting > Gameplay Architecture*
-    * [Blueprint Interface](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/Interface/), In: *Programming and Scripting > Blueprint Visual Scripting > Specialized Node Groups > Types of Blueprints*
-    * [Implementing Blueprint Interfaces](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/Interface/UsingInterfaces/), In: *Programming and Scripting > Blueprint Visual Scripting > Specialized Node Groups > Types of Blueprints > Blueprint Interface*
-  * Event Dispatchers:
-    * [Event Dispatchers](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/UserGuide/EventDispatcher/), In: *Programming and Scripting > Blueprint Visual Scripting > Specialized Node Groups*
-    * [Event Dispatchers](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/BP_HowTo/EventDispatcher/), In: *Programming and Scripting > Blueprint Visual Scripting > Blueprints - How Tos*
-  * Trace:
-    * [Single Line Trace (Raycast) by Channel](https://docs.unrealengine.com/en-US/InteractiveExperiences/Tracing/HowTo/SingleLineTraceByChannel/), In: *Making Interactive Experiences > Traces with Raycasts > Traces How to Guides*
-* JSON Schema -- The organisation responsible for the Json Schema specification:
-  * [Homepage of JSON Schema](https://json-schema.org/)
-  * [Understanding JSON Schema 7.0](https://json-schema.org/understanding-json-schema/index.html)
-* Technology Platform for Research TPF: [UE4 Display Cluster in CAVE](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), Faculty of Human Sciences, University of Bern
+### Enterprise Service Bus ESB
+
+* Article [Enterprise Service Bus](https://en.wikipedia.org/wiki/Enterprise_service_bus), In: *Wikipedia*
+* MuleSoft: [What is an ESB?](https://www.mulesoft.com/resources/esb/what-esb)
+* Article [Messaging Patterns: Message Endpoint](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageEndpoint.html), In: *enterpriseintegrationpatterns.com*
+
+### JSON Schema Specification
+
+* [Homepage of JSON Schema](https://json-schema.org/)
+* [Understanding JSON Schema 7.0](https://json-schema.org/understanding-json-schema/index.html)
+
+### Unreal Engine Documentation
+
+* Interfaces:
+  * [Interfaces](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/GameplayArchitecture/Interfaces/) (C++), In: *Programming and Scripting > Gameplay Architecture*
+  * [Blueprint Interface](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/Interface/), In: *Programming and Scripting > Blueprint Visual Scripting > Specialized Node Groups > Types of Blueprints*
+  * [Implementing Blueprint Interfaces](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/Interface/UsingInterfaces/), In: *Programming and Scripting > Blueprint Visual Scripting > Specialized Node Groups > Types of Blueprints > Blueprint Interface*
+* Event Dispatchers:
+  * [Event Dispatchers](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/UserGuide/EventDispatcher/), In: *Programming and Scripting > Blueprint Visual Scripting > Specialized Node Groups*
+  * [Event Dispatchers](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/BP_HowTo/EventDispatcher/), In: *Programming and Scripting > Blueprint Visual Scripting > Blueprints - How Tos*
+* Trace:
+  * [Single Line Trace (Raycast) by Channel](https://docs.unrealengine.com/en-US/InteractiveExperiences/Tracing/HowTo/SingleLineTraceByChannel/), In: *Making Interactive Experiences > Traces with Raycasts > Traces How to Guides*
