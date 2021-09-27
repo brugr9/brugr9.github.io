@@ -33,10 +33,15 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 ### 1.2. Documentation
 
 * UE Display Cluster Project: [Sensorimotor Lab](SensorimotorLab)
-  * UE Blueprint Plugins: [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages)
-  * UE Code Plugins: [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
-  * UE Blueprint Plugin [Institute of Sport Science ISPW](ISPW)
-* Integration Testing:  [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
+* UE Blueprint Plugin: [Institute of Sport Science ISPW](ISPW)
+* Integration Testing: [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
+
+Based on UE Plugins as follows:
+
+* Blueprint Plugins: [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages)
+* Code Plugins: [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
+
+
 
 ### 1.3. External References
 
