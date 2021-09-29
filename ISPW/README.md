@@ -190,8 +190,8 @@ The map implements the ZeroMQ PUB/SUB Pattern from Plugin 'ESB-Messaging' using 
 * ![Icon ESB](Docs/Enterprise-Service-Bus-icon.png "Icon ESB") Enterprise Service Bus ESB with 10 ZeroMQ Sockets
   * 5 ZeroMQ PUB-Sockets: one of each connects port 60100 - 60104
   * 5 ZeroMQ SUB-Sockets: one of each connects port 60000 - 60003 and binds port 60004
-* ![Icon UE4](Docs/ue4-icon.png "Icon UE4") UE4 with 10 ZmqSocket-Actors
-  * 5 ZmqSubSockets (Actors): one of each binds port 60100 - 60104 (IP from DisplayCluster config, 'Display Cluster Main Node Host'); cp. Screenshot of Map ISPW_Cave_360DegVideo, World Outliner Folder ZeroMQ in UE4 Editor
+* ![Icon UE4](Docs/ue4-icon.png "Icon UE4") UE4 with 10 ZmqSocket-Actors (cp. Screenshot of Map ISPW_Cave_360DegVideo, World Outliner Folder ZeroMQ in UE4 Editor):
+  * 5 ZmqSubSockets (Actors): one of each binds port 60100 - 60104 (IP from DisplayCluster config, 'Display Cluster Main Node Host')
   * 5 ZmqPubSockets (Actors): one of each binds ports 60000 - 60003 (IP from DisplayCluster config, 'Display Cluster Main Node Host') and connects port 60004 (IP: Value from Project Settings, Plugin ESBMessaging,  'Endpoint IP ESB'); cp. Screenshot of Project Settings, Plugin ESBMessaging
 
 Screenshot of Map ISPW_Cave_360DegVideo, World Outliner Folder ZeroMQ in UE4 Editor:
