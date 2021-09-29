@@ -1,12 +1,22 @@
 # Unreal Engine Plugin: ESB Messaging - Testing
 
-## Install Anaconda
+## Document Outline
+
+<!-- Start Document Outline -->
+
+* [1. Install Anaconda](#1-install-anaconda)
+* [2. Create Virtual Environment and Install jupyter Notebook](#2-create-virtual-environment-and-install-jupyter-notebook)
+* [3. Startup jupyter Notebook](#3-startup-jupyter-notebook)
+
+<!-- End Document Outline -->
+
+## 1. Install Anaconda
 Choose one of these installation methods:
 
 * Via Download; [Anaconda Individual Edition](https://www.anaconda.com/products/individual) or
 * Via PowerShell using [chocolatey](https://chocolatey.org/packages/anaconda3): `choco install anaconda3`
 
-## Create Virtual Environment and Install jupyter Notebook
+## 2. Create Virtual Environment and Install jupyter Notebook
 Using Anaconda Navigator:
 
 1.  In tab 'Environments', create new environment named 'ESB' (Python 3.8)
@@ -16,7 +26,7 @@ Using Anaconda Navigator:
 
 ![Screenshot of Anaconda Navigator Tab Environments](./Docs/ScreenshotAnacondaNavigatorEnvironments.jpg "Screenshot of Anaconda Navigator Tab Environments")
 
-## Startup jupyter Notebook
+## 3. Startup jupyter Notebook
 Using Anaconda Navigator:
 
 1.  In tab 'Home', dropdown 'Applications on' select the newly created environment 'ESB'

@@ -765,9 +765,9 @@ The UE4 DisplayCluster aka nDisplay configuration files may be found in Folder `
 
 Brief instruction: Run a display cluster game unwrapped locally on your machine (cp. [nDisplay Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
 
-1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C:\Program Files\Epic Games\UE\_4.26\Engine\Binaries\DotNET' or similar)
+1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \ Program Files \ Epic Games \ UE \ _4.26 \ Engine \ Binaries \ DotNET' or similar)
 2. In nDisplay Launcher, Tab 'Launcher', List of Applications > Click Button 'Add': Point to the shipping build executable '*.exe' in folder 'WindowsNoEditor'
-3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., `MyProject\Content\ExampleConfigs\cave_5_sides_unwrap.cfg`
+3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., `MyProject \ Content \ ExampleConfigs \ cave_5_sides_unwrap.cfg`
 4. Click Button 'Run'
 
 Screenshot of nDisplay Listener:

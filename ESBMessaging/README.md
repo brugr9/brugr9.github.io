@@ -57,7 +57,7 @@ Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by
 git clone https://github.com/brugr9/ESBMessaging.git
 ```
 
-Find the file `MyProject/Plugins/ESBMessaging/Config/DefaultESBMessaging.ini` and copy-paste its lines to file `MyProject/Config/DefaultEngine.ini`.
+Find the file `MyProject /Plugins /ESBMessaging /Config /DefaultESBMessaging.ini` and copy-paste its lines to file `MyProject /Config /DefaultEngine.ini`.
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")
 
@@ -731,16 +731,16 @@ Furthermore the component provides with BlueprintReadOnly `EsbMessageHandlerMess
 
 An `EsbMessageHandlerActor`:
 
-* Has a ZmqSubscribeComponent
-* Has a EsbMessageHandlerComponent
-* Has a ZmqPublishComponent
-* Implements interface EsbTransform and related Event Dispatchers
-* Implements interface EsbRenderProperty and related Event Dispatchers
+* Has a `ZmqSubscribeComponent`
+* Has a `EsbMessageHandlerComponent`
+* Has a `ZmqPublishComponent`
+* Implements interface `EsbTransform` and related Event Dispatchers
+* Implements interface `EsbRenderProperty` and related Event Dispatchers
 
 `EsbMessageHandlerActor` inheriting classes:
 
-* `EsbTextRenderActor`, implements additionally interface EsbTextRender and related Event Dispatchers
-* `EsbMediaPlayerActor`, implements additionally interface EsbMediaPlayer and related Event Dispatchers
+* `EsbTextRenderActor`, implements additionally interface `EsbTextRender` and related Event Dispatchers
+* `EsbMediaPlayerActor`, implements additionally interface `EsbMediaPlayer` and related Event Dispatchers
 * `EsbMessageHandlerChildActor`, has a ChildActorComponent
 
 Screenshot Blueprint EsbMessageHandlerActor:
@@ -762,12 +762,12 @@ The event-dispatchers are implemented as *dynamic multicast delegates* which can
 An `EsbTextRenderActor`:
 
 * Inherits from `EsbMessageHandlerActor`:
-  * Has a ZmqSubscribeComponent (Inherited)
-  * Has a EsbMessageHandlerComponent (Inherited)
-  * Has a ZmqPublishComponent (Inherited)
-  * Implements interface EsbTransform and related Event Dispatchers (Inherited)
-  * Implements interface EsbRenderProperty and related Event Dispatchers (Inherited)
-* Implements additionally interface EsbTextRender and related Event Dispatchers
+  * Has a `ZmqSubscribeComponent` (Inherited)
+  * Has a `EsbMessageHandlerComponent` (Inherited)
+  * Has a `ZmqPublishComponent` (Inherited)
+  * Implements interface `EsbTransform` and related Event Dispatchers (Inherited)
+  * Implements interface `EsbRenderProperty` and related Event Dispatchers (Inherited)
+* Implements additionally interface `EsbTextRender` and related Event Dispatchers
 
 ##### 1.5.1.1. UE4 TextRender Alignment
 
@@ -782,12 +782,12 @@ Screenshots of TextRender: 1) horizontal alignment 'left' combined with vertical
 An `EsbMediaPlayerActor`:
 
 * Inherits from `EsbMessageHandlerActor`:
-  * Has a ZmqSubscribeComponent (Inherited)
-  * Has a EsbMessageHandlerComponent (Inherited)
-  * Has a ZmqPublishComponent (Inherited)
-  * Implements interface EsbTransform and related Event Dispatchers (Inherited)
-  * Implements interface EsbRenderProperty and related Event Dispatchers (Inherited)
-* Implements additionally interface EsbMediaPlayer and related Event Dispatchers
+  * Has a `ZmqSubscribeComponent` (Inherited)
+  * Has a `EsbMessageHandlerComponent` (Inherited)
+  * Has a `ZmqPublishComponent` (Inherited)
+  * Implements interface `EsbTransform` and related Event Dispatchers (Inherited)
+  * Implements interface `EsbRenderProperty` and related Event Dispatchers (Inherited)
+* Implements additionally interface `EsbMediaPlayer` and related Event Dispatchers
 
 <div style='page-break-after: always'></div>
 
@@ -828,11 +828,11 @@ State Diagram 'MediaPlayer':
 An `EsbMessageHandlerChildActor`:
 
 * Inherits from `EsbMessageHandlerActor`:
-  * Has a ZmqSubscribeComponent (Inherited)
-  * Has a EsbMessageHandlerComponent (Inherited)
-  * Has a ZmqPublishComponent (Inherited)
-  * Implements interface EsbTransform and related Event Dispatchers (Inherited)
-  * Implements interface EsbRenderProperty and related Event Dispatchers (Inherited)
+  * Has a `ZmqSubscribeComponent` (Inherited)
+  * Has a `EsbMessageHandlerComponent` (Inherited)
+  * Has a `ZmqPublishComponent` (Inherited)
+  * Implements interface `EsbTransform` and related Event Dispatchers (Inherited)
+  * Implements interface `EsbRenderProperty` and related Event Dispatchers (Inherited)
 * Has a ChildActorComponent
 
 `EsbMessageHandlerChildActor` inheriting classes:
@@ -853,17 +853,17 @@ Screenshot Blueprint EsbMessageHandlerChildActor:
 An `EsbPupilGazeActor`:
 
 * Inherits from `EsbMessageHandlerChildActor`
-  * Has a ZmqSubscribeComponent (Inherited)
-  * Has a EsbMessageHandlerComponent (Inherited)
-  * Has a ZmqPublishComponent (Inherited)
-  * Implements interface EsbTransform and related Event Dispatchers (Inherited)
-  * Implements interface EsbRenderProperty and related Event Dispatchers (Inherited)
-* Has additionally a ZmqSubscribeComponent (data stream)
-* Has additionally a ZmqPublishComponent (data stream)
+  * Has a `ZmqSubscribeComponent` (Inherited)
+  * Has a `EsbMessageHandlerComponent` (Inherited)
+  * Has a `ZmqPublishComponent` (Inherited)
+  * Implements interface `EsbTransform` and related Event Dispatchers (Inherited)
+  * Implements interface `EsbRenderProperty` and related Event Dispatchers (Inherited)
+* Has additionally a `ZmqSubscribeComponent` (data stream)
+* Has additionally a `ZmqPublishComponent` (data stream)
 * Has an `EsbPupilGazeRayActor`, which inherits from class `EsbMessageHandlerChildActor`, ChildActorComponent's Child Actor Class is `PupilGazeRayActor`
 * Has an `EsbPupilGazeHitActor`, which inherits from class `EsbMessageHandlerChildActor`, ChildActorComponent's Child Actor Class is `PupilGazeHitActor`
-* Overrides interface EsbTransform and related Event Dispatchers
-* Overrides interface EsbRenderProperty and related Event Dispatchers
+* Overrides interface `EsbTransform` and related Event Dispatchers
+* Overrides interface `EsbRenderProperty` and related Event Dispatchers
 
 Screenshot Blueprint EsbPupilGazeActor:
 
@@ -944,14 +944,14 @@ Screenshot Blueprint BP_ESB_Watchdog:
 ### 3.2. BP ESB MediaPlayer2D
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor
-* Parent Class: EsbMediaPlayerActor
+* Parent Class: [ESB MediaPlayer Actor](#152-esb-mediaplayer-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
     * Transform, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
     * Child Actor Component, Child Actor Class: BP_MediaPlayer2DVideoActor
   * EsbMessageHandler: Handled Object Name 'MediaPlayer2D'
-  * Has additionally a ZmqPublishComponent 'ZmqPublish_RenderTick': Topic 'RenderTick'
+  * Has additionally a `ZmqPublishComponent` named 'ZmqPublish_RenderTick': Topic is 'RenderTick'
   * ESB Messaging, implemented Interfaces FunctionNames: SetLocationAndRotation, SetTransformQuat, SetTransform, SetLocation, SetRotation, SetRotationQuat, SetScale, SetVisibility, SetColor, SetMaterial, OpenFile, Play, Pause, Seek, Close
 
 Please consider:
@@ -968,14 +968,14 @@ Screenshot Blueprint BP_ESB_MediaPlayer2D:
 ### 3.3. BP ESB MediaPlayer360
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor
-* Parent Class: EsbMediaPlayerActor
+* Parent Class: [ESBMediaPlayerActor](#152-esb-mediaplayer-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
     * Transform, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
     * Child Actor Component, Child Actor Class: BP_MediaPlayer360DegVideoActor
   * EsbMessageHandler: Handled Object Name 'MediaPlayer360'
-  * Has additionally a ZmqPublishComponent 'ZmqPublish_RenderTick': Topic 'RenderTick'
+  * Has additionally a `ZmqPublishComponent` 'ZmqPublish_RenderTick': Topic is 'RenderTick'
   * ESB Messaging, implemented Interfaces FunctionNames: SetLocationAndRotation, SetTransformQuat, SetTransform, SetLocation, SetRotation, SetRotationQuat, SetScale, SetVisibility, SetColor, SetMaterial, OpenFile, Play, Pause, Seek, Close
 
 Please consider:
@@ -992,7 +992,7 @@ Screenshot Blueprint BP_ESB_MediaPlayer360:
 ### 3.4. BP ESB TextRender
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor
-* Parent Class: EsbTextRenderActor
+* Parent Class: [EsbTextRenderActor](#151-esb-textrender-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * TextRenderComponent, Transform:
@@ -1015,7 +1015,7 @@ Screenshot Blueprint BP_ESB_TextRender:
 ### 3.5. BP ESB BlackShieldBack
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1031,7 +1031,7 @@ Screenshot Blueprint BP_ESB_BlackShieldBack:
 ### 3.6. BP ESB BlackShieldFloor
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1043,7 +1043,7 @@ Screenshot Blueprint BP_ESB_BlackShieldBack:
 ### 3.7. BP ESB BlackShieldFront
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1055,7 +1055,7 @@ Screenshot Blueprint BP_ESB_BlackShieldBack:
 ### 3.8. BP ESB BlackShieldLeft
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1067,7 +1067,7 @@ Screenshot Blueprint BP_ESB_BlackShieldBack:
 ### 3.9. BP ESB BlackShieldRight
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1081,7 +1081,7 @@ Screenshot Blueprint BP_ESB_BlackShieldBack:
 ### 3.10. BP ESB ClearColor
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1104,7 +1104,7 @@ Screenshot Blueprint BP_ESB_ClearColor:
 ### 3.11. BP ESB CollisionWarning
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1122,7 +1122,7 @@ Screenshot Blueprint BP_ESB_CollisionWarning:
 ### 3.12. BP ESB Head
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / PlayArea
-* Parent Class: EsbMessageHandlerChildActor
+* Parent Class: [EsbMessageHandlerChildActor](#16-esb-message-handler-child-actor)
 * Customized Values:
   * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
   * ChildActorComponent:
@@ -1142,7 +1142,7 @@ Screenshot Blueprint BP_ESB_Head:
 ### 3.13. BP ESB PupilGaze0
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / Pupil
-* Parent Class: EsbPupilGazeActor
+* Parent Class: [EsbPupilGazeActor](#161-esb-pupil-gaze-actor)
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze0Actor
   * EsbMessageHandler: Handled Object Name 'PupilGaze0'
@@ -1202,7 +1202,7 @@ Screenshot Blueprint BP_ESB_PupilGaze0Hit:
 ### 3.16. BP ESB PupilGaze1
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / Pupil
-* Parent Class: EsbPupilGazeActor
+* Parent Class: [EsbPupilGazeActor](#161-esb-pupil-gaze-actor)
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilGaze1Actor
   * EsbMessageHandler: Handled Object Name 'PupilGaze1'
@@ -1247,7 +1247,7 @@ Please consider:
 ### 3.19. BP ESB PupilShapeTarget
 
 * Folder: ESBMessaging Content / Blueprints / MessageHandlerActor / Pupil
-* Parent Class: EsbPupilGazeActor
+* Parent Class: [EsbPupilGazeActor](#161-esb-pupil-gaze-actor)
 * Customized Values:
   * ChildActorComponent, Child Actor Class: BP_PupilShapeTarget
   * EsbMessageHandler: Handled Object Name 'PupilShapeTarget'
@@ -1283,8 +1283,8 @@ Blueprint ESBMessaging Demo Actor `BP_ESB_DemoActor`:
   * Has a EsbMessageHandlerComponent
   * Has a ZmqPublishComponent
 * Interfaces:
-  * Implements interface EsbTransform (Blueprint, Event Graph)
-  * Implements interface EsbRenderProperty (Blueprint, Event Graph)
+  * Implements interface `EsbTransform` (Blueprint, Event Graph)
+  * Implements interface `EsbRenderProperty` (Blueprint, Event Graph)
   * Implements interface EsbTextRender (Blueprint, Event Graph)
   * Implements interface EsbMediaPlayer (Blueprint, Event Graph)
 
@@ -1296,11 +1296,11 @@ Screenshot of Blueprint 'BP_ESB_DemoActor'
 
 Map `Map_ESB_Demo`, World Outliner:
 
-* Has ZmqSubSocketActor (default values)
-* Has ZmqPubSocketActor (default values, but Link Info: Port 5556)
-* Has ZmqContextActor, with Zmq Socket Actors assigned: ZmqSubSocketActor, ZmqSubSocketActor
-* Has BP_ESB_Watchdog, with ZmqPublish > Zmq Pub Socket Actor: ZmqPubSocketActor
-* Has BP_ESB_DemoActor
+* Has a `ZmqSubSocketActor` named 'ZmqSubSocketActor' (default values)
+* Has a `ZmqPubSocketActor` named 'ZmqPubSocketActor' (default values, but Link Info: Port 5556)
+* Has a `ZmqContextActor` named 'ZmqContextActor', with Zmq-Socket-Actors assigned: 'ZmqSubSocketActor', 'ZmqSubSocketActor'
+* Has a BP_ESB_Watchdog, with ZmqPublish > Zmq Pub Socket Actor: ZmqPubSocketActor
+* Has a BP_ESB_DemoActor
   * with ZmqSubscribe > Zmq Sub Socket Actor: ZmqSubSocketActor
   * with ZmqPublish > Zmq Pub Socket Actor: ZmqPubSocketActor
 

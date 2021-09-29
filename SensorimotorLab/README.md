@@ -176,9 +176,9 @@ In the folder of your choice a folder 'WindowsNoEditor' is created containing th
 
 Brief instruction to run an ISPW-CAVE game unwrapped locally on your machine (cp. Unreal Engine Documentation, [nDisplay Quick Start](https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
 
-1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C:\Program Files\Epic Games\UE\_4.26\Engine\Binaries\DotNET' or similar)
+1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \Program Files \Epic Games \UE\_4.26 \Engine \Binaries \DotNET' or similar)
 2. In nDisplay Launcher, Tab 'Launcher', List of Applications > Click Button 'Add': Point to the shipping build executable '*.exe' in folder 'WindowsNoEditor'
-3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., '\WindowsNoEditor\SensorimotorLab\Content\DisplayClusterConfigs\Dev\CAVE-5\_-\_3DMode-Off\_-\_Camera-Static\_-\_Projection-Simple\_-\_unwrap.cfg'
+3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., '\WindowsNoEditor \SensorimotorLab \Content \DisplayClusterConfigs \Dev \CAVE-5\_-\_3DMode-Off\_-\_Camera-Static\_-\_Projection-Simple\_-\_unwrap.cfg'
 4. Click Button 'Run'
 
 Screenshot nDisplay Launcher:
