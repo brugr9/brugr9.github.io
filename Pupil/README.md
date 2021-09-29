@@ -294,7 +294,7 @@ Screenshot of BP_PupilGaze0Actor:
 * Parent Class: `PupilShapeTargetActor`
 * Customized Values:
   * Scene, Scale (X=100.000000,Y=100.000000,Z=100.000000)
-  * StaticMesh is `SM_ShapeTarget100x100_YZ_FaceBack_OriginCenter`
+  * StaticMesh is `SM ShapeTarget100x100 YZ FaceBack OriginCenter`
     * Scale (X=0.010000,Y=0.010000,Z=0.010000)
     * Material `MI_ShapeTarget_CalibrationMarker` (default)
     * Component Tick:  Start with Tick Enabled: false

@@ -83,7 +83,7 @@ List of Assets:
 * Media: MediaPlayer_2DVideo, MediaTexture_2DVideo
 * Materials: M_MediaTexture_2DVideo
 * Material Instances: MI_MediaTexture_2DVideo, MI_ClearColor_2DVideo
-* Meshes: SM_Plane100x100_YZ_FaceBack_OriginCentre, SM_Plane100x100_YZ_FaceBack_OriginLeftBottom
+* Meshes: SM Plane100x100 YZ FaceBack OriginCentre, SM Plane100x100 YZ FaceBack OriginLeftBottom
 * Demo: BP_MediaPlayer2DVideo_DemoActor and Map_2DVideo_Demo
 
 Screenshot of Blueprint BP_MediaPlayer2DVideoActor in Reference Viewer:

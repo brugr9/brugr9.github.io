@@ -56,14 +56,14 @@ git clone https://github.com/brugr9/PlayArea.git
 The Blueprint 'BP_PlayArea_BlackShield' holds a Static Mesh Component named 'BlackShield' and serves as parent class to all the 'BP_PlayArea_BlackShield*' Blueprints. These Blueprints differ only in which Static Mesh plane they use:
 
 * Face +/- X, Plane in YZ-Space (0x100x100 UU):
-  * BP_PlayArea_BlackShieldFront: SM_Plane100x100_YZ_FaceBack_OriginLeftBottom
-  * BP_PlayArea_BlackShieldBack: SM_Plane100x100_YZ_FaceFront_OriginRightBottom
+  * BP_PlayArea_BlackShieldFront: `SM Plane100x100 YZ FaceBack OriginLeftBottom`
+  * BP_PlayArea_BlackShieldBack: `SM Plane100x100 YZ FaceFront OriginRightBottom`
 * Face +/- Y, Plane in XZ-Space (100x0x100 UU):
-  * BP_PlayArea_BlackShieldLeft: SM_Plane100x100_XZ_FaceRight_OriginRightBottom
-  * BP_PlayArea_BlackShieldRight: SM_Plane100x100_XZ_FaceLeft_OriginLeftBottom
+  * BP_PlayArea_BlackShieldLeft: `SM Plane100x100 XZ FaceRight OriginRightBottom`
+  * BP_PlayArea_BlackShieldRight: `SM Plane100x100 XZ FaceLeft OriginLeftBottom`
 * Face +/- Z, Plane in XY-Space (100x100x0 UU):
-  * BP_PlayArea_BlackShieldFloor: SM_Plane100x100_XY_FaceUp_OriginFrontLeft
-  * BP_PlayArea_BlackShieldCeiling: SM_Plane100x100_XY_FaceDown_OriginFrontLeft
+  * BP_PlayArea_BlackShieldFloor: `SM Plane100x100 XY FaceUp OriginFrontLeft`
+  * BP_PlayArea_BlackShieldCeiling: `SM Plane100x100 XY FaceDown OriginFrontLeft`
 
 Screenshot of Blueprint Black Shield:
 
@@ -87,7 +87,7 @@ Screenshot of Blueprint Clear Color:
 
 * Static Mesh: Cube (100x100x100 UU)
 * Pivot point: Centre
-* Material: Material Instance 'MI_Head' based on Material 'M_EmissiveCutOutTexture'
+* Material: Material Instance `MI_Head` based on Material `M_EmissiveCutOutTexture`
 
 Screenshot of Blueprint Head:
 
@@ -97,11 +97,11 @@ Screenshot of Blueprint Head:
 
 ## 4. Collision Warning
 
-* Static Mesh Component 'Cube' with Static Mesh 'Cube100x100_InvertedNormals_OriginBottomLeft'
-* Subordinated Static Mesh Components 'CollisionWarning(Right/Left/Back/Front)' with Static Meshes 'SM_Plane100x100_Face\*_Origin\*'
+* Static Mesh Component 'Cube' with Static Mesh `Cube100x100 InvertedNormals OriginBottomLeft`
+* Subordinated Static Mesh Components `CollisionWarning (Right /Left /Back /Front)` with Static Meshes `SM Plane100x100 Face \*_Origin \*`
 * EventGraph:
-  * OnComponentBeginOverlap: If other Actor cast to 'BP_PlayArea_Head' is a success, the Static Mesh Components 'CollisionWarningFront/Right/Left/Back' NewVisibility is set to *true*
-  * OnComponentEndOverlap: If other Actor cast to 'BP_PlayArea_Head' is a success, the Static Mesh Components 'CollisionWarningFront/Right/Left/Back' NewVisibility is set to *false*
+  * OnComponentBeginOverlap: If other Actor cast to `BP_PlayArea_Head` is a success, the Static Mesh Components `CollisionWarningFront /Right /Left /Back` NewVisibility is set to *true*
+  * OnComponentEndOverlap: If other Actor cast to `BP_PlayArea_Head` is a success, the Static Mesh Components `CollisionWarningFront /Right /Left /Back` NewVisibility is set to *false*
 
 Screenshot of Blueprint Collision Warning:
 

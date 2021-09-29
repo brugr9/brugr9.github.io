@@ -323,8 +323,8 @@ Generator Locking (Genlock) is a common technique where the video output of one 
 
 VLC as Streaming Server and [UE4-Plugin VlcMedia](https://github.com/ue4plugins/VlcMedia) as stream consumer (replace `<VlcStreamingServerIP>` by IP of choice):
 
-* VLC Streaming Server: VLC-Multicast (cp. [Live Streaming over RTP using VLC](https://www.bogotobogo.com/VideoStreaming/VLC/How_to_Streaming_Live_Network_rtp.php)): 
-  * `vlc -vvv file:///c:/videos/clips/test.mp4 --ttl="5" --sout "#transcode{vcodec=h264,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:gather:rtp{dst=<VlcStreamingServerIP>,port=1234,mux=ts,ttl=5} :no-sout-all :sout-keep"`
+* VLC Streaming Server: VLC-Multicast (cp. [Live Streaming over RTP using VLC](https://www.bogotobogo.com/VideoStreaming/VLC/How_to_Streaming_Live_Network_rtp.php)):
+  * `vlc -vvv file:///c:/videos/clips/test.mp4 --ttl="5" --sout "#transcode{vcodec=h264, acodec=mpga, ab=128, channels=2, samplerate=44100, scodec=none }:gather:rtp{ dst=<VlcStreamingServerIP>, port=1234, mux=ts, ttl=5} :no-sout-all :sout-keep"`
 * UE4 Display Cluster Main Node:
   * `vlc rtp://@<VlcStreamingServerIP>:1234 --fullscreen --control netsync --netsync-master`
 * UE4 Display Cluster Client Nodes:
@@ -734,7 +734,7 @@ Map `Map_DGE_Demo`, World Outliner:
   * with ZmqSubscribe > Zmq Sub Socket Actor: ZmqSubSocketActor
   * with ZmqPublish > Zmq Pub Socket Actor: ZmqPubSocketActor
 * Has BP_DGE_Watchdog, with ZmqPublish > Zmq Pub Socket Actor: ZmqPubSocketActor
-* Has DisplayClusterRootActor, Preview Config File: `/MyProject/Content/ExampleConfigs/cave_5_sides.cfg`
+* Has DisplayClusterRootActor, Preview Config File: `/MyProject /Content /ExampleConfigs /cave_5_sides.cfg`
 
 Screenshot of `Map_DGE_Demo`:
 
@@ -765,9 +765,9 @@ The UE4 DisplayCluster aka nDisplay configuration files may be found in Folder `
 
 Brief instruction: Run a display cluster game unwrapped locally on your machine (cp. [nDisplay Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
 
-1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \ Program Files \ Epic Games \ UE \ _4.26 \ Engine \ Binaries \ DotNET' or similar)
+1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \Program Files \Epic Games \UE\ _4.26 \Engine \Binaries \DotNET' or similar)
 2. In nDisplay Launcher, Tab 'Launcher', List of Applications > Click Button 'Add': Point to the shipping build executable '*.exe' in folder 'WindowsNoEditor'
-3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., `MyProject \ Content \ ExampleConfigs \ cave_5_sides_unwrap.cfg`
+3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., `MyProject \Content \ExampleConfigs \cave_5_sides_unwrap.cfg`
 4. Click Button 'Run'
 
 Screenshot of nDisplay Listener:

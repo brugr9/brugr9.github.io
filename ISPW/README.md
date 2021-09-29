@@ -382,8 +382,8 @@ An overview of Blueprints and handled object names (Actor-Component ESBMessageHa
 * Folder: Content / Blueprints
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / BP_DGE_MediaPlayer2D
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActor MediaPlayer2D, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActor MediaPlayer2D, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * ZmqPublish\_RenderTick: Topic 'DGEPlanarVideoRenderTick'
@@ -402,8 +402,8 @@ Screenshot of BP_ISPW_DGEMediaPlayer2D in ReferenceViewer:
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / BP_ISPW_DGEMediaPlayer2D):
 
 * Scene:
-  * Location: (X=2.400000,Y=0.000000,Z=0.000000)
-  * Scale: (X=1.000000,Y=600.000000,Z=375.000000)
+  * Location: (X=2.40,Y=0.00,Z=0.00)
+  * Scale: (X=1.00,Y=600.00,Z=375.00)
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
 * ZmqPublish\_RenderTick, Zmq Pub Socket Actor: ZmqPubSocketActor\_60004
@@ -423,8 +423,8 @@ Communication Diagram Datastream RenderTick:
 * Folder: Content / Blueprints
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / BP_DGE_MediaPlayer360
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActor MediaPlayer360, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActor MediaPlayer360, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqPublish: Topic 'DGEEvent'
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish\_RenderTick: Topic 'DGE360DegVideoRenderTick'
@@ -443,7 +443,7 @@ Screenshot of BP_ISPW_DGEMediaPlayer360 in ReferenceViewer:
 * Folder: Content / Blueprints
 * Parent Class: BP_ISPW_DGEMediaPlayer360
 * Customized Values:
-  * Scene, Scale: (X=2800.000000,Y=2800.000000,Z=2800.000000) ^1
+  * Scene, Scale: (X=2800.00,Y=2800.00,Z=2800.00) ^1
 
 1) The screen of DGEMediaPlayer360 is a sphere. The screen sphere encases the CAVE cuboid. The sphere and the cuboid should never intersect. The center of the sphere corresponds to the position of the camera, which is moved by a MoCap tracked person inside the CAVE. Assuming that the center of the sphere is always inside the cuboid, the radius of the sphere must therefore be at least equal to the space diagonal of the cuboid. The cuboid space diagonal measures sqrt((1100.0 UU)^2 + (600.0 UU)^2 + (420.0 UU)^2) = 1321.51 UU which, rounded up, gives a value of 1400.0 UU. Used as sphere radius results in a sphere diameter of 2800.0 UU.
 
@@ -482,8 +482,8 @@ Communication Diagram Datastream RenderTick:
 * Folder: Content / Blueprints
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / BP_DGE_TextRender
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGETextRender'
@@ -537,7 +537,7 @@ Communication Diagram Datastream Watchdog:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGEMessageHandlerActor
 * Customized Values:
-  * Scene, Scale: (X=1095.600000,Y=597.600000,Z=418.320000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * Scene, Scale: (X=1095.60,Y=597.60,Z=418.320000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * StaticMeshComponent, Scale: (X=0.000910,Y=0.001667,Z=0.002381) (values derived from 1/1100, 1/600, 1/420)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
@@ -561,7 +561,7 @@ Screenshot of BP_ISPW_Cave_DGEAprilTags with bundled AprilTag 36_11 Images in Re
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGEAprilTags):
 
 * Scene:
-  * Location: (X=-2.200000,Y=1.200000,Z=0.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * Location: (X=-2.20,Y=1.20,Z=0.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * Rendering, Visible: false
 * StaticMesh, Rendering, Visible: false
 * Child Actor Components, Rendering, Visible: false
@@ -579,7 +579,7 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGEMessageHandlerActor
 * Customized Values:
-  * Scene, Scale: (X=1097.800000,Y=598.800000,Z=419.160000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * Scene, Scale: (X=1097.80,Y=598.80,Z=419.160000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * StaticMeshComponent, Scale: (X=0.000910,Y=0.001667,Z=0.002381) (values derived from 1/1100, 1/600, 1/420)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
@@ -603,7 +603,7 @@ Screenshot of BP_ISPW_Cave_DGEColorChecker in ReferenceViewer:
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGEColorChecker):
 
 * Scene:
-  * Location: (X=-1.100000,Y=0.600000,Z=0.420000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * Location: (X=-1.10,Y=0.60,Z=0.420000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
   * Rendering, Visible: false
 * StaticMesh, Rendering, Visible: false
 * Child Actor Components, Rendering, Visible: false
@@ -621,8 +621,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_ClearColor
 * Customized Values:
-  * Scene, Scale: (X=1104.400000,Y=602.400000,Z=421.680000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=1104.40,Y=602.40,Z=421.680000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEClearColor'
@@ -639,7 +639,7 @@ Screenshot of BP_ISPW_Cave_DGEClearColor in ReferenceViewer:
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGEClearColor):
 
 * Scene:
-  * Location: (X=2.200000,Y=-1.200000,Z=-0.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * Location: (X=2.20,Y=-1.20,Z=-0.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
 
@@ -652,8 +652,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldBack
 * Customized Values:
-  * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=1100.00,Y=600.00,Z=420.00) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEBlackShieldBoxWallBack'
@@ -672,7 +672,7 @@ Screenshot of BP_ISPW_Cave_DGEBlackShieldBack in ReferenceViewer:
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BlackShield / BP_ISPW_Cave_DGEBlackShieldBack):
 
 * Scene:
-  * Location: (X=-1100.000000,Y=0.000000,Z=0.000000)
+  * Location: (X=-1100.00,Y=0.00,Z=0.00)
   * Rendering, Visible: false
 * Child Actor Component, Rendering, Visible: false
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
@@ -689,8 +689,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldFloor
 * Customized Values:
-  * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=1100.00,Y=600.00,Z=420.00) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEBlackShieldBoxFloor'
@@ -718,8 +718,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldFront
 * Customized Values:
-  * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=1100.00,Y=600.00,Z=420.00) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEBlackShieldBoxWallFront'
@@ -747,8 +747,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldLeft
 * Customized Values:
-  * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=1100.00,Y=600.00,Z=420.00) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEBlackShieldBoxWallLeft'
@@ -776,8 +776,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_BlackShieldRight
 * Customized Values:
-  * Scene, Scale: (X=1100.000000,Y=600.000000,Z=420.000000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=1100.00,Y=600.00,Z=420.00) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEBlackShieldBoxWallRight'
@@ -790,7 +790,7 @@ Table 'ISPW PlayArea-Objects Location and Scale':
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BlackShield / BP_ISPW_Cave_DGEBlackShieldRight):
 
 * Scene:
-  * Location: (X=0.000000,Y=600.000000,Z=0.000000)
+  * Location: (X=0.00,Y=600.00,Z=0.00)
   * Rendering, Visible: false
 * Child Actor Component, Rendering, Visible: false
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
@@ -807,8 +807,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_Head
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEHead'
@@ -821,7 +821,7 @@ Screenshot of BP_ISPW_DGEHead in ReferenceViewer:
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_DGEHead):
 
 * Scene:
-  * Location: (X=-550.000000,Y=300.000000,Z=160.000000)
+  * Location: (X=-550.00,Y=300.00,Z=160.00)
   * Rendering, Visible: false
 * Child Actor Component, Rendering, Visible: false
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
@@ -843,8 +843,8 @@ Communication Diagram Datastream Head (Interface EsbTransform):
 * Folder: Content / Blueprints / PlayArea
 * Parent Class: DGE / Content / Blueprints / MessageHandlerActor / PlayArea / BP_DGE_CollisionWarning
 * Customized Values:
-  * Scene, Scale: (X=1102.200000,Y=601.200000,Z=420.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=1102.20,Y=601.20,Z=420.840000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGECollisionWarning'
@@ -863,7 +863,7 @@ Screenshot of BP_ISPW_Cave_DGECollisionWarning in ReferenceViewer:
 Customized Blueprint values in map ISPW_Cave_360DegVideo (Path DGE / PlayArea / BP_ISPW_Cave_DGECollisionWarning):
 
 * Scene:
-  * Location: (X=1.100000,Y=-0.600000,Z=-0.420000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
+  * Location: (X=1.10,Y=-0.60,Z=-0.420000) ; cp. Table 'ISPW PlayArea-Objects Location and Scale'
 * ZmqSubscribe, Zmq Sub Socket Actor: ZmqSubSocketActor\_60100
 * ZmqPublish, Zmq Pub Socket Actor: ZmqPubSocketActor\_60000
 
@@ -878,8 +878,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze0
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * ZmqSubscribe\_Stream: Topic 'DGEEyeLeft'
@@ -921,8 +921,8 @@ Communication Diagram Datastream EyeLeft (Interface EsbTransform):
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze0Ray
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEGazeRayLeft'
@@ -953,8 +953,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze0Hit
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEGazeHitLeft'
@@ -985,8 +985,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze1
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * ZmqSubscribe\_Stream: Topic 'DGEEyeRight'
@@ -1024,8 +1024,8 @@ Communication Diagram Datastream EyeRight (Interface EsbTransform):
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze1Ray
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEGazeRayRight'
@@ -1052,8 +1052,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilGaze1Hit
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEGazeHitRight'
@@ -1080,8 +1080,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilShapeTarget
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqPublish: Topic 'DGEEvent'
   * EsbMessageHandler: Handled Object Name 'DGEShapeTarget'
@@ -1106,8 +1106,8 @@ Communication Diagram Event:
 * Folder: Content / Blueprints / Pupil
 * Parent Class: DGE / Blueprints / MessageHandlerActor / Pupil / BP_DGE_PupilShapeTarget
 * Customized Values:
-  * Scene, Scale: (X=100.000000,Y=100.000000,Z=100.000000)
-  * ChildActorComponent, Scale: (X=0.010000,Y=0.010000,Z=0.010000)
+  * Scene, Scale: (X=100.00,Y=100.00,Z=100.00)
+  * ChildActorComponent, Scale: (X=0.01,Y=0.01,Z=0.01)
   * EventGraph: Unbind all Events OnEsbSetLocationAndRotation / OnEsbSetTransformQuat / OnEsbSetTransform / OnEsbSetRotationQuat / OnEsbSetRotation / OnEsbSetLocation
   * ZmqSubscribe: Topic 'DGEEvent'
   * ZmqSubscribe\_Stream: Topic 'DGEHeadProjection'
@@ -1202,9 +1202,9 @@ In the folder of your choice a folder 'WindowsNoEditor' is created containing th
 
 Brief instruction: Run an ISPW-CAVE game unwrapped locally on your machine (cp. [nDisplay Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
 
-1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \ Program Files \ Epic Games \ UE\_4.26 \ Engine \ Binaries \ DotNET' or similar)
+1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \Program Files \Epic Games \UE\_4.26 \Engine \Binaries \DotNET' or similar)
 2. In nDisplay Launcher, Tab 'Launcher', List of Applications > Click Button 'Add': Point to the shipping build executable '*.exe' in folder 'WindowsNoEditor'
-3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., '\ WindowsNoEditor \ SensorimotorLab \ Content \ DisplayClusterConfigs \ Dev \ CAVE-5\_-\_3DMode-Off\_-\_Camera-Static\_-\_Projection-Simple\_-\_unwrap.cfg'
+3. In nDisplay Launcher, Tab 'Launcher', Config Files Dropdown > Click Button 'Add': Point to a Display Config, e.g., '\WindowsNoEditor \SensorimotorLab \Content \DisplayClusterConfigs \Dev \CAVE-5\_-\_3DMode-Off\_-\_Camera-Static\_-\_Projection-Simple\_-\_unwrap.cfg'
 4. Click Button 'Run'
 
 Screenshot of nDisplay Launcher:
