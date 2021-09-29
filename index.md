@@ -127,7 +127,7 @@ January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for
 
 3D Solar System Simulator as Demo of C#-Scripts Toolset *RotateAroundTarget* - *Rotation*, *Revolution*, *Look at Target*.
 
-* **Index Terms:** 3D Solar System Simulator, Texture Mapping, Virtual Reality
+* **Index Terms:** 3D Solar System Simulator, Texture Mapping
 * **Technology:** Unity® Game Engine, .NET/C#
 
 July 2018, private project of Roland Bruggmann
