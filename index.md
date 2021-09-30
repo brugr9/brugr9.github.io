@@ -45,7 +45,7 @@ Based on UE Plugins as follows:
 
 ### 1.3. External References
 
-* <a href="https://www.slideshare.net/secret/lROZ8b2qfVbkso" target="_blank">Project Report (pdf)</a> on Slide Share
+* <a href="https://www.slideshare.net/secret/lROZ8b2qfVbkso" target="_blank">Project Report (pdf)</a> on SlideShare
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE Display Cluster in CAVE*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * Santina Russe: <a href="https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/" target="_blank">*Der Blick von Topathletinnen wird optimiert*</a>, 02. September 2021, In: Horizonte - Das Schweizer Forschungsmagazin (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
 der wissenschaftlichen Forschung (SNF)
@@ -74,7 +74,7 @@ January-July 2019, Technology Platform for Research approved project "3D Content
 
 ### 2.3. External References
 
-* <a href="https://www.slideshare.net/secret/lUQIwIEFTZYEq" target="_blank">Project Report (pdf)</a> on Slide Share
+* <a href="https://www.slideshare.net/secret/lUQIwIEFTZYEq" target="_blank">Project Report (pdf)</a> on SlideShare
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-Like VR*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>, In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse
 
@@ -115,7 +115,10 @@ January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for
 
 ### 4.2. External References
 
-* Bachelor's Thesis: <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering-abstract" target="_blank">Abstract</a>, <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering-poster" target="_blank">Poster</a>, and <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering" target="_blank">Presentation</a> on Slide Share; <a href="https://www.youtube.com/watch?v=-dfjpM1qk3I" target="_blank">Screencast</a> on YouTube
+* Bachelor's Thesis:
+    * <a href="https://bfh.easydocmaker.ch/search/abstract/1201/" target="_blank">Abstract</a> on EasyDocmaker
+    * <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering-poster" target="_blank">Poster</a>, and <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering" target="_blank">Presentation</a> on SlideShare
+    * <a href="https://www.youtube.com/watch?v=-dfjpM1qk3I" target="_blank">Screencast</a> on YouTube
 * Article <a href="https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann/" target="_blank">*Unity® Volume Rendering*</a>, Roland Bruggmann on LinkedIn
 
 ## 5. Unity® Solar System
