@@ -10,6 +10,7 @@
 * [3. Unity Rigged Body Animation](#3-unity-rigged-body-animation)
 * [4. Unity Volume Rendering](#4-unity-volume-rendering)
 * [5. Unity Solar System](#5-unity-solar-system)
+* [A. Unreal Online Learning: Achievements](#6-unreal-online-learning-achievements)
 
 <!-- End Document Outline -->
 
@@ -40,8 +41,6 @@ Based on UE Plugins as follows:
 
 * Blueprint Plugins: [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages)
 * Code Plugins: [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
-
-
 
 ### 1.3. External References
 
@@ -138,3 +137,56 @@ July 2018, private project of Roland Bruggmann
 ### 5.2. External References
 
 * <a href="https://youtu.be/KysSDO5oVDU" target="_blank">Screencast</a> on YouTube
+
+## A. Unreal Online Learning: Achievements
+
+List of completed on-line learning courses (external links).
+
+### Basic Courses
+
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/a-tour-of-the-new-unreal-engine-learning-portal" target="_blank">A Tour of the new Unreal Engine Learning Portal</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---editor-introduction" target="_blank">Unreal Editor Fundamentals - Editor Introduction</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---materials" target="_blank">Unreal Editor Fundamentals - Materials</a>
+
+### Learning Paths
+
+* Welcome to Unreal Engine:
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4" target="_blank">Your First Hour in Unreal Engine 4</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines" target="_blank">Building Better Pipelines</a>
+* Welcome to Game Development:
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4" target="_blank">Your First Hour in Unreal Engine 4</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/becoming-an-environment-artist-in-unreal" target="_blank">Becoming an Environment Artist in Unreal</a>
+
+### <a href="https://www.unrealengine.com/en-US/blog/become-a-blueprint-master-by-taking-this-online-learning-challenge" target="_blank">2021 Blueprint Ninja Challenge</a>
+
+* Blueprint Journeyman:
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
+* Blueprint Ninja:
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart" target="_blank">Blueprint Kickstart</a>
+* Blueprint Master:
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-runtime-saving-and-loading" target="_blank">Blueprint Runtime Saving and Loading</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
+
+### <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/2021-epic-megajam" target="_blank">2021 Epic MegaJam</a>
+
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
+* <a href="" target="_blank">Introduction to Packaging Projects</a>
+
+### Advanced Topics
+
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/converting-blueprints-to-c" target="_blank">Converting Blueprints to C++</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/best-practices-for-creating-and-using-plugins" target="_blank">Best Practices for Creating and Using Plugins</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-ai-with-blueprints" target="_blank">Introduction to AI with Blueprint</a>
+
+Screenshot of Achievements:
+
+![Screenshot of Achievements](ue-achievements-rb.png "Screenshot of Achievements")
