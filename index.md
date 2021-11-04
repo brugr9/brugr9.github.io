@@ -156,7 +156,7 @@ List of completed on-line learning courses (external links).
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines" target="_blank">Building Better Pipelines</a>
-* Welcome to Game Development:
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/welcome-to-game-development" target="_blank">Welcome to Game Development</a>:
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4" target="_blank">Your First Hour in Unreal Engine 4</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>
