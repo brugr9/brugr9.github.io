@@ -162,6 +162,11 @@ List of completed on-line learning courses (external links).
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/becoming-an-environment-artist-in-unreal" target="_blank">Becoming an Environment Artist in Unreal</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/2021-epic-megajam" target="_blank">2021 Epic MegaJam:</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
+  * <a href="" target="_blank">Introduction to Packaging Projects</a>
 
 ### <a href="https://www.unrealengine.com/en-US/blog/become-a-blueprint-master-by-taking-this-online-learning-challenge" target="_blank">2021 Blueprint Ninja Challenge</a>
 
@@ -174,18 +179,12 @@ List of completed on-line learning courses (external links).
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-runtime-saving-and-loading" target="_blank">Blueprint Runtime Saving and Loading</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
 
-### <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/2021-epic-megajam" target="_blank">2021 Epic MegaJam</a>
-
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
-* <a href="" target="_blank">Introduction to Packaging Projects</a>
-
 ### Advanced Topics
 
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-ai-with-blueprints" target="_blank">Introduction to AI with Blueprint</a>
 * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/converting-blueprints-to-c" target="_blank">Converting Blueprints to C++</a>
 * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/best-practices-for-creating-and-using-plugins" target="_blank">Best Practices for Creating and Using Plugins</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-ai-with-blueprints" target="_blank">Introduction to AI with Blueprint</a>
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/creating-marketplace-content" target="_blank">Creating Marketplace Content</a>
 
 Screenshot of Achievements:
 
