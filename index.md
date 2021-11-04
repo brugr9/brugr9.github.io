@@ -8,7 +8,7 @@
 * [1. Unity Volume Rendering](#1-unity-volume-rendering)
 * [2. Unity Solar System](#2-unity-solar-system)
 * [3. Unity Rigged Body Animation](#3-unity-rigged-body-animation)
-* [4. Unreal 3D Content for Dream-Like VR](#4-unreal-3d-content-for-dream-like-vr)
+* [4. Unreal 3D Content for Dream-like VR](#4-unreal-3d-content-for-dream-like-vr)
 * [5. Unreal Display Cluster in CAVE](#5-unreal-display-cluster-in-cave)
 * [A. Unreal Online Learning: Achievements](#a-unreal-online-learning-achievements)
 
@@ -33,9 +33,9 @@ January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for
 ### 1.2. External References
 
 * Bachelor's Thesis:
-    * <a href="https://bfh.easydocmaker.ch/search/abstract/1201/" target="_blank">Abstract</a> on EasyDocmaker
-    * <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering-poster" target="_blank">Poster</a>, and <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering" target="_blank">Presentation</a> on SlideShare
-    * <a href="https://www.youtube.com/watch?v=-dfjpM1qk3I" target="_blank">Screencast</a> on YouTube
+  * <a href="https://bfh.easydocmaker.ch/search/abstract/1201/" target="_blank">Abstract</a> on EasyDocmaker
+  * <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering-poster" target="_blank">Poster</a>, and <a href="https://www.slideshare.net/RolandBruggmann/unity-volume-rendering" target="_blank">Presentation</a> on SlideShare
+  * <a href="https://www.youtube.com/watch?v=-dfjpM1qk3I" target="_blank">Screencast</a> on YouTube
 * Article <a href="https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann/" target="_blank">*Unity® Volume Rendering*</a>, Roland Bruggmann on LinkedIn
 
 ## 2. Unity Solar System
@@ -89,7 +89,7 @@ Experience of reality is highly flexible and unstable. This becomes apparent dur
 * **Index Terms:** Virtual Reality, 3D Modelling, Animation, Rotating Surface Photography, UV Mapping, Cloth Simulation, Fluid Simulation
 * **Technology:** HTC VIVE Pro, Unreal Engine, UE C++-Plugin Development, Blender, GIMP, Nikon D80, Cannon EOS 60D, Nvidia Cloth, Nvidia Cataclysm
 
-January-July 2019, Technology Platform for Research approved project "3D Content for Dream-Like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern
+January-July 2019, Technology Platform for Research approved project "3D Content for Dream-like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern
 
 ### 4.2. Insights
 
@@ -100,7 +100,7 @@ January-July 2019, Technology Platform for Research approved project "3D Content
 
 ### 4.3. External References
 
-* <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-Like VR*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
+* <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-like VR*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>, In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse
 
 ## 5. Unreal Display Cluster in CAVE
@@ -118,13 +118,13 @@ An Unreal Engine project based on the display cluster template "nDisplay" provid
 
 * **Technology:** Unreal Engine, UE Blueprint, UE C++-Plugin Development, UE nDisplay, Nvidia Mosaic, Nvidia Quadro with Sync, OptiTrack, PupilLabs, JSON, ZeroMQ
 
-August 2019 - June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" aka "UE4 Display Cluster in CAVE" and subsequent projects at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
+August 2019 - June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
 ### 5.2. Insights
 
 * UE Display Cluster Project (Documentation): [Sensorimotor Lab](SensorimotorLab)
 * UE Blueprint Plugins (Documentation): [Institute of Sport Science ISPW](ISPW), [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages)
-* Code Plugins (Documentation): [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
+* UE Code Plugins (Documentation): [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
 * Integration Testing (Documentation): [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
 * **<a href="https://www.slideshare.net/secret/lROZ8b2qfVbkso" target="_blank">Project Report (pdf)</a>** on SlideShare
 
