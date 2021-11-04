@@ -163,17 +163,15 @@ List of completed on-line learning courses (external links go to Epic Games).
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
   * <a href="" target="_blank">Introduction to Packaging Projects</a>
-
-### <a href="https://www.unrealengine.com/en-US/blog/become-a-blueprint-master-by-taking-this-online-learning-challenge" target="_blank">2021 Blueprint Ninja Challenge</a>
-
-* Blueprint Journeyman:
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
-* Blueprint Ninja:
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart" target="_blank">Blueprint Kickstart</a>
-* Blueprint Master:
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-runtime-saving-and-loading" target="_blank">Blueprint Runtime Saving and Loading</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
+* <a href="https://www.unrealengine.com/en-US/blog/become-a-blueprint-master-by-taking-this-online-learning-challenge" target="_blank">2021 Blueprint Ninja Challenge</a>
+  * Blueprint Journeyman:
+    * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
+  * Blueprint Ninja:
+    * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>
+    * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart" target="_blank">Blueprint Kickstart</a>
+  * Blueprint Master:
+    * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-runtime-saving-and-loading" target="_blank">Blueprint Runtime Saving and Loading</a>
+    * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
 
 ### Advanced Topics
 
