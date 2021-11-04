@@ -94,9 +94,9 @@ January-July 2019, Technology Platform for Research approved project "3D Content
 ### 4.2. Insights
 
 * UE Virtual Reality Project  (Documentation): ["Dream Simulation Lab"](DreamSimLab)
-* UE Content Plugin (Documentation): ["Virtual Learning Attendance VIRLA"](VIRLA)
 * UE Code Plugin (Documentation): ["Bizarre BZR"](BZR)
 * **<a href="https://www.slideshare.net/secret/lUQIwIEFTZYEq" target="_blank">Project Report (pdf)</a>** on SlideShare
+<!-- * UE Content Plugin (Documentation): ["Virtual Learning Attendance VIRLA"](VIRLA) -->
 
 ### 4.3. External References
 
