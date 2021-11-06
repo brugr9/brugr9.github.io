@@ -153,22 +153,6 @@ List of completed on-line learning courses (external links go to Epic Games).
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/becoming-an-environment-artist-in-unreal" target="_blank">Becoming an Environment Artist in Unreal</a>
-<!--
-* **<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-the-principles-of-real-time" target="_blank">Introducing the Principles of Real-time</a>**
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/real-time-rendering-fundamentals" target="_blank">Real-Time Rendering Fundamentals</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering" target="_blank">An In-Depth Look at Real-Time Rendering</a>
--->
-<!--
-* **<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-engine-kickstart-for-developers" target="_blank">Unreal Engine Kickstart for Developers</a>**
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/world-building-kickstart" target="_blank">World Building Kickstart</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/rendering-kickstart" target="_blank">Rendering Kickstart</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/animation-kickstart" target="_blank">Animation Kickstart</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/engine-structure-kickstart" target="_blank">Engine Structure Kickstart</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart" target="_blank">Blueprint Kickstart</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/character-kickstart" target="_blank">Character Kickstart</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/materials-kickstart" target="_blank">Materials Kickstart</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/programming-kickstart" target="_blank">Programming Kickstart</a> 
--->
 * **<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/2021-epic-megajam" target="_blank">2021 Epic MegaJam</a>**
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
