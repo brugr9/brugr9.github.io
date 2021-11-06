@@ -162,6 +162,9 @@ List of completed on-line learning courses (external links go to Epic Games).
   * Journeyman: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
   * Ninja: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>, <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart" target="_blank">Blueprint Kickstart</a>
   * Master: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-runtime-saving-and-loading" target="_blank">Blueprint Runtime Saving and Loading</a>, <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
+* **<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-the-principles-of-real-time" target="_blank">Introducing the Principles of Real-time</a>**
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/real-time-rendering-fundamentals" target="_blank">Real-Time Rendering Fundamentals</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering" target="_blank">An In-Depth Look at Real-Time Rendering</a>
 
 ### Advanced Courses
 
