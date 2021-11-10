@@ -157,7 +157,7 @@ List of completed on-line learning courses (external links go to Epic Games).
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
-  * <a href="" target="_blank">Introduction to Packaging Projects</a>
+  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-packaging-projects" target="_blank">Introduction to Packaging Projects</a>
 * **<a href="https://www.unrealengine.com/en-US/blog/become-a-blueprint-master-by-taking-this-online-learning-challenge" target="_blank">2021 Blueprint Ninja Challenge</a>**
   * Journeyman: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
   * Ninja: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>, <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart" target="_blank">Blueprint Kickstart</a>
