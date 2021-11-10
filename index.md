@@ -8,7 +8,7 @@
 * [1. Unity Volume Rendering](#1-unity-volume-rendering)
 * [2. Unity Solar System](#2-unity-solar-system)
 * [3. Unity Rigged Body Animation](#3-unity-rigged-body-animation)
-* [4. Unreal 3D Content for Dream-like VR](#4-unreal-3d-content-for-dream-like-vr)
+* [4. Unreal Content for Dream-like VR](#4-unreal-content-for-dream-like-vr)
 * [5. Unreal Display Cluster in CAVE](#5-unreal-display-cluster-in-cave)
 * [A. Unreal Online Learning: Achievements](#a-unreal-online-learning-achievements)
 
@@ -75,7 +75,7 @@ November – December 2018, Technology Platform for Research approved project "3
 * <a href="https://youtu.be/FbmcLNf7JQM" target="_blank">Screencast</a> on YouTube
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/RiggedBodyAnimation" target="_blank">*Rigged Body Animation in Unity®*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 
-## 4. Unreal 3D Content for Dream-like VR
+## 4. Unreal Content for Dream-like VR
 
 ![Virtual Twin of the Dream Simulation Lab in Unreal Editor.](TeaserDreamSimLab.jpg "Virtual Twin of the Dream Simulation Lab in Unreal Editor.")
 <p><em>Fig. 2.1.: Virtual Twin of the Dream Simulation Lab in Unreal Editor.</em></p>
