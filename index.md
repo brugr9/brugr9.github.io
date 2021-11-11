@@ -17,7 +17,7 @@
 ## 1. Unity Volume Rendering
 
 ![Real-Time Rendering of a Neurovascular Angiography in Unity Editor.](TeaserVolumeRendering.jpg "Real-Time Rendering of a Neurovascular Angiography in Unity Editor.")
-<p><em>Fig. 4.1.: Real-Time Rendering of a Neurovascular Angiography in the Unity® Editor.</em></p>
+<p><em>Fig. 1.1.: Real-Time Rendering of a Neurovascular Angiography in the Unity® Editor.</em></p>
 
 ### 1.1. Short Summary
 
@@ -41,7 +41,7 @@ January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for
 ## 2. Unity Solar System
 
 ![3D Solar System in Unity Editor.](TeaserSolarSystem.jpg "3D Solar System in Unity Editor.")
-<p><em>Fig. 5.1.: 3D Solar System in the Unity® Editor.</em></p>
+<p><em>Fig. 2.1.: 3D Solar System in the Unity® Editor.</em></p>
 
 ### 2.1. Short Summary
 
@@ -78,7 +78,7 @@ November – December 2018, Technology Platform for Research approved project "3
 ## 4. Unreal Content for Dream-like VR
 
 ![Virtual Twin of the Dream Simulation Lab in Unreal Editor.](TeaserDreamSimLab.jpg "Virtual Twin of the Dream Simulation Lab in Unreal Editor.")
-<p><em>Fig. 2.1.: Virtual Twin of the Dream Simulation Lab in Unreal Editor.</em></p>
+<p><em>Fig. 4.1.: Virtual Twin of the Dream Simulation Lab in Unreal Editor.</em></p>
 
 ### 4.1. Short Summary
 
@@ -93,10 +93,10 @@ January-July 2019, Technology Platform for Research approved project "3D Content
 
 ### 4.2. Insights
 
-* UE Virtual Reality Project  (Documentation): ["Dream Simulation Lab"](DreamSimLab)
-* UE Code Plugin (Documentation): ["Bizarre BZR"](BZR)
+* UE Project  (Documentation): [Dream Simulation Lab](DreamSimLab)
+* UE Code Plugin (Documentation): [Bizarre BZR](BZR)
 * **<a href="https://www.slideshare.net/secret/lUQIwIEFTZYEq" target="_blank">Project Report (pdf)</a>** on SlideShare
-<!-- * UE Content Plugin (Documentation): ["Virtual Learning Attendance VIRLA"](VIRLA) -->
+<!-- * UE Content Plugin (Documentation): [Virtual Learning Attendance VIRLA](VIRLA) -->
 
 ### 4.3. External References
 
@@ -106,7 +106,7 @@ January-July 2019, Technology Platform for Research approved project "3D Content
 ## 5. Unreal Display Cluster in CAVE
 
 ![UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-CAVE.jpg "UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.")
-<p><em>Fig. 1.1.: Unreal Engine Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
+<p><em>Fig. 5.1.: Unreal Engine Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
 
 ### 5.1. Short Summary
 
@@ -122,7 +122,7 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 
 ### 5.2. Insights
 
-* UE Display Cluster Project (Documentation): [Sensorimotor Lab](SensorimotorLab)
+* UE Project (Documentation): [Sensorimotor Lab](SensorimotorLab)
 * UE Blueprint Plugins (Documentation): [Institute of Sport Science ISPW](ISPW), [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages)
 * UE Code Plugins (Documentation): [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
 * Integration Testing (Documentation): [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
@@ -136,44 +136,4 @@ der wissenschaftlichen Forschung (SNF)
 
 ## A. Unreal Online Learning: Achievements
 
-List of completed on-line learning courses (external links go to Epic Games).
-
-### Basic Courses
-
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/a-tour-of-the-new-unreal-engine-learning-portal" target="_blank">A Tour of the new Unreal Engine Learning Portal</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---editor-introduction" target="_blank">Unreal Editor Fundamentals - Editor Introduction</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---materials" target="_blank">Unreal Editor Fundamentals - Materials</a>
-
-### Learning Paths
-
-* **<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/welcome-to-game-development" target="_blank">Welcome to Game Development</a>**
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4" target="_blank">Your First Hour in Unreal Engine 4</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/becoming-an-environment-artist-in-unreal" target="_blank">Becoming an Environment Artist in Unreal</a>
-* **<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/2021-epic-megajam" target="_blank">2021 Epic MegaJam</a>**
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-packaging-projects" target="_blank">Introduction to Packaging Projects</a>
-* **<a href="https://www.unrealengine.com/en-US/blog/become-a-blueprint-master-by-taking-this-online-learning-challenge" target="_blank">2021 Blueprint Ninja Challenge</a>**
-  * Journeyman: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts" target="_blank">Blueprints - Essential Concepts</a>
-  * Ninja: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---actors-and-blueprints" target="_blank">Unreal Editor Fundamentals - Actors and Blueprints</a>, <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart" target="_blank">Blueprint Kickstart</a>
-  * Master: <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-runtime-saving-and-loading" target="_blank">Blueprint Runtime Saving and Loading</a>, <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers" target="_blank">Blueprints and Gameplay for Game Designers</a>
-* **<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-the-principles-of-real-time" target="_blank">Introducing the Principles of Real-time</a>**
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/real-time-rendering-fundamentals" target="_blank">Real-Time Rendering Fundamentals</a>
-  * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering" target="_blank">An In-Depth Look at Real-Time Rendering</a>
-
-### Advanced Courses
-
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-ai-with-blueprints" target="_blank">Introduction to AI with Blueprint</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines" target="_blank">Building Better Pipelines</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/converting-blueprints-to-c" target="_blank">Converting Blueprints to C++</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/best-practices-for-creating-and-using-plugins" target="_blank">Best Practices for Creating and Using Plugins</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/creating-marketplace-content" target="_blank">Creating Marketplace Content</a>
-
-Screenshot of Achievements:
-
-![Screenshot UE Achievements](ue-achievements-rb.png "Screenshot UE Achievements")
+* [List of completed on-line learning courses](UE-Achievements)

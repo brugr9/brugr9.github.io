@@ -9,6 +9,10 @@
   * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/programming-kickstart" target="_blank">Programming Kickstart</a>
 
 
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/getting-started-in-vr-with-unreal-engine" target="_blank">Getting Started in VR with Unreal Engine</a>
 * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/working-with-data-in-blueprint" target="_blank">Working with Data in Blueprint</a>
 * <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/balancing-blueprint-and-c-in-game-development" target="_blank">Balancing Blueprint and C++ in Game Development</a>
-* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/getting-started-in-vr-with-unreal-engine" target="_blank">Getting Started in VR with Unreal Engine</a>
+
+
+* <a href="https://www.unrealengine.com/en-US/onlinelearning-courses/teaching-with-unreal-engine" target="_blank">Teaching with Unreal Engine</a>
+* <a href="* https://www.unrealengine.com/en-US/onlinelearning-courses/teaching-with-fortnite-creative" target="_blank">Teaching with Fortnite Creative</a>
