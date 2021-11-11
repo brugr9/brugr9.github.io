@@ -1,7 +1,5 @@
 # Roland Bruggmann — Portfolio
 
-*Unity® Game Engine and Unreal Engine UE Projects and Plugins*
-
 [<< Back to Portfolio Main Page](..)
 
 ## A. Unreal Online Learning: Achievements
@@ -46,6 +44,6 @@ List of completed on-line learning courses (external links go to Epic Games).
 
 Screenshot of Unreal Online Learning, section "Achievements":
 
-![Screenshot UE Achievements](ue-achievements-rb.png "Screenshot UE Achievements")
+![Screenshot UE Achievements](Docs/ue-achievements-rb.png "Screenshot UE Achievements")
 
 [<< Back to Portfolio Main Page](..)
