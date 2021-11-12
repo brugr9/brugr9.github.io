@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # Unreal Engine Plugin: ZeroMQ
 
@@ -299,4 +299,4 @@ LogZeroMQ: ZmqContextActor_2 Close context and socket(s) done.
 * Official Homepage of [ZeroMQ](https://zeromq.org/)
 * Gregor Hohpe, Bobby Woolf (2003, 2019): [*Messaging Patterns: Publish-Subscribe Channel*](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html); In: *Enterprise Integration Patterns*, access 2021/06/01
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)

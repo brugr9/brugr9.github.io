@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # Unreal Engine Project: Dream Simulation Lab
 
@@ -98,4 +98,4 @@ Screenshot of WorldSettings Lightmass:
 * <a href="https://www.kog.psy.unibe.ch/forschung/labors/virtual_reality_lab/index_ger.html" target="_blank">*Virtual-Reality-Lab*</a>, In: Webpages of Institute of Psychology, Division of Cognitive Psychology, Perception and Research Methods, University of Bern
 * <a href="https://www.sleep.unibe.ch/research/projects/reality_monitoring_in_sleep_psychosis_and_virtual_reality/index_eng.html" target="_blank">*Reality-monitoring in sleep, psychosis, and virtual reality*</a>, In: Website of *"Decoding Sleep"* - Interfaculty Research Cooperation of Department of Psychology and Hospital of Psychiatry, University of Bern
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)

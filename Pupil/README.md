@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # Unreal Engine Plugin: Pupil Core
 
@@ -336,4 +336,4 @@ Screenshot of Demo Map LevelBlueprint:
 * [Pupil Core Network API](https://docs.pupil-labs.com/developer/core/network-api/#pupil-remote)
 * [Pupil -- Open source eye tracking platform](https://github.com/pupil-labs/pupil) on github
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)

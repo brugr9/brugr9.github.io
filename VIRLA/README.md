@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # Unreal Engine Plugin: Virtual Learning Attendance VIRLA
 
@@ -51,4 +51,4 @@ git clone https://github.com/brugr9/VIRLA.git
 
 * [*"VIRLA" project*](https://distanceuniversity.ch/research-e-learning/projects/virla/), In: Research - E-Learning Projects, Distance University Switzerland 'UniDistance Suisse'
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)

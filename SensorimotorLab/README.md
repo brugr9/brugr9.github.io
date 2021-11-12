@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # Unreal Engine Project: Sensorimotor Lab
 
@@ -224,8 +224,11 @@ Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 
 ## A. References
 
-* [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html), Unreal Engine Documentation
-* [*UE4 Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
-* [*Der Blick von Topathletinnen wird optimiert*](https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/), In: Horizonte - Das Schweizer Forschungsmagazin (Online), Santina Russe, 02. September 2021
+* Unreal Engine Documentation: [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html)
+* <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE Display Cluster in CAVE*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
+* Santina Russe: <a href="https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/" target="_blank">*Der Blick von Topathletinnen wird optimiert*</a>, 02. September 2021, In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
+der wissenschaftlichen Forschung (SNF)
+* Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021, In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
+der wissenschaftlichen Forschung (SNF)
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)

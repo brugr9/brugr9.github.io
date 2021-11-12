@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # Unreal Engine BP-Plugin: Play Area
 
@@ -117,4 +117,4 @@ Screenshot of Blueprint Collision Warning EventGraph:
 
 Unreal Engine Documentation: Interactive Experiences > Physics > Collision > [Collision Overview](https://docs.unrealengine.com/en-US/InteractiveExperiences/Physics/Collision/Overview/index.html)
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)

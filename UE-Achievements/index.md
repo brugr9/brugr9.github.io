@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # A. Unreal Online Learning: Achievements
 
@@ -44,4 +44,4 @@ Screenshot of Unreal Online Learning, section "Achievements":
 
 ![Screenshot UE Achievements](Docs/ue-achievements-rb.png "Screenshot UE Achievements")
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)

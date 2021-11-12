@@ -1,4 +1,4 @@
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
 
 # Unreal Engine Plugin: Bizarre BZR
 
@@ -228,4 +228,4 @@ Screenshot of Telephone in Unreal Editor before and after starting Animation:
 
 * [*3D Content for Dream-Like VR*](https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR), In: Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 
-[<< Back to Portfolio Main Page](..)
+[<< Back to Main Page](..)
