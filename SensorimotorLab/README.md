@@ -165,7 +165,7 @@ Edit nDisplay config file *.cfg (host IPs, master etc.) using a text editor of c
 
 ### 4.2. Packaging
 
-Brief instruction for packaging a shipping build (cp. Unreal Engine Documentation, [Packaging Projects](https://docs.unrealengine.com/4.26/en-US/Basics/Projects/Packaging/)):
+Brief instruction for packaging a shipping build (cp. Unreal Engine Documentation, [Packaging Projects](https://docs.unrealengine.com/en-US/Basics/Projects/Packaging/)):
 
 1. In Project Settings set ISPW_Cave_360DegVideo as Game Default Map
 2. File > Package Project > Build Configuration > Shipping
@@ -176,7 +176,7 @@ In the folder of your choice a folder 'WindowsNoEditor' is created containing th
 
 ### 4.3. nDisplay Launcher
 
-Brief instruction to run an ISPW-CAVE game unwrapped locally on your machine (cp. Unreal Engine Documentation, [nDisplay Quick Start](https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
+Brief instruction to run an ISPW-CAVE game unwrapped locally on your machine (cp. Unreal Engine Documentation, [nDisplay Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/QuickStart/)):
 
 1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \Program Files \Epic Games \UE\_4.26 \Engine \Binaries \DotNET' or similar)
 2. In nDisplay Launcher, Tab 'Launcher', List of Applications > Click Button 'Add': Point to the shipping build executable '*.exe' in folder 'WindowsNoEditor'
@@ -224,7 +224,7 @@ Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 
 ## A. References
 
-* [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/index.html), Unreal Engine Documentation
+* [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html), Unreal Engine Documentation
 * [*UE4 Display Cluster in CAVE*](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * [*Der Blick von Topathletinnen wird optimiert*](https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/), In: Horizonte - Das Schweizer Forschungsmagazin (Online), Santina Russe, 02. September 2021
 

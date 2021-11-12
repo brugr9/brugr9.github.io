@@ -763,9 +763,9 @@ In the folder of your choice a folder 'WindowsNoEditor' is created containing th
 
 ### 4.3 nDisplay Launcher
 
-The UE4 DisplayCluster aka nDisplay configuration files may be found in Folder `MyProject/Content/ExampleConfigs`. nDisplay config files *.cfg are edited using a text editor of choice (cp. Unreal Engine Documentation [nDisplay Configuration File Reference](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/Configuration/index.html)).
+The UE4 DisplayCluster aka nDisplay configuration files may be found in Folder `MyProject/Content/ExampleConfigs`. nDisplay config files *.cfg are edited using a text editor of choice (cp. Unreal Engine Documentation [nDisplay Configuration File Reference](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/Configuration/index.html)).
 
-Brief instruction: Run a display cluster game unwrapped locally on your machine (cp. [nDisplay Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/QuickStart/)):
+Brief instruction to run a display cluster game unwrapped locally on your machine (cp. [nDisplay Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/QuickStart/)):
 
 1. Find and launch nDisplay Listener and nDisplay Launcher (folder 'C: \Program Files \Epic Games \UE\ _4.26 \Engine \Binaries \DotNET' or similar)
 2. In nDisplay Launcher, Tab 'Launcher', List of Applications > Click Button 'Add': Point to the shipping build executable '*.exe' in folder 'WindowsNoEditor'
