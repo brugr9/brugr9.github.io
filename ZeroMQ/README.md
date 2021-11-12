@@ -229,7 +229,7 @@ Screenshot of Demo Map Playing:
 
 ![Screenshot of Demo Map Playing](Docs/ScreenshotDemoMapPlaying.jpg "Screenshot of Demo Map Playing")
 
-Output Log excerpt of Demo Map playing and stopping:
+Demo map, starting PIE, output log:
 
 ```log
 LogZeroMQ: ZmqContextActor_2 Initialise context and socket(s) ...
@@ -274,6 +274,11 @@ LogBlueprintUserMessages: [BP_ZmqSubDemoActor_CubeGreen_2] Received from Yellow:
 LogBlueprintUserMessages: [BP_ZmqSubDemoActor_CubeGreen_2] Received from Yellow: Hello from Cube Yellow #6
 LogBlueprintUserMessages: [BP_ZmqSubDemoActor_CubeGreen_2] Received from Cyan: Hello from Cube Cyan #6
 [...]
+```
+
+Demo map, stopping PIE, output log:
+
+```log
 LogWorld: BeginTearingDown for /ZeroMQ/Demo/Maps/UEDPIE_0_Zmq_Demo
 LogZeroMQ: ZmqContextActor_2 Close context and socket(s) ...
 LogZeroMQ: ZmqPubSocketActor_1: Unbind address tcp://127.0.0.1:5555 ...

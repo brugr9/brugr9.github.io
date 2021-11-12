@@ -309,19 +309,7 @@ UE4 MediaPlayer ***does not synchronise*** video playback in the display cluster
 
 For short videos this may work - but after a couple of seconds the playback will be out of sync. Therefore video playback synchronisation by video streaming is recommended.
 
-###### 1.5.2.2.1. Professional approach by Epic Games
-
-* [UE Documentation: Professional Video I/O](https://docs.unrealengine.com/en-US/WorkingWithMedia/ProVideoIO/index.html), see also Youtube [Genlock, Timecode & Sync for Virtual Production with Unreal (Panel Discussion) 24.07.2020](https://www.youtube.com/watch?v=BVLMyp0Kicw)
-* Blackmagic Hardware and UE4-Plugin; see [Blackmagic Video I/O Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/ProVideoIO/BlackmagicQuickStart/index.html)
-* Blackmagic Design is using [Nvidia GPUdirect](https://developer.nvidia.com/gpudirect) technology (cp. Nvidia: [GPUDirect for Video](https://developer.nvidia.com/gpudirectforvideo), and Blackmagic Design: [`DeNA Uses DeckLink 4K Extreme 12G with SDK for 4K VR Streaming System`](https://www.blackmagicdesign.com/media/release/20181122-01))
-
-See also:
-
-Generator Locking (Genlock) is a common technique where the video output of one source or a specific reference signal from a signal generator is used to synchronize other picture sources together. The aim in video applications is to ensure the coincidence of signals in time at a combining or switching point. When video instruments are synchronized in this way, they are said to be generator-locked, or genlocked (cp. Ward14). For this purpose a SampleClock is used. Its TimeCode is distributed over network by SMPTE timecode protocol. 
-
-* Ward, Peter (2014): *Timecode versus Sync: How They Differ and Why it Matters*, In: Explora Blog; URL: https://www.bhphotovideo.com/explora/video/tips-and-solutions/timecode-versus-sync-how-they-differ-and-why-it-matters
-
-###### 1.5.2.2.2. VLCMedia Multicast and Netsync
+###### 1.5.2.2.1. VLCMedia Multicast and Netsync
 
 VLC as Streaming Server and [UE4-Plugin VlcMedia](https://github.com/ue4plugins/VlcMedia) as stream consumer (replace `<VlcStreamingServerIP>` by IP of choice):
 
@@ -333,6 +321,18 @@ VLC as Streaming Server and [UE4-Plugin VlcMedia](https://github.com/ue4plugins/
   * `vlc rtp://@<VlcStreamingServerIP>:1234 --fullscreen --control netsync --netsync-master-ip <UE4DisplayClusterMainNodeIP>`
 
 <div style='page-break-after: always'></div>
+
+###### 1.5.2.2.2. Professional approach by Epic Games
+
+* [UE Documentation: Professional Video I/O](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/ProVideoIO/), see also Youtube [Genlock, Timecode & Sync for Virtual Production with Unreal (Panel Discussion) 24.07.2020](https://www.youtube.com/watch?v=BVLMyp0Kicw)
+* Blackmagic Hardware and UE4-Plugin; see [Blackmagic Video I/O Quick Start](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/ProVideoIO/BlackmagicQuickStart/index.html)
+* Blackmagic Design is using [Nvidia GPUdirect](https://developer.nvidia.com/gpudirect) technology (cp. Nvidia: [GPUDirect for Video](https://developer.nvidia.com/gpudirectforvideo), and Blackmagic Design: [`DeNA Uses DeckLink 4K Extreme 12G with SDK for 4K VR Streaming System`](https://www.blackmagicdesign.com/media/release/20181122-01))
+
+See also:
+
+Generator Locking (Genlock) is a common technique where the video output of one source or a specific reference signal from a signal generator is used to synchronize other picture sources together. The aim in video applications is to ensure the coincidence of signals in time at a combining or switching point. When video instruments are synchronized in this way, they are said to be generator-locked, or genlocked (cp. Ward14). For this purpose a SampleClock is used. Its TimeCode is distributed over network by SMPTE timecode protocol. 
+
+* Ward, Peter (2014): *Timecode versus Sync: How They Differ and Why it Matters*, In: Explora Blog; URL: https://www.bhphotovideo.com/explora/video/tips-and-solutions/timecode-versus-sync-how-they-differ-and-why-it-matters
 
 ### 1.6. DGE Message Handler Child Actor
 
@@ -806,8 +806,8 @@ Screenshot of Jupyter Notebook ESBMessaging ZeroMQ Publish:
 ## A. References
 
 * Unreal Engine Documentation:
-  * [Rendering to Multiple Displays with nDisplay](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/index.html), In: *Working with Media*
-  * [Using Cluster Events](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/ClusterEvents/index.html), In: *Working with Media > Rendering to Multiple Displays with nDisplay*
+  * [Rendering to Multiple Displays with nDisplay](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/), In: *Working with Media > Integrating Media*
+  * [Using Cluster Events](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/ClusterEvents/), In: *Working with Media > Integrating Media > Rendering to Multiple Displays with nDisplay*
 * JSON Schema Specification:
   * [Homepage of JSON Schema](https://json-schema.org/)
   * [Understanding JSON Schema 7.0](https://json-schema.org/understanding-json-schema/index.html)
