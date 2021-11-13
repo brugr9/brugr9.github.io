@@ -146,7 +146,7 @@ As software engineer and through my work at the Technology Platform Research TPF
 * Proficient in working with UE Blueprints
 * Expert know-how in providing with UE Content- and writing C++-Plugins - also by the use of third-party libraries
 * Know-how in UE Material and HLSL-Shader development
-* Experience in Real-time Rendering, VR and Virtual Production integration
+* Experience in Real-time Rendering, Motion Capture, Eye Tracking, VR and Virtual Production integration
 * Excellent organization skills with adherence to file structures and naming conventions
 
 * [List of completed on-line learning courses](UE-Achievements)
