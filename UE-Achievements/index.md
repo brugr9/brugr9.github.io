@@ -2,7 +2,7 @@
 
 # A. Unreal Online Learning: Achievements
 
-List of completed on-line learning courses (links go to Epic Games).
+List of completed on-line learning courses (links go to Epic Games):
 
 ## Basic Courses
 
