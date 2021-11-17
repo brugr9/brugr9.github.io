@@ -15,11 +15,15 @@ A game plugin providing with ZeroMQ (aka zmq) assets using C++-bindings from Cpp
 
 ### Features
 
-* ZmqContextActor
-* PUB/SUB Actors and ActorComponents:
-  * ZmqPubSocketActor, ZmqPublishComponent
-  * ZmqSubSocketActor, ZmqSubscribeComponent
-* Demo Actors and Demo Map
+* ZeroMQ PUB/SUB pattern support
+* Context Actor:
+  * Event Dispatchers: OnZmqContextAndSocketsInitialised, OnZmqContextAndSocketsClosed
+* Socket Actor:
+  * Transport Type: tcp, ipc, inproc, pgm, vmci
+  * Event Dispatchers: OnZmqSocketBound, OnZmqSocketUnbound, OnZmqSocketConnected, OnZmqSocketDisconnected
+* PUB/SUB Actor Components:
+  * ZmqPublishComponent, Event Dispatchers: OnZmqPublished
+  * ZmqSubscribeComponent, Event Dispatchers: OnZmqSubscribed, OnZmqUnsubscribed, OnZmqMessageReceived
 
 ### Contents
 
@@ -29,7 +33,7 @@ A game plugin providing with ZeroMQ (aka zmq) assets using C++-bindings from Cpp
 ### C++ Classes
 
 * Interfaces: 1
-* ActorComponents: 2
+* Actor Components: 2
 * Actors: 4
 * Objects: 1
 
@@ -112,11 +116,9 @@ ZmqPubSocketActor has:
 
 * Variables, Link Info:
   * Transport Type (tcp, ipc, inproc, pgm, vmci), Host, Port
-
 * Functions:
   * Bind, IsBound (IsBound Boolean), Unbind
   * Connect, IsConnected (IsConnected Boolean), Disconnect
-
 * Event Dispatchers (Delegates):
   * OnZmqSocketBound, OnZmqSocketUnbound
   * OnZmqSocketConnected, OnZmqSocketDisconnected
@@ -137,13 +139,11 @@ ZmqSubSocketActor has:
 
 * Variables, Link Info:
   * Transport Type (tcp, ipc, inproc, pgm, vmci), Host, Port
-
 * Functions:
   * Bind, IsBound (IsBound Boolean), Unbind
   * Connect, IsConnected (IsConnected Boolean), Disconnect
   * Receive
   * StartBlockingReceive, StopBlockingReceive
-
 * Event Dispatchers (Delegates):
   * OnZmqSocketBound, OnZmqSocketUnbound
   * OnZmqSocketConnected, OnZmqSocketDisconnected
@@ -166,7 +166,6 @@ ZmqPublishComponent has:
 
 * Functions:
   * Publish
-
 * Event Dispatchers (Delegates):
   * OnZmqMessagePublished
 
@@ -183,7 +182,6 @@ ZmqSubscribeComponent has:
 * Functions:
   * Subscribe
   * Unsubscribe
-
 * Event Dispatchers (Delegates):
   * OnZmqSubscribed
   * OnZmqUnsubscribed

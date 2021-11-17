@@ -1,4 +1,4 @@
-*Unity® and Unreal Game Engine Projects and Plugins*
+*Unity and Unreal Game Engine Projects and Plugins*
 
 # Document Outline
 <!-- Start Document Outline -->
