@@ -13,6 +13,11 @@ List of completed on-line learning courses (links go to Epic Games):
 
 ## Learning Paths
 
+* ***<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/getting-started-in-unreal-engine" target="_blank">Getting Started in Unreal Engine 4</a>***
+  * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4" target="_blank">Your First Hour with Unreal Engine 4</a>*
+  * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>*
+  * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/comprehending-projects-and-file-structure" target="_blank">Comprehending Projects and File Structure</a>*
+  * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines" target="_blank">Building Better Pipelines</a>*
 * ***<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/welcome-to-game-development" target="_blank">Welcome to Game Development</a>***
   * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4" target="_blank">Your First Hour in Unreal Engine 4</a>*
   * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine" target="_blank">Introducing Unreal Engine 4</a>*
@@ -44,7 +49,6 @@ List of completed on-line learning courses (links go to Epic Games):
 ## Advanced Courses
 
 * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-ai-with-blueprints" target="_blank">Introduction to AI with Blueprint</a>*
-* *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/building-better-pipelines" target="_blank">Building Better Pipelines</a>*
 * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/converting-blueprints-to-c" target="_blank">Converting Blueprints to C++</a>*
 * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/best-practices-for-creating-and-using-plugins" target="_blank">Best Practices for Creating and Using Plugins</a>*
 * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/creating-marketplace-content" target="_blank">Creating Marketplace Content</a>*
