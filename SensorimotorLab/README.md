@@ -213,10 +213,10 @@ To load a test pattern make use of Cluster Events (cp. Unreal Engine Documentati
 
 For testing purpose plugin ISPW provides with Jupyter Notebooks:
 
-* ispw-zmq-pub.ipynb: Sending messages using ZeroMQ PUB-Ssocket(s)
+* ispw-zmq-pub.ipynb: Sending messages using ZeroMQ PUB-Socket(s)
 * ispw-zmq-sub.ipynb: Receiving messages using ZeroMQ SUB-Socket(s)
 
-Please find instructions on how to install Anaconda and setup Jupyter Notebook in folder [ISPW/Testing](../ISPW/Testing).
+Please in folder [ISPW/Testing](../ISPW/Testing) find instructions on how to install Anaconda and setup Jupyter Notebook.
 
 Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 

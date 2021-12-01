@@ -140,12 +140,11 @@ der wissenschaftlichen Forschung (SNF)
 
 # A. Unreal Online Learning: Achievements
 
-As software engineer and through my work at the Technology Platform Research TPF, I have at least the following knowledge:
+I have the following knowledge:
 
 * Solid understanding of general workflows and artistic works in UE
 * Proficient in working with UE Blueprints
 * Expert know-how in providing with UE Content- and writing C++-Plugins - also by the use of third-party libraries
 * Experience in Real-time Rendering, Motion Capture, Eye Tracking, VR and Virtual Production integration
 * Excellent organization skills with adherence to file structures and naming conventions
-
 * [List of completed on-line learning courses](UE-Achievements)
