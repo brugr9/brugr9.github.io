@@ -95,7 +95,7 @@ Documentation:
 
 * UE Project: [Dream Simulation Lab](DreamSimLab)
 * UE Code Plugin: [Bizarre BZR](BZR)
-* **<a href="https://www.slideshare.net/secret/lUQIwIEFTZYEq" target="_blank">Report (pdf)</a>** on SlideShare
+* **<a href="https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767" target="_blank">Report (pdf)</a>** on SlideShare
 <!-- * UE Content Plugin (Documentation): [Virtual Learning Attendance VIRLA](VIRLA) -->
 
 ## 4.3. External References
@@ -128,7 +128,7 @@ Documentation:
 * UE Blueprint Plugins: [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages), [Institute of Sport Science ISPW](ISPW)
 * UE Code Plugins: [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
 * Integration Testing: [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
-* **<a href="https://www.slideshare.net/secret/lROZ8b2qfVbkso" target="_blank">Report (pdf)</a>** on SlideShare
+* **<a href="https://www.slideshare.net/RolandBruggmann/ue-display-cluster-in-cave" target="_blank">Report (pdf)</a>** on SlideShare
 
 ## 5.3. External References
 
