@@ -1,3 +1,6 @@
+![Screenshot UE Achievements](Docs/ue-achievements-header.png "Screenshot UE Achievements")
+Screenshot of Unreal Online Learning, section "Achievements", Header:
+
 [<< Back to Main Page](..)
 
 # A. Unreal Online Learning: Achievements
@@ -49,8 +52,9 @@ List of completed on-line learning courses (links go to Epic Games):
 * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/best-practices-for-creating-and-using-plugins" target="_blank">Best Practices for Creating and Using Plugins</a>*
 * *<a href="https://www.unrealengine.com/en-US/onlinelearning-courses/creating-marketplace-content" target="_blank">Creating Marketplace Content</a>*
 
-Screenshot of Unreal Online Learning, section "Achievements":
+Screenshot of Unreal Online Learning, section "Achievements", Badges:
 
-![Screenshot UE Achievements](Docs/ue-achievements-rb.png "Screenshot UE Achievements")
+![Screenshot UE Achievements Badges](Docs/ue-achievements-badges.png "Screenshot UE Achievements Badges")
+<!-- ![Screenshot UE Achievements](Docs/ue-achievements-rb.png "Screenshot UE Achievements") -->
 
 [<< Back to Main Page](..)
