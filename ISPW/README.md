@@ -1252,7 +1252,7 @@ Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 
 * Unreal Engine Documentation:
   * *Locator Sockets*: [Setting Up and Using Sockets With Static Meshes](https://docs.unrealengine.com/en-US/WorkingWithContent/Types/StaticMeshes/HowTo/Sockets/index.html)
-  * *Display Cluster*: [nDisplay Configuration File Reference](https://docs.unrealengine.com/en-US/WorkingWithMedia/nDisplay/Configuration/index.html)
+  * *Display Cluster*: [nDisplay Configuration File Reference](https://docs.unrealengine.com/4.26/en-US/WorkingWithMedia/nDisplay/Configuration/)
 * [Institute of Sport Science: Research](https://www.ispw.unibe.ch/research/index_eng.html), University of Bern
 * Technology Platform for Research TPF: [UE4 Display Cluster in CAVE](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), Faculty of Human Sciences, University of Bern
 
