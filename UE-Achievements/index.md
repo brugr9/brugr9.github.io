@@ -1,5 +1,4 @@
-![Screenshot UE Achievements](Docs/ue-achievements-header.png "Screenshot UE Achievements")
-Screenshot of Unreal Online Learning, section "Achievements", Header:
+![Screenshot of Unreal Online Learning, section "Achievements" (Header)](Docs/ue-achievements-header.png "Screenshot of Unreal Online Learning, section "Achievements" (Header)")
 
 [<< Back to Main Page](..)
 

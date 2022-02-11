@@ -1,13 +1,16 @@
-*Unity and Unreal Game Engine Projects and Plugins*
 
-# Document Outline
+[<< Back to *https://about.me/rbruggmann*](https://about.me/rbruggmann)
+
+# Unity and Unreal Game Engine Projects and Plugins
+
+## Document Outline
 <!-- Start Document Outline -->
 
 * [1. Unity Volume Rendering](#1-unity-volume-rendering)
 * [2. Unity Solar System](#2-unity-solar-system)
 * [3. Unity Rigged Body Animation](#3-unity-rigged-body-animation)
-* [4. Unreal Content for Dream-like VR](#4-unreal-content-for-dream-like-vr)
-* [5. Unreal Display Cluster in CAVE](#5-unreal-display-cluster-in-cave)
+* [4. UE4 Content for Dream-like VR](#4-ue4-content-for-dream-like-vr)
+* [5. UE4 Display Cluster in CAVE](#5-ue4-display-cluster-in-cave)
 * [A. Unreal Online Learning: Achievements](#a-unreal-online-learning-achievements)
 
 <!-- End Document Outline -->
@@ -36,6 +39,8 @@ January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for
   * <a href="https://www.youtube.com/watch?v=-dfjpM1qk3I" target="_blank">Screencast</a> on YouTube
 * Article <a href="https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann/" target="_blank">*Unity® Volume Rendering*</a>, Roland Bruggmann on LinkedIn
 
+---
+
 # 2. Unity Solar System
 
 ![3D Solar System in Unity Editor.](TeaserSolarSystem.jpg "3D Solar System in Unity Editor.")
@@ -53,6 +58,8 @@ July 2018, private project of Roland Bruggmann
 ## 2.2. External References
 
 * <a href="https://youtu.be/KysSDO5oVDU" target="_blank">Screencast</a> on YouTube
+
+---
 
 # 3. Unity Rigged Body Animation
 
@@ -73,7 +80,9 @@ November – December 2018, Technology Platform for Research approved project "3
 * <a href="https://youtu.be/FbmcLNf7JQM" target="_blank">Screencast</a> on YouTube
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/RiggedBodyAnimation" target="_blank">*Rigged Body Animation in Unity®*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 
-# 4. Unreal Content for Dream-like VR
+---
+
+# 4. UE4 Content for Dream-like VR
 
 ![Virtual Twin of the Dream Simulation Lab in Unreal Editor.](TeaserDreamSimLab.jpg "Virtual Twin of the Dream Simulation Lab in Unreal Editor.")
 <p><em>Fig. 4.1.: Virtual Twin of the Dream Simulation Lab in Unreal Editor.</em></p>
@@ -91,11 +100,12 @@ January-July 2019, Technology Platform for Research approved project "3D Content
 
 ## 4.2. Insights
 
-Documentation:
+Documentation: **<a href="https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767" target="_blank">Report (pdf)</a>** on SlideShare
+
+Readme:
 
 * UE Project: [Dream Simulation Lab](DreamSimLab)
 * UE Code Plugin: [Bizarre BZR](BZR)
-* **<a href="https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767" target="_blank">Report (pdf)</a>** on SlideShare
 <!-- * UE Content Plugin (Documentation): [Virtual Learning Attendance VIRLA](VIRLA) -->
 
 ## 4.3. External References
@@ -103,10 +113,12 @@ Documentation:
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-like VR*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>, In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse
 
-# 5. Unreal Display Cluster in CAVE
+---
+
+# 5. UE4 Display Cluster in CAVE
 
 ![UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-CAVE.jpg "UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.")
-<p><em>Fig. 5.1.: Unreal Engine Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
+<p><em>Fig. 5.1.: UE4 Display Cluster, 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
 
 ## 5.1. Short Summary
 
@@ -122,13 +134,14 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 
 ## 5.2. Insights
 
-Documentation:
+Documentation: **<a href="https://www.slideshare.net/RolandBruggmann/ue-display-cluster-in-cave" target="_blank">Report (pdf)</a>** on SlideShare
+
+Readme:
 
 * UE Project: [Sensorimotor Lab](SensorimotorLab)
 * UE Blueprint Plugins: [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages), [Institute of Sport Science ISPW](ISPW)
 * UE Code Plugins: [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
 * Integration Testing: [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
-* **<a href="https://www.slideshare.net/RolandBruggmann/ue-display-cluster-in-cave" target="_blank">Report (pdf)</a>** on SlideShare
 
 ## 5.3. External References
 
@@ -137,6 +150,9 @@ Documentation:
 der wissenschaftlichen Forschung (SNF)
 * Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021, In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
 der wissenschaftlichen Forschung (SNF)
+<!-- * Mattia Beraldi 2017: <a href="https://tube.switch.ch/switchcast/unibe.ch/events/689245f3-1a88-4aa9-a999-cacbb5d9fec9#8:56" target="_blank">*Occhio di falco*</a>, Conservatorio Internationale Scienze Audiovisive CISA &ndash; FILM Academy. A documentary about the challenges of line judges in tennis (Italian, English subtitle). In: SWITCHcast event, Hrsg: 07. August 2020, Institut für Sportwissenschaft ISPW, Universität Bern -->
+
+---
 
 # A. Unreal Online Learning: Achievements
 
@@ -148,3 +164,7 @@ I have the following knowledge:
 * Experience in Real-time Rendering, Motion Capture, Eye Tracking, VR and Virtual Production integration
 * Excellent organization skills with adherence to file structures and naming conventions
 * [List of completed on-line learning courses](UE-Achievements)
+
+---
+
+[<< Back to *https://about.me/rbruggmann*](https://about.me/rbruggmann)
