@@ -1,6 +1,6 @@
-![Screenshot of Unreal Online Learning, section "Achievements" (Header)](Docs/ue-achievements-header.png "Screenshot of Unreal Online Learning, section "Achievements" (Header)")
-
 [<< Back to Main Page](..)
+
+![Screenshot of Unreal Online Learning, section "Achievements" (Header)](Docs/ue-achievements-header.png "Screenshot of Unreal Online Learning, section "Achievements" (Header)")
 
 # A. Unreal Online Learning: Achievements
 
