@@ -49,6 +49,6 @@ git clone https://github.com/brugr9/VIRLA.git
 
 ## A. References
 
-* [*"VIRLA" project*](https://distanceuniversity.ch/research-e-learning/projects/virla/), In: Research - E-Learning Projects, Distance University Switzerland 'UniDistance Suisse'
+* [*"VIRLA" project*](https://distanceuniversity.ch/research-e-learning/projects/virla/). In: Research - E-Learning Projects, Distance University Switzerland 'UniDistance Suisse'
 
 [<< Back to Main Page](..)

@@ -90,12 +90,13 @@ Screenshot of WorldSettings Lightmass:
 ### Project
 
 * <a href="https://www.slideshare.net/secret/lUQIwIEFTZYEq" target="_blank">Project Report (pdf)</a> on Slide Share
-* <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-Like VR*</a>, In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
-* <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>, In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse
+* <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-like VR*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
+* <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>. In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse
+* Denzer, Simone; Diezig, Sarah; Achermann, Peter; König, Thomas; Mast, Fred W. (2022). <a href="https://boris.unibe.ch/165396/" target="_blank">*BizarreVR: Dream-like bizarreness in immersive virtual reality induced changes in conscious experience of reality while leaving spatial presence intact*</a>. In: Consciousness and cognition, 99, p. 103283. Elsevier <a href="http://dx.doi.org/10.1016/j.concog.2022.103283" target="_blank">10.1016/j.concog.2022.103283</a>
 
 ### Lab and Research
 
-* <a href="https://www.kog.psy.unibe.ch/forschung/labors/virtual_reality_lab/index_ger.html" target="_blank">*Virtual-Reality-Lab*</a>, In: Webpages of Institute of Psychology, Division of Cognitive Psychology, Perception and Research Methods, University of Bern
-* <a href="https://www.sleep.unibe.ch/research/projects/reality_monitoring_in_sleep_psychosis_and_virtual_reality/index_eng.html" target="_blank">*Reality-monitoring in sleep, psychosis, and virtual reality*</a>, In: Website of *"Decoding Sleep"* - Interfaculty Research Cooperation of Department of Psychology and Hospital of Psychiatry, University of Bern
+* <a href="https://www.kog.psy.unibe.ch/forschung/labors/virtual_reality_lab/index_ger.html" target="_blank">*Virtual-Reality-Lab*</a>. In: Webpages of Institute of Psychology, Division of Cognitive Psychology, Perception and Research Methods, University of Bern
+* <a href="https://www.sleep.unibe.ch/research/projects/reality_monitoring_in_sleep_psychosis_and_virtual_reality/index_eng.html" target="_blank">*Reality-monitoring in sleep, psychosis, and virtual reality*</a>. In: Website of *"Decoding Sleep"* - Interfaculty Research Cooperation of Department of Psychology and Hospital of Psychiatry, University of Bern
 
 [<< Back to Main Page](..)
