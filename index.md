@@ -106,7 +106,7 @@ Readme:
 
 * UE Project: [Dream Simulation Lab](DreamSimLab)
 * UE Code Plugin: [Bizarre BZR](BZR)
-* UE Content Plugin (Documentation): [Virtual Learning Attendance VIRLA](VIRLA)
+* UE Content Plugin: [Virtual Learning Attendance VIRLA](VIRLA)
 
 ## 4.3. External References
 
