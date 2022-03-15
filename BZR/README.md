@@ -50,11 +50,7 @@ A Game Plugin providing with 3D Content for Dream-Like VR.
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
-
-```shell
-git clone https://github.com/brugr9/BZR.git
-```
+Use the plugin as project plugin (folder *MyProject/Plugins*).
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")
 

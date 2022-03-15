@@ -39,11 +39,7 @@ From project description (UniDistance Suisse):
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
-
-```shell
-git clone https://github.com/brugr9/VIRLA.git
-```
+Use the plugin as project plugin (folder *MyProject/Plugins*).
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")
 

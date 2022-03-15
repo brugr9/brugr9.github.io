@@ -56,13 +56,7 @@ The project makes use of plugin [BZR](../BZR) and [VIRLA](../VIRLA).
 
 ### 1.2. Installation
 
-Download the project using git -- the plugins are included as git submodules:
-
-```shell
-git clone --recursive https://github.com/brugr9/DreamSimLab.git
-cd DreamSimLab
-git submodule update --recursive
-```
+Download the project using git -- the plugins are included as git submodules.
 
 <div style='page-break-after: always'></div>
 
