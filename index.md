@@ -119,7 +119,7 @@ Readme:
 # 5. UE4 Display Cluster in CAVE
 
 ![UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-CAVE.jpg "UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.")
-<p><em>Fig. 5.1.: UE4 Display Cluster, 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
+<p><em>Fig. 5.1.: UE Display Cluster, 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
 
 ## 5.1. Short Summary
 
@@ -135,7 +135,7 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 
 ## 5.2. External References
 
-* <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE Display Cluster in CAVE*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
+* <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE4 Display Cluster in CAVE*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.ispw.unibe.ch/research/research_equipment/sensorimotor_lab/index_eng.html" target="_blank">*Research Equipment: Sensorimotor Lab*</a>. In: Website of the Institute of Sport Science, University of Bern
 * Santina Russe: <a href="https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/" target="_blank">*Der Blick von Topathletinnen wird optimiert*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
 der wissenschaftlichen Forschung (SNF)
