@@ -1,4 +1,4 @@
-[<< Back to Main Page](..)
+[<< Back ](..)
 
 # Unreal Engine Project: Sensorimotor Lab
 
@@ -230,4 +230,4 @@ Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 * Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF), 02. September 2021
 * [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html). In: Unreal Engine Documentation
 
-[<< Back to Main Page](..)
+[<< Back ](..)

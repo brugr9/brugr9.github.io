@@ -1,4 +1,4 @@
-[<< Back to Main Page](..)
+[<< Back ](..)
 
 # Unreal Engine Plugin: Sports Equipment
 
@@ -97,4 +97,4 @@ Screenshot of Tennisball Reference Viewer:
 * 3D Models on Sketchfab: [Soccerball](https://sketchfab.com/3d-models/soccer-ball-d4c560493a0846c5943f3aeea58acb72) by Blenderkurt, [Tennisball, Tennisracket and Tenniscourt](https://sketchfab.com/3d-models/tennis-court-animation-fab5950b1b6f441da6a73c314f0cd04e) by Anthony Yanez
 * Unreal Engine 4 Documentation: Making Interactive Experiences > Physics > [Physical Materials](https://docs.unrealengine.com/en-US/InteractiveExperiences/Physics/PhysicalMaterials/)
 
-[<< Back to Main Page](..)
+[<< Back ](..)

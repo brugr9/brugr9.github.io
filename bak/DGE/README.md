@@ -1,4 +1,4 @@
-[<< Back to Main Page](..)
+[<< Back ](..)
 
 # Unreal Engine Plugin: Distributed Game Engine DGE
 
@@ -813,4 +813,4 @@ Screenshot of Jupyter Notebook ESBMessaging ZeroMQ Publish:
   * [Understanding JSON Schema 7.0](https://json-schema.org/understanding-json-schema/index.html)
 * Technology Platform for Research TPF: [UE4 Display Cluster in CAVE](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), Faculty of Human Sciences, University of Bern
 
-[<< Back to Main Page](..)
+[<< Back ](..)

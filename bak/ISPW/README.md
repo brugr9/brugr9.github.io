@@ -1,4 +1,4 @@
-[<< Back to Main Page](..)
+[<< Back ](..)
 
 # Unreal Engine Plugin: Institute of Sport Science ISPW
 
@@ -1256,4 +1256,4 @@ Screenshot of Jupyter Notebook ISPW ZeroMQ Publish:
 * [Institute of Sport Science: Research](https://www.ispw.unibe.ch/research/index_eng.html), University of Bern
 * Technology Platform for Research TPF: [UE4 Display Cluster in CAVE](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster), Faculty of Human Sciences, University of Bern
 
-[<< Back to Main Page](..)
+[<< Back ](..)

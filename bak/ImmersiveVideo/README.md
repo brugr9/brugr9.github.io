@@ -1,4 +1,4 @@
-[<< Back to Main Page](..)
+[<< Back ](..)
 
 # Unreal Engine Plugin: Immersive Video
 
@@ -155,4 +155,4 @@ List of Assets:
 
 Unreal Engine 4 Documentation, WorkingWithMedia: [BlueprintAPI: MediaPlayer](https://docs.unrealengine.com/en-US/BlueprintAPI/Media/MediaPlayer/index.html), [MediaFramework](https://docs.unrealengine.com/en-US/WorkingWithMedia/MediaFramework/index.html), [MediaFramework TechReference](https://docs.unrealengine.com/en-US/WorkingWithMedia/MediaFramework/TechReference/index.html)
 
-[<< Back to Main Page](..)
+[<< Back ](..)

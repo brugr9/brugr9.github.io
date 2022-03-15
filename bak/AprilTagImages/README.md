@@ -1,4 +1,4 @@
-[<< Back to Main Page](..)
+[<< Back ](..)
 
 # Unreal Engine Plugin: AprilTag Images
 
@@ -125,4 +125,4 @@ Screenshot of AprilTag Blueprint:
 * Official Homepage of [AprilRobotics](https://april.eecs.umich.edu/)
 * [Pre-generated AprilTag 3 families](https://github.com/AprilRobotics/apriltag-imgs) on github
 
-[<< Back to Main Page](..)
+[<< Back ](..)

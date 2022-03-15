@@ -1,4 +1,4 @@
-[<< Back to Main Page](..)
+[<< Back ](..)
 
 # Unreal Engine Plugin: ESB Messaging
 
@@ -1369,4 +1369,4 @@ Screenshot of Jupyter Notebook ESBMessaging ZeroMQ Publish:
 * Trace:
   * [Single Line Trace (Raycast) by Channel](https://docs.unrealengine.com/en-US/InteractiveExperiences/Tracing/HowTo/SingleLineTraceByChannel/), In: *Making Interactive Experiences > Traces with Raycasts > Traces How to Guides*
 
-[<< Back to Main Page](..)
+[<< Back ](..)
