@@ -77,7 +77,7 @@ November – December 2018, Technology Platform for Research approved project "3
 
 ## 3.2. External References
 
-* <a href="https://youtu.be/FbmcLNf7JQM" target="_blank">Screencast</a> on YouTube
+<!-- * <a href="https://youtu.be/FbmcLNf7JQM" target="_blank">Screencast</a> on YouTube -->
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/RiggedBodyAnimation" target="_blank">*Rigged Body Animation in Unity®*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 
 ---
