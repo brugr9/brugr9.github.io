@@ -46,11 +46,7 @@ The plugin was developed using Visual Studio 2019 and an UE4 Project enhanced as
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
-
-```shell
-git clone https://github.com/brugr9/Pupil.git
-```
+Use the plugin as project plugin (folder *MyProject/Plugins*).
 
 Find the file `MyProject/Plugins/Pupil/Config/DefaultPupil.ini` and copy-paste its lines to file `MyProject/Config/DefaultEngine.ini`.
 

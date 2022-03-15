@@ -31,11 +31,7 @@ A game plugin providing with virtual or augmented reality VR/AR play area conten
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
-
-```shell
-git clone https://github.com/brugr9/PlayArea.git
-```
+Use the plugin as project plugin (folder *MyProject/Plugins*).
 
 ![Screenshot of Plugin](Docs/ScreenshotPlugin.jpg "Screenshot of Plugin")
 

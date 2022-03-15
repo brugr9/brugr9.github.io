@@ -53,11 +53,7 @@ With using this plugin also engine plugins *MediaIOFramework*, *MediaFrameworkUt
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
-
-```shell
-git clone https://github.com/brugr9/ESBMessaging.git
-```
+Use the plugin as project plugin (folder *MyProject/Plugins*).
 
 Find the file `MyProject /Plugins /ESBMessaging /Config /DefaultESBMessaging.ini` and copy-paste its lines to file `MyProject /Config /DefaultEngine.ini`.
 

@@ -87,13 +87,7 @@ Package Diagram:
 
 ### 1.2. Installation
 
-Download the project using git -- the plugins are included as git submodules:
-
-```shell
-git clone --recursive https://github.com/brugr9/SensorimotorLab.git
-cd SensorimotorLab
-git submodule update --recursive
-```
+Download the project using git -- the plugins are included as git submodules.
 
 <div style='page-break-after: always'></div>
 

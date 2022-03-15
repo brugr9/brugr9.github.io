@@ -46,11 +46,7 @@ Package Diagram:
 
 ### Usage
 
-Use the plugin as project plugin (folder *MyProject/Plugins*). Add the plugin by downloading and unpackaging an archive or using git clone:
-
-```shell
-git clone https://github.com/brugr9/ISPW.git
-```
+Use the plugin as project plugin (folder *MyProject/Plugins*).
 
 To create a new level running in the SenorimotorLab CAVE copy the template map to the project content folder.
 
