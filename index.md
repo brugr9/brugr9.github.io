@@ -133,26 +133,13 @@ An Unreal Engine project based on the display cluster template "nDisplay" provid
 
 August 2019 - June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
-## 5.2. Insights
-
-Documentation: **<a href="https://www.slideshare.net/RolandBruggmann/ue-display-cluster-in-cave" target="_blank">Report (pdf)</a>** on SlideShare
-
-Readme:
-
-* UE Project: [Sensorimotor Lab](SensorimotorLab)
-* UE Blueprint Plugins: [Play Area](PlayArea), [Immersive Video](ImmersiveVideo), [Sports Equipment](SportsEquipment), [AprilTag Images](AprilTagImages), [Institute of Sport Science ISPW](ISPW)
-* UE Code Plugins: [Pupil Core](Pupil), [ZeroMQ](ZeroMQ), [ESB Messaging](ESBMessaging), [Distributed Game Engine DGE](DGE)
-* Integration Testing: [Jupyter Notebook as ESB Messaging Endpoint](ISPW/Testing/)
-
-## 5.3. External References
+## 5.2. External References
 
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE Display Cluster in CAVE*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.ispw.unibe.ch/research/research_equipment/sensorimotor_lab/index_eng.html" target="_blank">*Research Equipment: Sensorimotor Lab*</a>. In: Website of the Institute of Sport Science, University of Bern
 * Santina Russe: <a href="https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/" target="_blank">*Der Blick von Topathletinnen wird optimiert*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
 der wissenschaftlichen Forschung (SNF)
-* Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
-der wissenschaftlichen Forschung (SNF)
-<!-- * Mattia Beraldi 2017: <a href="https://tube.switch.ch/switchcast/unibe.ch/events/689245f3-1a88-4aa9-a999-cacbb5d9fec9#8:56" target="_blank">*Occhio di falco*</a>, Conservatorio Internationale Scienze Audiovisive CISA &ndash; FILM Academy. A documentary about the challenges of line judges in tennis (Italian, English subtitle). In: SWITCHcast event, Hrsg: 07. August 2020, Institut für Sportwissenschaft ISPW, Universität Bern -->
+* Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF)
 
 ---
 
