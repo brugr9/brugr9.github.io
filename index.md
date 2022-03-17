@@ -18,7 +18,7 @@
 # 1. Unity Volume Rendering
 
 ![Real-Time Rendering of a Neurovascular Angiography in Unity Editor.](TeaserVolumeRendering.jpg "Real-Time Rendering of a Neurovascular Angiography in Unity Editor.")
-<p><em>Fig. 1.1.: Real-Time Rendering of a Neurovascular Angiography in the Unity® Editor.</em></p>
+<p><em>Fig. 1.: Real-Time Rendering of a Neurovascular Angiography in the Unity® Editor.</em></p>
 
 ## 1.1. Short Summary
 
@@ -44,7 +44,7 @@ January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for
 # 2. Unity Solar System
 
 ![3D Solar System in Unity Editor.](TeaserSolarSystem.jpg "3D Solar System in Unity Editor.")
-<p><em>Fig. 2.1.: 3D Solar System in the Unity® Editor.</em></p>
+<p><em>Fig. 2.: 3D Solar System in the Unity® Editor.</em></p>
 
 ## 2.1. Short Summary
 
@@ -64,7 +64,7 @@ July 2018, private project of Roland Bruggmann
 # 3. Unity Rigged Body Animation
 
 ![Real-time Animation of Rigged Avatar by Motion Capture in Sensorimotor Lab.](TeaserRiggedBodyAnimation.jpg "Real-time Animation of Rigged Avatar by Motion Capture in Sensorimotor Lab.")
-<p><em>Fig. 3.1.: Real-time Animation of Rigged Avatar by Motion Capture in Sensorimotor Lab.</em></p>
+<p><em>Fig. 3.: Real-time Animation of Rigged Avatar by Motion Capture in Sensorimotor Lab.</em></p>
 
 ## 3.1. Short Summary
 
@@ -85,7 +85,7 @@ November – December 2018, Technology Platform for Research approved project "3
 # 4. UE4 Content for Dream-like VR
 
 ![Virtual Twin of the Dream Simulation Lab in Unreal Editor.](TeaserDreamSimLab.jpg "Virtual Twin of the Dream Simulation Lab in Unreal Editor.")
-<p><em>Fig. 4.1.: Virtual Twin of the Dream Simulation Lab in Unreal Editor.</em></p>
+<p><em>Fig. 4.: Virtual Twin of the Dream Simulation Lab in Unreal Editor.</em></p>
 
 ## 4.1. Short Summary
 
@@ -119,7 +119,7 @@ Readme:
 # 5. UE4 Display Cluster in CAVE
 
 ![UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-CAVE.jpg "UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.")
-<p><em>Fig. 5.1.: UE Display Cluster, 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
+<p><em>Fig. 5.: UE Display Cluster, 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
 
 ## 5.1. Short Summary
 
@@ -147,10 +147,10 @@ der wissenschaftlichen Forschung (SNF)
 
 I have the following knowledge:
 
-* Solid understanding of general workflows and artistic works in UE
 * Proficient in working with UE Blueprints
-* Expert know-how in providing with UE Content- and writing C++-Plugins - also by the use of third-party libraries
-* Experience in Real-time Rendering, Motion Capture, Eye Tracking, VR and Virtual Production integration
+* Expert know-how in providing with UE Content-Plugins and writing C++-Plugins&mdash;also by the use of 3rd party libraries
+* Experience in Real-time Rendering, Motion Capture, Eye Tracking, Virtual Reality, Messaging and Integration
+* Solid understanding of general workflows and artistic works in UE
 * Excellent organization skills with adherence to file structures and naming conventions
 * [List of completed on-line learning courses](UE-Achievements)
 

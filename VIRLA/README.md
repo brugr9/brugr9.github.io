@@ -3,7 +3,7 @@
 # Unreal Engine Plugin: Virtual Learning Attendance VIRLA
 
 Version: v1.0.0
-<br>Author: Sebastian Strahm
+<br>Author: Deian Popic
 
 ## Description
 
