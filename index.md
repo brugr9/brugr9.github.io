@@ -17,8 +17,8 @@
 
 # 1. Unity Volume Rendering
 
-![Real-Time Rendering of a Neurovascular Angiography in Unity Editor.](TeaserVolumeRendering.jpg "Real-Time Rendering of a Neurovascular Angiography in Unity Editor.")
-<p><em>Fig. 1.: Real-Time Rendering of a Neurovascular Angiography in the Unity® Editor.</em></p>
+![Real-time Rendering of a Neurovascular Angiography in Unity Editor.](TeaserVolumeRendering.jpg "Real-time Rendering of a Neurovascular Angiography in Unity Editor.")
+<p><em>Fig. 1.: Real-time Rendering of a Neurovascular Angiography in the Unity® Editor.</em></p>
 
 ## 1.1. Short Summary
 
@@ -26,7 +26,7 @@
 
 In the context of my Bachelor's Thesis I implemented a Unity® plug-in for 3D-rendering of medical data (MRI/CT) which can be used in VR/AR applications. Therefore I wrote an efficient raycaster pixel-shader running on GPUs.
 
-* **Index Terms:** Medical Imaging, Real-Time Rendering, Raycasting, GPU Programming, Virtual Reality
+* **Index Terms:** Medical Imaging, Real-time Rendering, Raycasting, GPU Programming, Virtual Reality
 * **Technology:** Unity® Game Engine, .NET/C#, JSON, Cg/HLSL, VTK, DICOM
 
 January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS
@@ -68,9 +68,9 @@ July 2018, private project of Roland Bruggmann
 
 ## 3.1. Short Summary
 
-3D Content Generation and Interactive Real-Time Animation of Rigged Avatar by Motion Capture in Sensorimotor Laboratory.
+3D Content Generation and Interactive Real-time Animation of Rigged Avatar by Motion Capture in Sensorimotor Laboratory.
 
-* **Index Terms:** Virtual Reality, 3D Modelling, Rigging, Motion Capture, Real-Time Animation
+* **Index Terms:** Virtual Reality, 3D Modelling, Rigging, Motion Capture, Real-time Animation
 * **Technology:** Blender, MakeHuman, Unity Game Engine, OptiTrack, Power-Wall
 
 November – December 2018, Technology Platform for Research approved project "3D Workflow" aka "Rigged Body Animation in Unity" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
@@ -123,7 +123,7 @@ Readme:
 
 ## 5.1. Short Summary
 
-*Distributed Real-Time Rendering in Sensorimotor Laboratory CAVE*
+*Distributed Real-time Rendering in Sensorimotor Laboratory CAVE*
 
 An Unreal Engine project based on the display cluster template "nDisplay" providing game-levels related to the Institute of Sports Science ISPW at University of Bern, more precisely for the sensorimotor lab of the institute with its five-sided CAVE. The lab integration is enabled by a newly developed messaging layer that is used to interact with an Enterprise Service Bus ESB. Custom-developed Unreal Engine plugins are used to control VR objects via the lab's experiment management system and render 360° videos and CAVE-specific 3D content. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
 
@@ -136,7 +136,10 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 ## 5.2. External References
 
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE4 Display Cluster in CAVE*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
+* [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html). In: Unreal Engine Documentation
+* <a href="https://viscon.de/4-seiten-cave-fuer-universitaet-bern/" target="_blank">*4-Seiten-CAVE für Universität Bern*</a>, 15 December 2016. In: Website of Viscon GmbH
 * <a href="https://www.ispw.unibe.ch/research/research_equipment/sensorimotor_lab/index_eng.html" target="_blank">*Research Equipment: Sensorimotor Lab*</a>. In: Website of the Institute of Sport Science, University of Bern
+* <a href="https://tube.switch.ch/videos/WgB89iKX2u" target="_blank">*Forschung am ISPW*</a>. In: ISPW-Imagefilme on SWITCH tube, Published by André Klostermann, Universität Bern on 15 March 2022.
 * Santina Russe: <a href="https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/" target="_blank">*Der Blick von Topathletinnen wird optimiert*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
 der wissenschaftlichen Forschung (SNF)
 * Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF)
