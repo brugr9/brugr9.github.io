@@ -11,6 +11,7 @@
 * [3. Unity Rigged Body Animation](#3-unity-rigged-body-animation)
 * [4. UE4 Content for Dream-like VR](#4-ue4-content-for-dream-like-vr)
 * [5. UE4 Display Cluster in CAVE](#5-ue4-display-cluster-in-cave)
+* [6. UE Plugin: Integration Tool](#6-ue-plugin-integration-tool)
 * [A. Unreal Online Learning: Achievements](#a-unreal-online-learning-achievements)
 
 <!-- End Document Outline -->
@@ -73,7 +74,7 @@ July 2018, private project of Roland Bruggmann
 * **Index Terms:** Virtual Reality, 3D Modelling, Rigging, Motion Capture, Real-time Animation
 * **Technology:** Blender, MakeHuman, Unity Game Engine, OptiTrack, Power-Wall
 
-November – December 2018, Technology Platform for Research approved project "3D Workflow" aka "Rigged Body Animation in Unity" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
+November &ndash; December 2018, Technology Platform for Research approved project "3D Workflow" aka "Rigged Body Animation in Unity" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
 ## 3.2. External References
 
@@ -96,7 +97,7 @@ Experience of reality is highly flexible and unstable. This becomes apparent dur
 * **Index Terms:** Virtual Reality, 3D Modelling, Animation, Rotating Surface Photography, UV Mapping, Cloth Simulation, Fluid Simulation
 * **Technology:** HTC VIVE Pro, Unreal Engine, UE C++-Plugin Development, Blender, GIMP, Nikon D80, Cannon EOS 60D, Nvidia Cloth, Nvidia Cataclysm
 
-January-July 2019, Technology Platform for Research approved project "3D Content for Dream-like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern
+January &ndash; July 2019, Technology Platform for Research approved project "3D Content for Dream-like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern
 
 ## 4.2. Insights
 
@@ -135,13 +136,36 @@ August 2019 - June 2021, Technology Platform for Research approved project "Dist
 ## 5.2. External References
 
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE4 Display Cluster in CAVE*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
-* [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html). In: Unreal Engine Documentation
-* <a href="https://viscon.de/4-seiten-cave-fuer-universitaet-bern/" target="_blank">*4-Seiten-CAVE für Universität Bern*</a>, 15 December 2016. In: Website of Viscon GmbH
 * <a href="https://www.ispw.unibe.ch/research/research_equipment/sensorimotor_lab/index_eng.html" target="_blank">*Research Equipment: Sensorimotor Lab*</a>. In: Website of the Institute of Sport Science, University of Bern
-* <a href="https://tube.switch.ch/videos/WgB89iKX2u" target="_blank">*Forschung am ISPW*</a>. In: ISPW-Imagefilme on SWITCH tube, Published by André Klostermann, Universität Bern on 15 March 2022.
 * Santina Russe: <a href="https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/" target="_blank">*Der Blick von Topathletinnen wird optimiert*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
 der wissenschaftlichen Forschung (SNF)
-* Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF)
+
+<!-- * <a href="https://viscon.de/4-seiten-cave-fuer-universitaet-bern/" target="_blank">*4-Seiten-CAVE für Universität Bern*</a>, 15 December 2016. In: Website of Viscon GmbH -->
+<!-- * [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html). In: Unreal Engine Documentation -->
+<!-- * <a href="https://tube.switch.ch/videos/WgB89iKX2u" target="_blank">*Forschung am ISPW*</a>. In: ISPW-Imagefilme on SWITCH tube, Published by André Klostermann, Universität Bern on 15 March 2022. -->
+<!-- * Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF) -->
+
+---
+
+# 6. UE Plugin: Integration Tool
+
+![UE Plugin: Integration Tool.](TeaserUEPluginIntegrationTool.jpg "UE Plugin: Integration Tool.")
+<p><em>Fig. 6.: UE Plugin "Integration Tool", example PUB/SUB Scheme.</em></p>
+
+## 6.1. Short Summary
+
+*Adds Blueprint Support for Asynchronous Messaging using NNG&trade; next generation of nanomsg&trade; Software*
+
+An Unreal Engine plugin enabling asynchronous, broker-less messaging using NNG&trade; next generation of nanomsg&trade; software from the Blueprint visual scripting system. The delivered assets provide transporting messages over a network and can be used in games to enable direct machine-to-machine communication, internet of things integration, or interaction with, e.g., an enterprise service bus or an event bus/broker resp. Other use cases could be data streaming or instant messaging from or into a game.
+
+* **Index Terms:** Messaging, Integration, M2M, IoT, Network, TCP, INPROC, Socket, PubSub, Runtime
+* **Technology:** Unreal Engine, UE Blueprint, UE C++-Plugin Development, NNG&trade;
+
+April 2022, brug9 on Unreal Marketplace
+
+## 6.2. External References
+
+* <a href="https://github.com/brugr9/UEPluginIntegrationTool" target="_blank">*UE Plugin: Integration Tool &mdash; Documentation*</a> on github
 
 ---
 
@@ -151,10 +175,12 @@ I have the following knowledge:
 
 * Proficient in working with UE Blueprints
 * Expert know-how in providing with UE Content-Plugins and writing C++-Plugins&mdash;also by the use of 3rd party libraries
-* Experience in Real-time Rendering, Motion Capture, Eye Tracking, Virtual Reality, Messaging and Integration
+* Experience in Virtual Reality, Real-time Rendering, Motion Capture, Eye Tracking, Messaging and Integration in UE
 * Solid understanding of general workflows and artistic works in UE
 * Excellent organization skills with adherence to file structures and naming conventions
-* [List of completed on-line learning courses](UE-Achievements)
+
+List of completed online learning courses: *<a href="https://forums.unrealengine.com/u/brugr9/badges" target="_blank">Badges on forums.unrealengine.com</a>*
+<!-- [List of completed on-line learning courses](UE-Achievements) -->
 
 ---
 
