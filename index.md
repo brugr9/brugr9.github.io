@@ -30,7 +30,7 @@ In the context of my Bachelor's Thesis I implemented a Unity® plug-in for 3D-re
 * **Index Terms:** Medical Imaging, Real-time Rendering, Raycasting, GPU Programming, Virtual Reality
 * **Technology:** Unity® Game Engine, .NET/C#, JSON, Cg/HLSL, VTK, DICOM
 
-January-June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS
+January &ndash; June 2016, Institute for Human Centered Engineering HuCE, Laboratory for Computer Perception and Virtual Reality, Bern University of Applied Sciences BUAS
 
 ## 1.2. External References
 
@@ -131,7 +131,7 @@ An Unreal Engine project based on the display cluster template "nDisplay" provid
 * **Index Terms:** Virtual Reality, Cluster Rendering, Parallel Rendering, Real-time Rendering, CAVE, 3D, Steroscopy, 360° Video, Motion Capture, Eye Tracking, Integration
 * **Technology:** Unreal Engine, UE Blueprint, UE C++-Plugin Development, UE nDisplay, Nvidia Mosaic, Nvidia Quadro with Sync, OptiTrack, PupilLabs, JSON/JSON-Schema, ZeroMQ
 
-August 2019 - June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
+August 2019 &ndash; June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
 ## 5.2. External References
 
