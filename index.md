@@ -101,7 +101,7 @@ January &ndash; July 2019, Technology Platform for Research approved project "3D
 
 ## 4.2. Insights
 
-Documentation: **<a href="https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767" target="_blank">Report (pdf)</a>** on SlideShare
+Documentation: ***<a href="https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767" target="_blank">3D Content for Dream-like VR &ndash; Report (pdf)</a>*** on SlideShare
 
 Readme:
 
