@@ -99,11 +99,11 @@ Experience of reality is highly flexible and unstable. This becomes apparent dur
 
 January &ndash; July 2019, Technology Platform for Research approved project "3D Content for Dream-like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern
 
-## 4.2. Insights
+## 4.2. Deliveries
 
 Documentation: ***<a href="https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767" target="_blank">3D Content for Dream-like VR &ndash; Report (pdf)</a>*** on SlideShare
 
-Readme:
+Readmes:
 
 * UE Project: [Dream Simulation Lab](DreamSimLab)
 * UE Code Plugin: [Bizarre BZR](BZR)
@@ -133,7 +133,39 @@ An Unreal Engine project based on the display cluster template "nDisplay" provid
 
 August 2019 &ndash; June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
-## 5.2. External References
+## 5.2. Deliveries
+
+<!-- Documentation: **<a href="https://www.slideshare.net/secret/LJFObkfFq4WXRd" target="_blank">Report (pdf)</a>** on SlideShare -->
+
+The project documentation is currently not available for public.
+
+### 5.2.1. UE Project and Plugins
+
+Unreal Engine nDisplay Project "SensorimotorLab" with plugins as follows:
+
+* UE C++ Code Plugins:
+  * `DGE`: Display Cluster Messaging Extension
+  * `ESB Messaging`: Messaging Interfaces and JSON De-/Serialisation
+  * `ZeroMQ`: Asynchronous Messaging using ZeroMQ&reg;
+  * `Pupil`: Eye Gaze Visualisation and Hit Generation
+* UE Blueprint Plugins:
+  * `ISPW`: ISPW Sensorimotor-Lab CAVE Assets
+  * `AprilTag Images`: AprilTag Fiducial Marker Set
+  * `Play Area`: Visual Playing Area Boundary and Head Tracking Integration
+  * `Immersive Video`: 360° Spherical Video Playback
+  * `Sports Equipment`: Soccer and Tennis Balls with Physical Materials
+
+![Package Diagram](DGE/DgePackageDiagram.jpg "Package Diagram")
+<br>*Fig. 5.2.: UE Project 'SensorimotorLab' Package Diagram*
+
+### 5.2.2. Integration Testing
+
+Integration Testing by Jupyter Notebook as Messaging Endpoint:
+
+![Screenshot of Jupyter Notebook ESB ZeroMQ Publish](DGE/ScreenshotEsbZmqPub.jpg "Screenshot of Jupyter Notebook ESB ZeroMQ Publish")
+<br>*Fig. 5.3.: Screenshot of Jupyter Notebook 'ESB ZeroMQ Publish'*
+
+## 5.3. External References
 
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE4 Display Cluster in CAVE*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.ispw.unibe.ch/research/research_equipment/sensorimotor_lab/index_eng.html" target="_blank">*Research Equipment: Sensorimotor Lab*</a>. In: Website of the Institute of Sport Science, University of Bern
