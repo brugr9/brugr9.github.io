@@ -143,20 +143,20 @@ The project documentation is currently not available for public.
 
 Unreal Engine nDisplay Project "SensorimotorLab" with plugins as follows:
 
+![Package Diagram](DGE/DgePackageDiagram.jpg "Package Diagram")
+<br>*Fig. 5.2.: UE Project 'SensorimotorLab' Plugins, Package Diagram*
+
 * UE C++ Code Plugins:
-  * `DGE`: Display Cluster Messaging Extension
-  * `ESB Messaging`: Messaging Interfaces and JSON De-/Serialisation
+  * `DGE`: Distributed Game Engine, Display Cluster Messaging Extension
+  * `ESB Messaging`: Integration Layer from Messaging Interfaces and JSON De-/Serialisation
   * `ZeroMQ`: Asynchronous Messaging using ZeroMQ&reg;
   * `Pupil`: Eye Gaze Visualisation and Hit Generation
 * UE Blueprint Plugins:
   * `ISPW`: ISPW Sensorimotor-Lab CAVE Assets
   * `AprilTag Images`: AprilTag Fiducial Marker Set
   * `Play Area`: Visual Playing Area Boundary and Head Tracking Integration
-  * `Immersive Video`: 360° Spherical Video Playback
   * `Sports Equipment`: Soccer and Tennis Balls with Physical Materials
-
-![Package Diagram](DGE/DgePackageDiagram.jpg "Package Diagram")
-<br>*Fig. 5.2.: UE Project 'SensorimotorLab' Package Diagram*
+  * `Immersive Video`: 360° Spherical Video Playback
 
 ### 5.2.2. Integration Testing
 
