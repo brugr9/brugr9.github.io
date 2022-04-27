@@ -197,7 +197,8 @@ April 2022, brug9 on Unreal Marketplace
 
 ## 6.2. External References
 
-* <a href="https://github.com/brugr9/UEPluginIntegrationTool" target="_blank">*UE Plugin: Integration Tool &mdash; Documentation*</a> on GitHub&trade;
+* <a href="https://www.unrealengine.com/marketplace/en-US/product/integration-tool" target="_blank">*UE Plugin: Integration Tool*</a> on Unreal&reg; Marketplace
+* <a href="https://github.com/brugr9/UEPluginIntegrationTool" target="_blank">*UE Plugin: Integration Tool &mdash; Documentation*</a> on GitHub
 
 ---
 
