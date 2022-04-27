@@ -128,20 +128,20 @@ Readmes:
 
 An Unreal Engine project based on the display cluster template "nDisplay" providing game-levels related to the Institute of Sports Science ISPW at University of Bern, more precisely for the sensorimotor lab of the institute with its five-sided CAVE. The lab integration is enabled by a newly developed messaging layer that is used to interact with an Event Broker. Custom-developed Unreal Engine plugins are used to control VR objects via the lab's experiment management system and render 360° videos and CAVE-specific 3D content. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
 
-* **Index Terms:** Virtual Reality, Cluster Rendering, Parallel Rendering, Real-time Rendering, CAVE, 3D, Steroscopy, 360° Video, Motion Capture, Eye Tracking, Integration
-* **Technology:** Unreal Engine, UE Blueprint, UE C++-Plugin Development, UE nDisplay, Nvidia Mosaic, Nvidia Quadro with Sync, OptiTrack, PupilLabs, JSON/JSON-Schema, ZeroMQ
+* **Index Terms:** Virtual Reality, CAVE, Real-time Rendering, Parallel Rendering, Warp and Blend, Cluster Rendering, Cluster Synchronisation, 3D, Steroscopy, 360° Video Playback, Motion Capture, Eye Tracking, Remote Management, Integration
+* **Technology:** Unreal Engine, Blueprint, C++-Plugin Development, UE nDisplay Cluster, Nvidia Mosaic, Nvidia Quadro with Sync, PTPd, w32tm, VLC Media Player, Windows Media Player, OptiTrack, PupilLabs, mRemoteNG, RDP, FTP, VNC, PowerShell, PuTTY, ZeroMQ, JSON/JSON-Schema
 
 August 2019 &ndash; June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
 ## 5.2. Deliveries
 
-<!-- Documentation: **<a href="https://www.slideshare.net/secret/LJFObkfFq4WXRd" target="_blank">Report (pdf)</a>** on SlideShare -->
+<!-- Documentation: **<a href="https://www.slideshare.net/secret/LJFObkfFq4WXRd" target="_blank">UE4 Display Cluster in CAVE &ndash; Report (pdf)</a>** on SlideShare -->
 
 The project documentation is currently not available for public.
 
 ### 5.2.1. UE Project and Plugins
 
-Unreal Engine nDisplay Project "SensorimotorLab" with plugins as follows:
+Unreal Engine Project "SensorimotorLab" with specially implmented plugins as follows:
 
 ![Package Diagram](DGE/DgePackageDiagram.jpg "Package Diagram")
 <br>*Fig. 5.2.: UE Project 'SensorimotorLab' Plugins, Package Diagram*
@@ -160,7 +160,7 @@ Unreal Engine nDisplay Project "SensorimotorLab" with plugins as follows:
 
 ### 5.2.2. Integration Testing
 
-Integration Testing by Jupyter Notebook as Messaging Endpoint:
+The plugin `ESB Messaging` comes with Jupyter Notebooks which one of them acts as messaging endpoint. Interactive integration testing was achieved by sending JSON messages over a network using a PUB-socket from ZeroMQ aka zmq.
 
 ![Screenshot of Jupyter Notebook ESB ZeroMQ Publish](DGE/ScreenshotEsbZmqPub.jpg "Screenshot of Jupyter Notebook ESB ZeroMQ Publish")
 <br>*Fig. 5.3.: Screenshot of Jupyter Notebook 'ESB ZeroMQ Publish'*
@@ -191,13 +191,13 @@ der wissenschaftlichen Forschung (SNF)
 An Unreal Engine plugin enabling asynchronous, broker-less messaging using NNG&trade; next generation of nanomsg&trade; software from the Blueprint visual scripting system. The delivered assets provide transporting messages over a network and can be used in games to enable direct machine-to-machine communication, internet of things integration, or interaction with, e.g., an enterprise service bus or an event bus/broker resp. Other use cases could be data streaming or instant messaging from or into a game.
 
 * **Index Terms:** Messaging, Integration, M2M, IoT, Network, TCP, INPROC, Socket, PubSub, Runtime
-* **Technology:** Unreal Engine, UE Blueprint, UE C++-Plugin Development, NNG&trade;
+* **Technology:** Unreal Engine, Blueprint, C++-Plugin Development, NNG&trade; next generation of nanomsg&trade;
 
 April 2022, brug9 on Unreal Marketplace
 
 ## 6.2. External References
 
-* <a href="https://github.com/brugr9/UEPluginIntegrationTool" target="_blank">*UE Plugin: Integration Tool &mdash; Documentation*</a> on github
+* <a href="https://github.com/brugr9/UEPluginIntegrationTool" target="_blank">*UE Plugin: Integration Tool &mdash; Documentation*</a> on GitHub&trade;
 
 ---
 
