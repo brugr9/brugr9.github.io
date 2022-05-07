@@ -119,8 +119,13 @@ Readmes:
 
 # 5. UE4 Display Cluster in CAVE
 
-![UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-CAVE.jpg "UE Display Cluster Rendering of a 3D Scene in Sensorimotor Laboratory CAVE.")
-<p><em>Fig. 5.: UE Display Cluster, 3D Scene in Sensorimotor Laboratory CAVE.</em></p>
+![UE Display Cluster Rendering of a 3D Scene and its Projection in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-UEEditor.jpg "UE Display Cluster Rendering of a 3D Scene and its Projection in Sensorimotor Laboratory CAVE.")
+![UE Display Cluster Rendering of a 3D Scene and its Projection in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-3DRendering-CAVE.jpg "UE Display Cluster Rendering of a 3D Scene and its Projection in Sensorimotor Laboratory CAVE.")
+<p><em>Fig. 5.1.: UE Display Cluster Rendering of a 3D Scene and its Projection in Sensorimotor Laboratory CAVE.</em></p>
+
+![UE Display Cluster Rendering of a 360° Spherical Video Playback Scene and its Projection in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-360DegVideo-UEEditor.jpg "UE Display Cluster Rendering of a 360° Spherical Video Playback Scene and its Projection in Sensorimotor Laboratory CAVE.")
+![UE Display Cluster Rendering of a 360° Spherical Video Playback Scene and its Projection in Sensorimotor Laboratory CAVE.](TeaserSensorimotorLab-360DegVideo-CAVE.jpg "UE Display Cluster Rendering of a 360° Spherical Video Playback Scene and its Projection in Sensorimotor Laboratory CAVE.")
+<p><em>Fig. 5.2.: UE Display Cluster Rendering of a 360° Spherical Video Playback Scene and its Projection in Sensorimotor Laboratory CAVE.</em></p>
 
 ## 5.1. Short Summary
 
@@ -143,16 +148,16 @@ The project documentation is currently not available for public.
 
 Unreal Engine Project "SensorimotorLab" with specially implmented plugins as follows:
 
-![Package Diagram](DGE/DgePackageDiagram.jpg "Package Diagram")
-<br>*Fig. 5.2.: UE Project 'SensorimotorLab' Plugins, Package Diagram*
+![UE Project 'SensorimotorLab' Package Diagram with Plugins and Modules](DGE/DgePackageDiagram.jpg "UE Project 'SensorimotorLab' Package Diagram with Plugins and Modules")
+<br>*Fig. 5.3.: UE Project 'SensorimotorLab' Package Diagram with Plugins and Modules*
 
 * UE C++ Code Plugins:
   * `DGE`: Distributed Game Engine, Display Cluster Messaging Extension
   * `ESB Messaging`: Integration Layer from Messaging Interfaces and JSON De-/Serialisation
   * `ZeroMQ`: Asynchronous Messaging using ZeroMQ&reg;
-  * `Pupil`: Eye Gaze Visualisation and Hit Generation
+  * `Pupil`: Eye Tracking Calibration Targets, Eye Gaze Visualisation and Gaze Hit Generation
 * UE Blueprint Plugins:
-  * `ISPW`: ISPW Sensorimotor-Lab CAVE Assets
+  * `ISPW`: ISPW Sensorimotor Laboratory CAVE Assets
   * `AprilTag Images`: AprilTag Fiducial Marker Set
   * `Play Area`: Visual Playing Area Boundary and Head Tracking Integration
   * `Sports Equipment`: Soccer and Tennis Balls with Physical Materials
@@ -163,7 +168,7 @@ Unreal Engine Project "SensorimotorLab" with specially implmented plugins as fol
 The plugin `ESB Messaging` comes with Jupyter Notebooks which one of them acts as messaging endpoint. Interactive integration testing was achieved by sending JSON messages over a network using a PUB-socket from ZeroMQ aka zmq.
 
 ![Screenshot of Jupyter Notebook ESB ZeroMQ Publish](DGE/ScreenshotEsbZmqPub.jpg "Screenshot of Jupyter Notebook ESB ZeroMQ Publish")
-<br>*Fig. 5.3.: Screenshot of Jupyter Notebook 'ESB ZeroMQ Publish'*
+<br>*Fig. 5.4.: Screenshot of Jupyter Notebook 'ESB ZeroMQ Publish'*
 
 ## 5.3. External References
 
