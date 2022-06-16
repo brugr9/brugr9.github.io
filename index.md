@@ -131,7 +131,7 @@ Readmes:
 
 *Distributed Real-time Rendering in Sensorimotor Laboratory CAVE*
 
-An Unreal Engine project based on the display cluster template "nDisplay" providing game-levels related to the Institute of Sports Science ISPW at University of Bern, more precisely for the sensorimotor lab of the institute with its five-sided CAVE. The lab integration is enabled by a newly developed messaging layer that is used to interact with an Event Broker. Custom-developed Unreal Engine plugins are used to control VR objects via the lab's experiment management system and render 360° videos and CAVE-specific 3D content. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
+An Unreal Engine project based on the display cluster template "nDisplay" providing game-levels related to the Institute of Sport Science ISPW at University of Bern, more precisely for the sensorimotor lab of the institute with its five-sided CAVE. The lab integration is enabled by a newly developed messaging layer that is used to interact with an Event Broker. Custom-developed Unreal Engine plugins are used to control VR objects via the lab's experiment management system and render 360° videos and CAVE-specific 3D content. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
 
 * **Index Terms:** Virtual Reality, CAVE, Real-time Rendering, Parallel Rendering, Warp and Blend, Cluster Rendering, Cluster Synchronisation, 3D, Steroscopy, 360° Video Playback, Motion Capture, Eye Tracking, Remote Management, Integration
 * **Technology:** Unreal Engine, Blueprint, C++-Plugin Development, UE nDisplay Cluster, Nvidia Mosaic, Nvidia Quadro with Sync, PTPd, w32tm, VLC Media Player, Windows Media Player, OptiTrack, PupilLabs, mRemoteNG, RDP, FTP, VNC, PowerShell, PuTTY, ZeroMQ, JSON/JSON-Schema
@@ -160,7 +160,7 @@ Unreal Engine Project "SensorimotorLab" with specially implmented plugins as fol
   * `ISPW`: ISPW Sensorimotor Laboratory CAVE Assets
   * `AprilTag Images`: AprilTag Fiducial Marker Set
   * `Play Area`: Visual Playing Area Boundary and Head Tracking Integration
-  * `Sports Equipment`: Soccer and Tennis Balls with Physical Materials
+  * `Sport Equipment`: Soccer and Tennis Balls with Physical Materials
   * `Immersive Video`: 360° Spherical Video Playback
 
 ### 5.2.2. Integration Testing
