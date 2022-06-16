@@ -165,7 +165,7 @@ Unreal Engine Project "SensorimotorLab" with specially implmented plugins as fol
 
 ### 5.2.2. Integration Testing
 
-The plugin `ESB Messaging` comes with Jupyter Notebooks which act as messaging endpoints. Interactive integration testing was achieved by sending JSON messages over a network using a PUB-socket from ZeroMQ aka zmq. Before sending the messages may be validated against an ESB Message JSON Schema (based on Draft-07, see <a href="https://www.tpf.philhum.unibe.ch/archives/schemas/UE4-ESBMessage-v1_0.schema.json" target="_blank">*UE4-ESBMessage-v1_0.schema.json*</a>).
+The plugin `ESB Messaging` comes with Jupyter Notebooks which act as messaging endpoints. Interactive integration testing was achieved by sending JSON messages over a network using a PUB-socket from ZeroMQ aka zmq. Before sending a message it may be validated against an ESB Message JSON Schema (based on Draft-07, see <a href="https://www.tpf.philhum.unibe.ch/archives/schemas/UE4-ESBMessage-v1_0.schema.json" target="_blank">*UE4-ESBMessage-v1_0.schema.json*</a>).
 
 ![Screenshot of Jupyter Notebook ESB ZeroMQ Publish](DGE/ScreenshotEsbZmqPub.jpg "Screenshot of Jupyter Notebook ESB ZeroMQ Publish")
 <br>*Fig. 5.4.: Screenshot of Jupyter Notebook 'ESB ZeroMQ Publish'*
