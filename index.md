@@ -165,7 +165,7 @@ Unreal Engine Project "SensorimotorLab" with specially implmented plugins as fol
 
 ### 5.2.2. Integration Testing
 
-The plugin `ESB Messaging` comes with Jupyter Notebooks which one of them acts as messaging endpoint. Interactive integration testing was achieved by sending JSON messages over a network using a PUB-socket from ZeroMQ aka zmq.
+The plugin `ESB Messaging` comes with Jupyter Notebooks which act as messaging endpoints. Interactive integration testing was achieved by sending JSON messages over a network using a PUB-socket from ZeroMQ aka zmq. Before sending the messages may be validated against an ESB Message JSON Schema (based on Draft-07, see <a href="https://www.tpf.philhum.unibe.ch/archives/schemas/UE4-ESBMessage-v1_0.schema.json" target="_blank">*UE4-ESBMessage-v1_0.schema.json*</a>).
 
 ![Screenshot of Jupyter Notebook ESB ZeroMQ Publish](DGE/ScreenshotEsbZmqPub.jpg "Screenshot of Jupyter Notebook ESB ZeroMQ Publish")
 <br>*Fig. 5.4.: Screenshot of Jupyter Notebook 'ESB ZeroMQ Publish'*
@@ -178,7 +178,7 @@ The plugin `ESB Messaging` comes with Jupyter Notebooks which one of them acts a
 der wissenschaftlichen Forschung (SNF)
 
 <!-- * <a href="https://viscon.de/4-seiten-cave-fuer-universitaet-bern/" target="_blank">*4-Seiten-CAVE für Universität Bern*</a>, 15 December 2016. In: Website of Viscon GmbH -->
-<!-- * [*Rendering to Multiple Displays with nDisplay*](https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html). In: Unreal Engine Documentation -->
+<!-- * <a href="https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html" target="_blank">*Rendering to Multiple Displays with nDisplay*</a>. In: Unreal Engine Documentation -->
 <!-- * <a href="https://tube.switch.ch/videos/WgB89iKX2u" target="_blank">*Forschung am ISPW*</a>. In: ISPW-Imagefilme on SWITCH tube, Published by André Klostermann, Universität Bern on 15 March 2022. -->
 <!-- * Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF) -->
 
