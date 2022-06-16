@@ -160,7 +160,7 @@ Unreal Engine Project "SensorimotorLab" with specially implmented plugins as fol
   * `ISPW`: ISPW Sensorimotor Laboratory CAVE Assets
   * `AprilTag Images`: AprilTag Fiducial Marker Set
   * `Play Area`: Visual Playing Area Boundary and Head Tracking Integration
-  * `Sport Equipment`: Soccer and Tennis Balls with Physical Materials
+  * `Sports Equipment`: Soccer and Tennis Balls with Physical Materials
   * `Immersive Video`: 360° Spherical Video Playback
 
 ### 5.2.2. Integration Testing
