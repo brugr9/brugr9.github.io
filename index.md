@@ -95,7 +95,7 @@ November &ndash; December 2018, Technology Platform for Research approved projec
 Experience of reality is highly flexible and unstable. This becomes apparent during the wake-sleep cycle when dreams appear real to us. To investigate alterations in the experience of reality and its underlying mechanism, a bizarre virtual environment is used to elicit altered experiences. Therefore, 3D objects and environments had to be created.
 
 * **Index Terms:** Virtual Reality, 3D Modelling, Animation, Rotating Surface Photography, UV Mapping, Cloth Simulation, Fluid Simulation
-* **Technology:** HTC VIVE Pro, Unreal Engine, UE C++-Plugin Development, Blender, GIMP, Nikon D80, Cannon EOS 60D, Nvidia Cloth, Nvidia Cataclysm
+* **Technology:** HTC VIVE Pro, Unreal&reg; Engine, UE C++-Plugin Development, Blender, GIMP, Nikon D80, Cannon EOS 60D, Nvidia Cloth, Nvidia Cataclysm
 
 January &ndash; July 2019, Technology Platform for Research approved project "3D Content for Dream-like VR" at Faculty of Human Sciences on behalf of Prof. Dr. Fred Mast, Institute of Psychology, Department of Cognitive Psychology, Perception and Research Methods at University of Bern
 
@@ -131,10 +131,10 @@ Readmes:
 
 *Distributed Real-time Rendering in Sensorimotor Laboratory CAVE*
 
-An Unreal Engine project based on the display cluster template "nDisplay" providing game-levels related to the Institute of Sport Science ISPW at University of Bern, more precisely for the Sensorimotor Lab of the institute with its five-sided CAVE. The lab integration is enabled by a newly developed messaging layer that is used to interact with an Event Broker. Custom-developed Unreal Engine plugins are used to control VR objects via the lab's experiment management system and render 360° videos and CAVE-specific 3D content. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
+An Unreal&reg; Engine project based on the display cluster template "nDisplay" providing game-levels related to the Institute of Sport Science ISPW at University of Bern, more precisely for the Sensorimotor Lab of the institute with its five-sided CAVE. The lab integration is enabled by a newly developed messaging layer that is used to interact with an Event Broker. Custom-developed Unreal&reg; Engine plugins are used to control VR objects via the lab's experiment management system and render 360° videos and CAVE-specific 3D content. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
 
 * **Index Terms:** Virtual Reality, CAVE, Real-time Rendering, Parallel Rendering, Warp and Blend, Cluster Rendering, Cluster Synchronisation, 3D, Steroscopy, 360° Video Playback, Motion Capture, Eye Tracking, Remote Management, Integration
-* **Technology:** Unreal Engine, Blueprint, C++-Plugin Development, UE nDisplay Cluster, Nvidia Mosaic, Nvidia Quadro with Sync, PTPd, w32tm, VLC Media Player, Windows Media Player, OptiTrack, PupilLabs, mRemoteNG, RDP, FTP, VNC, PowerShell, PuTTY, ZeroMQ, JSON/JSON-Schema
+* **Technology:** Unreal&reg; Engine, Blueprint, C++-Plugin Development, UE nDisplay Cluster, Nvidia Mosaic, Nvidia Quadro with Sync, PTPd, w32tm, VLC Media Player, Windows Media Player, OptiTrack, PupilLabs, mRemoteNG, RDP, FTP, VNC, PowerShell, PuTTY, ZeroMQ, JSON/JSON-Schema
 
 August 2019 &ndash; June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
@@ -146,7 +146,7 @@ The project documentation is currently not available for public.
 
 ### 5.2.1. UE Project and Plugins
 
-Unreal Engine Project "SensorimotorLab" with specially implmented plugins as follows:
+Unreal&reg; Engine Project "SensorimotorLab" with specially implmented plugins as follows:
 
 ![UE Project 'SensorimotorLab' Package Diagram with Plugins and Modules](DGE/DgePackageDiagram.jpg "UE Project 'SensorimotorLab' Package Diagram with Plugins and Modules")
 <br>*Fig. 5.3.: UE Project 'SensorimotorLab' Package Diagram with Plugins and Modules*
@@ -172,14 +172,13 @@ The plugin `ESB Messaging` comes with Jupyter Notebooks which act as messaging e
 
 ## 5.3. External References
 
+* <a href="https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/" target="_blank">*Rendering to Multiple Displays with nDisplay*</a>. In: Unreal&reg; Engine Documentation
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster" target="_blank">*UE4 Display Cluster in CAVE*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.ispw.unibe.ch/research/research_equipment/sensorimotor_labarotory/index_eng.html" target="_blank">*Research Equipment: Sensorimotor Lab*</a>. In: Website of the Institute of Sport Science, University of Bern
 * Santina Russe: <a href="https://www.horizonte-magazin.ch/2021/09/02/einblick-in-den-blick-von-topathletinnen/" target="_blank">*Der Blick von Topathletinnen wird optimiert*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung
 der wissenschaftlichen Forschung (SNF)
 
 <!-- * <a href="https://viscon.de/4-seiten-cave-fuer-universitaet-bern/" target="_blank">*4-Seiten-CAVE für Universität Bern*</a>, 15 December 2016. In: Website of Viscon GmbH -->
-<!-- * <a href="https://docs.unrealengine.com/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/index.html" target="_blank">*Rendering to Multiple Displays with nDisplay*</a>. In: Unreal Engine Documentation -->
-<!-- * <a href="https://tube.switch.ch/videos/WgB89iKX2u" target="_blank">*Forschung am ISPW*</a>. In: ISPW-Imagefilme on SWITCH tube, Published by André Klostermann, Universität Bern on 15 March 2022. -->
 <!-- * Gian Paul Lozza: <a href="https://www.horizonte-magazin.ch/2021/09/02/bildreportage-vermessene-bewegungen/" target="_blank">*Fotoreportage: Die Vermessung der kleinsten Bewegungen*</a>, 02. September 2021. In: Horizonte - Das Schweizer Forschungsmagazin, Fokus: Sport im Labor (Online), Hrsg: Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF) -->
 
 ---
@@ -193,10 +192,10 @@ der wissenschaftlichen Forschung (SNF)
 
 *Adds Blueprint Support for Asynchronous Messaging using NNG&trade; next generation of nanomsg&trade; Software*
 
-An Unreal Engine plugin enabling asynchronous, broker-less messaging using NNG&trade; next generation of nanomsg&trade; software from the Blueprint visual scripting system. The delivered assets provide transporting messages over a network and can be used in games to enable direct machine-to-machine communication, internet of things integration, or interaction with, e.g., an enterprise service bus or an event bus/broker resp. Other use cases could be data streaming or instant messaging from or into a game.
+An Unreal&reg; Engine plugin enabling asynchronous, broker-less messaging using NNG&trade; next generation of nanomsg&trade; software from the Blueprint visual scripting system. The delivered assets provide transporting messages over a network and can be used in games to enable direct machine-to-machine communication, internet of things integration, or interaction with, e.g., an enterprise service bus or an event bus/broker resp. Other use cases could be data streaming or instant messaging from or into a game.
 
 * **Index Terms:** Messaging, Integration, M2M, IoT, Network, TCP, INPROC, Socket, PubSub, Runtime
-* **Technology:** Unreal Engine, Blueprint, C++-Plugin Development, NNG&trade; next generation of nanomsg&trade;
+* **Technology:** Unreal&reg; Engine, Blueprint, C++-Plugin Development, NNG&trade; next generation of nanomsg&trade;
 
 April 2022, brug9 on Unreal Marketplace
 
