@@ -134,7 +134,7 @@ Readmes:
 An Unreal&reg; Engine project based on the display cluster template "nDisplay" providing game-levels related to the Institute of Sport Science ISPW at University of Bern, more precisely for the Sensorimotor Lab of the institute with its five-sided CAVE. The lab integration is enabled by a newly developed messaging layer that is used to interact with an Event Broker. Custom-developed Unreal&reg; Engine plugins are used to control VR objects via the lab's experiment management system and render 360° videos and CAVE-specific 3D content. Due to the plugin-based architecture, the integration solution is modular and can also be used in other laboratories of the faculty.
 
 * **Index Terms:** Virtual Reality, CAVE, Real-time Rendering, Parallel Rendering, Warp and Blend, Cluster Rendering, Cluster Synchronisation, 3D, Steroscopy, 360° Video Playback, Motion Capture, Eye Tracking, Remote Management, Integration
-* **Technology:** Unreal&reg; Engine, Blueprint, C++-Plugin Development, UE nDisplay Cluster, Nvidia Mosaic, Nvidia Quadro with Sync, PTPd, w32tm, VLC Media Player, Windows Media Player, OptiTrack, PupilLabs, mRemoteNG, RDP, FTP, VNC, PowerShell, PuTTY, ZeroMQ, JSON/JSON-Schema
+* **Technology:** Unreal&reg; Engine, Blueprint Visual Scripting, C++-Plugin Development, UE nDisplay Cluster, Nvidia Mosaic, Nvidia Quadro with Sync, PTPd, w32tm, VLC Media Player, Windows Media Player, OptiTrack, PupilLabs, mRemoteNG, RDP, FTP, VNC, PowerShell, PuTTY, ZeroMQ, JSON/JSON-Schema
 
 August 2019 &ndash; June 2021, Technology Platform for Research approved project "Distributed Game Engine DGE" at Faculty of Human Sciences on behalf of Prof. Dr. Ernst-Joachim Hossner, Institute of Sport Science ISPW, Department of Movement and Exercise Science at University of Bern
 
@@ -192,10 +192,10 @@ der wissenschaftlichen Forschung (SNF)
 
 *Adds Blueprint Support for Asynchronous Messaging using NNG&trade; next generation of nanomsg&trade; Software*
 
-An Unreal&reg; Engine plugin enabling asynchronous, broker-less messaging using NNG&trade; next generation of nanomsg&trade; software from the Blueprint visual scripting system. The delivered assets provide transporting messages over a network and can be used in games to enable direct machine-to-machine communication, internet of things integration, or interaction with, e.g., an enterprise service bus or an event bus/broker resp. Other use cases could be data streaming or instant messaging from or into a game.
+An Unreal&reg; Engine plugin enabling asynchronous, broker-less messaging using NNG&trade; next generation of nanomsg&trade; software from the Blueprint Visual Scripting system. The delivered assets provide transporting messages over a network and can be used in games to enable direct machine-to-machine communication, internet of things integration, or interaction with, e.g., an enterprise service bus or an event bus/broker resp. Other use cases could be data streaming or instant messaging from or into a game.
 
 * **Index Terms:** Messaging, Integration, M2M, IoT, Network, TCP, INPROC, Socket, PubSub, Runtime
-* **Technology:** Unreal&reg; Engine, Blueprint, C++-Plugin Development, NNG&trade; next generation of nanomsg&trade;
+* **Technology:** Unreal&reg; Engine, Blueprint Visual Scripting, C++-Plugin Development, NNG&trade; next generation of nanomsg&trade;
 
 April 2022, brug9 on Unreal Marketplace
 
@@ -210,9 +210,9 @@ April 2022, brug9 on Unreal Marketplace
 
 I have the following knowledge:
 
-* Proficient in working with UE Blueprints
-* Expert know-how in providing with UE Content-Plugins and writing C++-Plugins&mdash;also by the use of 3rd party libraries
-* Experience in Virtual Reality, Real-time Rendering, Motion Capture, Eye Tracking, Messaging and Integration in UE
+* Proficient in working with the UE Blueprint Visual Scripting system
+* Expert in providing with UE Content-Plugins and writing C++-Plugins&mdash;also by the use of 3rd party libraries
+* Experience in Virtual Reality, Real-time Rendering, Motion Capture, Eye Tracking, Messaging and Integration
 * Solid understanding of general workflows and artistic works in UE
 * Excellent organization skills with adherence to file structures and naming conventions
 
