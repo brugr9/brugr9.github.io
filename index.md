@@ -103,17 +103,17 @@ January &ndash; July 2019, Technology Platform for Research approved project "3D
 
 Documentation: ***<a href="https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767" target="_blank">3D Content for Dream-like VR &ndash; Report (pdf)</a>*** on SlideShare
 
-Readmes:
+### 4.2.1. UE Project and Plugins (Readme)
 
 * UE Project: [Dream Simulation Lab](DreamSimLab)
-* UE Code Plugin: [Bizarre BZR](BZR)
-* UE Content Plugin: [Virtual Learning Attendance VIRLA](VIRLA)
+* UE Code Plugin: [Bizarre BZR](BZR) &mdash; Dream-like bizarre 3D Objects and Data Tracking
+* UE Content Plugin: [Virtual Learning Attendance VIRLA](VIRLA) &mdash; Virtual Twin of Dream Laboratory Room D268 at Institute of Psychology, University Bern
 
 ## 4.3. External References
 
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-like VR*</a>. In: Online-Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * <a href="https://www.rts.ch/play/tv/redirect/detail/12161998?startTime=358)" target="_blank">*Le pouvoir de l'imaginaire*</a>. In: *Faut pas croire*, émission du 01.05.2021 (video playback start time 5:58), Play RTS, Radio Télevision Suisse
-* Denzer, Simone; Diezig, Sarah; Achermann, Peter; König, Thomas; Mast, Fred W. (2022). <a href="https://boris.unibe.ch/165396/" target="_blank">*BizarreVR: Dream-like bizarreness in immersive virtual reality induced changes in conscious experience of reality while leaving spatial presence intact*</a>. In: Consciousness and Cognition, 99, p. 103283. Elsevier <a href="http://dx.doi.org/10.1016/j.concog.2022.103283" target="_blank">10.1016/j.concog.2022.103283</a>
+* Denzer, Simone; Diezig, Sarah; Achermann, Peter; König, Thomas; Mast, Fred W. (2022). *BizarreVR: Dream-like bizarreness in immersive virtual reality induced changes in conscious experience of reality while leaving spatial presence intact*. In: Consciousness and Cognition, 99, p. 103283. Elsevier <a href="http://dx.doi.org/10.1016/j.concog.2022.103283" target="_blank">10.1016/j.concog.2022.103283</a>
 
 ---
 
