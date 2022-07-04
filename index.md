@@ -107,7 +107,7 @@ Documentation: ***<a href="https://www.slideshare.net/RolandBruggmann/3d-content
 
 * UE Project: [Dream Simulation Lab](DreamSimLab)
 * UE Code Plugin: [Bizarre BZR](BZR) &mdash; Dream-like bizarre 3D Objects and Data Tracking
-* UE Content Plugin: [Virtual Learning Attendance VIRLA](VIRLA) &mdash; Virtual Twin of Dream Laboratory Room D268 at Institute of Psychology, University Bern
+* UE Content Plugin: [Virtual Learning Attendance VIRLA](VIRLA) &mdash; Virtual Twin of Dream Laboratory Room D268
 
 ## 4.3. External References
 
