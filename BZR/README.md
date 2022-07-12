@@ -225,4 +225,28 @@ Screenshot of Telephone in Unreal Editor before and after starting Animation:
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-like VR*</a>. In: Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * Denzer, Simone; Diezig, Sarah; Achermann, Peter; König, Thomas; Mast, Fred W. (2022). *BizarreVR: Dream-like bizarreness in immersive virtual reality induced changes in conscious experience of reality while leaving spatial presence intact*. In: Consciousness and Cognition, 99, p. 103283. Elsevier <a href="http://dx.doi.org/10.1016/j.concog.2022.103283" target="_blank">10.1016/j.concog.2022.103283</a>
 
+## B. Additional Links
+
+Dream Symbols from *Didymos Lexikon der Traumsymbole für das Millennium*. Version 24, Revision 0.1, 12. April 2001:
+
+* Art-Print:
+  * Artikel *"Bild"*. URL: <a href="http://traumdeuter.ch/texte/980.htm" target="blank">http://traumdeuter.ch/texte/980.htm</a>
+  * Artikel *"See"*. URL: <a href="http://traumdeuter.ch/texte/8385.htm" target="blank">http://traumdeuter.ch/texte/8385.htm</a>
+  * Artikel *"Wasser"*. URL: <a href="http://traumdeuter.ch/texte/7165.htm" target="blank">http://traumdeuter.ch/texte/7165.htm</a>
+  * Artikel *"Wasserfall"*. URL: <a href="http://traumdeuter.ch/texte/7169.htm" target="blank">http://traumdeuter.ch/texte/7169.htm</a>
+  * Artikel *"Pfütze"*. URL: <a href="http://traumdeuter.ch/texte/3330.htm" target="blank">http://traumdeuter.ch/texte/3330.htm</a>
+* Book:
+  * Artikel *"Buch"*. URL: <a href="http://traumdeuter.ch/texte/1399.htm" target="blank">http://traumdeuter.ch/texte/1399.htm</a>
+* Jacket:
+  * Artikel *"Jackett"*. URL: <a href="http://traumdeuter.ch/texte/4230.htm" target="blank">http://traumdeuter.ch/texte/4230.htm</a>
+  * Artikel *"schweben"*. URL: <a href="http://traumdeuter.ch/texte/8330.htm" target="blank">http://traumdeuter.ch/texte/8330.htm</a>
+* Marker-Pen:
+  * Artikel *"Stift"*. URL: <a href="http://traumdeuter.ch/texte/8884.htm" target="blank">http://traumdeuter.ch/texte/8884.htm</a>
+  * Artikel *"Groß"*. URL: <a href="http://traumdeuter.ch/texte/1019.htm" target="blank">http://traumdeuter.ch/texte/1019.htm</a>
+* Telephone:
+  * Artikel *"Telefon"*. URL: <a href="http://traumdeuter.ch/texte/6232.htm" target="blank">http://traumdeuter.ch/texte/6232.htm</a>
+  * Artikel *"Rosa (Farbe)"*. URL: <a href="http://traumdeuter.ch/texte/6001.htm" target="blank">http://traumdeuter.ch/texte/6001.htm</a>
+
+
+
 [<< Back to Main Page](..)
