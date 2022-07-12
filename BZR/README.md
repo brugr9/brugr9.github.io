@@ -71,6 +71,7 @@ Use the plugin as project plugin (folder *MyProject/Plugins*).
   * [3.4. Marker-Pen](#34-marker-pen)
   * [3.5. Telephone](#35-telephone)
 * [A. References](#a-references)
+* [B. Dream Symbols](#b-dream-symbols)
 
 <!-- End Document Outline -->
 
