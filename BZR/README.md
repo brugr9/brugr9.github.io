@@ -225,28 +225,26 @@ Screenshot of Telephone in Unreal Editor before and after starting Animation:
 * <a href="https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR" target="_blank">*3D Content for Dream-like VR*</a>. In: Portfolio of Technology Platform for Research TPF, Faculty of Human Sciences, University of Bern
 * Denzer, Simone; Diezig, Sarah; Achermann, Peter; König, Thomas; Mast, Fred W. (2022). *BizarreVR: Dream-like bizarreness in immersive virtual reality induced changes in conscious experience of reality while leaving spatial presence intact*. In: Consciousness and Cognition, 99, p. 103283. Elsevier <a href="http://dx.doi.org/10.1016/j.concog.2022.103283" target="_blank">10.1016/j.concog.2022.103283</a>
 
-## B. Additional Links
-
-Dream Symbols from *Didymos Lexikon der Traumsymbole für das Millennium*. Version 24, Revision 0.1, 12. April 2001:
+## B. Dream Symbols
 
 * Art-Print:
-  * Artikel *"Bild"*. URL: <a href="http://traumdeuter.ch/texte/980.htm" target="blank">http://traumdeuter.ch/texte/980.htm</a>
-  * Artikel *"See"*. URL: <a href="http://traumdeuter.ch/texte/8385.htm" target="blank">http://traumdeuter.ch/texte/8385.htm</a>
-  * Artikel *"Wasser"*. URL: <a href="http://traumdeuter.ch/texte/7165.htm" target="blank">http://traumdeuter.ch/texte/7165.htm</a>
-  * Artikel *"Wasserfall"*. URL: <a href="http://traumdeuter.ch/texte/7169.htm" target="blank">http://traumdeuter.ch/texte/7169.htm</a>
-  * Artikel *"Pfütze"*. URL: <a href="http://traumdeuter.ch/texte/3330.htm" target="blank">http://traumdeuter.ch/texte/3330.htm</a>
+  * Artikel *"Bild"*. URL: <a href="https://traum-deutung.de/bild/" target="blank">https://traum-deutung.de/bild/</a>
+  * Artikel *"See"*. URL: <a href="https://traum-deutung.de/see/" target="blank">https://traum-deutung.de/see/</a>
+  * Artikel *"Wasser"*. URL: <a href="https://traum-deutung.de/wasser/" target="blank">https://traum-deutung.de/wasser/</a>
+  * Artikel *"Wasserfall"*. URL: <a href="https://traum-deutung.de/wasserfall/" target="blank">https://traum-deutung.de/wasserfall/</a>
+  * Artikel *"Pfütze"*. URL: <a href="https://traum-deutung.de/pfuetze/" target="blank">https://traum-deutung.de/pfuetze/</a>
 * Book:
-  * Artikel *"Buch"*. URL: <a href="http://traumdeuter.ch/texte/1399.htm" target="blank">http://traumdeuter.ch/texte/1399.htm</a>
+  * Artikel *"Buch"*. URL: <a href="https://traum-deutung.de/buch/" target="blank">https://traum-deutung.de/buch/</a>
 * Jacket:
-  * Artikel *"Jackett"*. URL: <a href="http://traumdeuter.ch/texte/4230.htm" target="blank">http://traumdeuter.ch/texte/4230.htm</a>
-  * Artikel *"schweben"*. URL: <a href="http://traumdeuter.ch/texte/8330.htm" target="blank">http://traumdeuter.ch/texte/8330.htm</a>
+  * Artikel *"Jacke"*. URL: <a href="https://traum-deutung.de/jacke/" target="blank">https://traum-deutung.de/jacke/</a>
+  * Artikel *"schweben"*. URL: <a href="https://traum-deutung.de/schweben/" target="blank">https://traum-deutung.de/schweben/</a>
 * Marker-Pen:
-  * Artikel *"Stift"*. URL: <a href="http://traumdeuter.ch/texte/8884.htm" target="blank">http://traumdeuter.ch/texte/8884.htm</a>
-  * Artikel *"Groß"*. URL: <a href="http://traumdeuter.ch/texte/1019.htm" target="blank">http://traumdeuter.ch/texte/1019.htm</a>
+  * Artikel *"Stift"*. URL: <a href="https://traum-deutung.de/stift/" target="blank">https://traum-deutung.de/stift/</a>
+  * Artikel *"Farben: Rot, Gelb, Blau &ndash; die Grundfarben in Träumen"*. URL: <a href="https://traum-deutung.de/farben/#Rot_Gelb_Blau__die_Grundfarben_in_Traeumen" target="blank">https://traum-deutung.de/farben/#Rot_Gelb_Blau__die_Grundfarben_in_Traeumen</a>
 * Telephone:
-  * Artikel *"Telefon"*. URL: <a href="http://traumdeuter.ch/texte/6232.htm" target="blank">http://traumdeuter.ch/texte/6232.htm</a>
-  * Artikel *"Rosa (Farbe)"*. URL: <a href="http://traumdeuter.ch/texte/6001.htm" target="blank">http://traumdeuter.ch/texte/6001.htm</a>
+  * Artikel *"Telefon"*. URL: <a href="https://traum-deutung.de/telefon/" target="blank">https://traum-deutung.de/telefon/</a>
+  * Artikel *"Farben: Nur etwas für Mädchen? Rosa und Pink in Träumen"*. URL: <a href="https://traum-deutung.de/farben/#Nur_etwas_fuer_Maedchen_Rosa_und_Pink_in_Traeumen" target="blank">https://traum-deutung.de/farben/#Nur_etwas_fuer_Maedchen_Rosa_und_Pink_in_Traeumen</a>
 
-
+In: *Lexikon der Traumsymbole (online)*. Adbyte GmbH, Gerald Mann, Loddenheide 8, D-48155 Münster. URL: <a href="https://traum-deutung.de" target="blank">https://traum-deutung.de</a>
 
 [<< Back to Main Page](..)
